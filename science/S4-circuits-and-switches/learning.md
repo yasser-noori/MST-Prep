@@ -1,7 +1,5 @@
 # S4 — Circuits and switches: Learning
 
-> **Scaffold status:** this page is an outline. The teaching content and worked example are written in the S4 authoring issue. Until then, use the skill list below as a study checklist.
-
 [← Back to the index](../../README.md) · [Go to the S4 practice questions →](doing.md)
 
 ## 1. What you remember
@@ -17,26 +15,42 @@
 
 All questions here are original practice. They are not copies of real test questions.
 
-## 2. Core skills taught on this page
+## 2. Four ways to trace a circuit
 
-- Decide whether a closed path exists from one battery terminal to the other.
-- Read open and closed switches on a shared path and on separate branches.
-- Compare series and parallel arrangements.
-- Infer which switches must, could, or cannot be closed from observed bulbs.
-- Recognize conductors and insulators completing or breaking a path.
+**Trace between terminals.** Start at one battery terminal and follow a wire through the bulb to the other terminal. A bulb needs a complete conducting path. Check beyond the bulb as well as before it. A break on either side interrupts the loop.
 
-## 3. Core patterns
+**Find the split and the reunion.** Two bulbs in a single row share the same current path. Parallel branches split at a junction and meet again at another junction. Trace each branch separately. To check whether a switch controls every branch, cover it with a finger and look for a way around your finger.
 
-<!-- Authoring: write three or four patterns. For each give: the clue to notice, the decision to make, and how to check it. -->
+**Work backward from the lights.** A lit bulb proves its path conducts. A dark bulb may have several possible breaks. Mark everything a lit bulb proves is closed, then use the dark bulbs to narrow down the rest. If two settings still explain the same display, try drawing both.
 
-_To be written in the S4 authoring issue._
+**Test a material in a known loop.** A conductor bridges a gap if it touches both contacts. An insulator leaves the path broken. Before interpreting a dark bulb, bridge the gap with a known conductor and check that the bulb can light. Make sure there is no other route around the sample.
 
-## 4. Worked example
+## 3. Worked example
 
-<!-- Authoring: exactly one original A–E question, the decisive step, and why the most tempting wrong answer is wrong. This example does not count toward the 30 drills. -->
+The marks `(+)` and `(-)` are the two terminals of one battery. Lines are wires and each `*` in a diagram is a connected junction. Bulbs appear in parentheses, switches in square brackets and test gaps in braces. A closed switch conducts and an open switch breaks its path. Use the switch states in each question. Assume a working battery, intact bulbs and ideal contacts unless a question describes a break. Consider only whether bulbs light.
 
-_To be written in the S4 authoring issue._
+A reading lamp has two bulbs. Which switch settings light only the desk bulb?
 
-## 5. Practise
+```text
+(+)--[M]--*--[P]--(Desk)---*--(-)
+          |                |
+          *--[Q]--(Shelf)--*
+```
 
-Go to [S4 practice questions (doing.md)](doing.md). Commit to an answer for each question before you open the answer key.
+Switch settings are listed in the order M, P, Q.
+
+A. Open, closed, open
+
+B. Closed, closed, closed
+
+C. Closed, closed, open
+
+D. Closed, open, closed
+
+E. Open, closed, closed
+
+**Answer C.** Trace from (+) through M and P, through Desk and back to (−). Opening Q breaks the Shelf branch alone. Choice A sets both branch switches correctly, but the open M breaks the shared wire before the split.
+
+## 4. Practise
+
+[Open the S4 circuits and switches drills](doing.md).
