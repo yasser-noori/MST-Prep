@@ -1,7 +1,5 @@
 # S1 — Ecology and ecosystems: Learning
 
-> **Scaffold status:** this page is an outline. The teaching content and worked example are written in the S1 authoring issue. Until then, use the skill list below as a study checklist.
-
 [← Back to the index](../../README.md) · [Go to the S1 practice questions →](doing.md)
 
 ## 1. What you remember
@@ -28,17 +26,74 @@ All questions here are original practice. They are not copies of real test quest
 - Identify resources (water, light, shelter, space, nutrients) and competition for them.
 - Separate direct effects from indirect effects in a food web.
 
+### Key words
+
+| Word | Meaning in a question |
+|---|---|
+| Producer | Makes its own food (usually from sunlight). Plants, algae, phytoplankton. |
+| Consumer | Gets energy by eating other organisms. |
+| Herbivore | A consumer that eats only plants or algae. |
+| Carnivore | A consumer that eats only animals. |
+| Omnivore | A consumer that eats both plants and animals. |
+| Decomposer | Breaks down dead material and returns nutrients to the soil or water (for example, fungi and many bacteria). |
+| Predator / prey | The predator eats the prey. These words always describe a **pair** of organisms. |
+| Habitat | The place where an organism lives and finds its food, water, and shelter. |
+| Resource | Something an organism needs from its surroundings: food, water, light, shelter, space, nutrients. |
+| Competition | Two or more organisms need the **same** resource and there is not enough for all of them. |
+
 ## 3. Core patterns
 
-<!-- Authoring: write three or four patterns. For each give: the clue to notice, the decision to make, and how to check it. -->
+### Pattern 1 — Roles are relative
 
-_To be written in the S1 authoring issue._
+- **Clue to notice:** the question asks whether an organism is a "predator" or "prey", or asks which organism is "both".
+- **Decision to make:** relative to *which* other organism? List what the organism eats (it is a predator of those animals) and what eats it (it is prey of those). One animal can be both at once.
+- **How to check:** say the pair out loud as a sentence: "The ___ eats the ___." If the sentence is not stated in the question or shown by an arrow, the relationship does not exist in this question. Use only the feeding relationships given; never add diets from memory.
+
+### Pattern 2 — Arrows point from the eaten to the eater
+
+- **Clue to notice:** a food chain or web drawn with arrows, or a choice written as `A → B → C`.
+- **Decision to make:** an arrow shows where the **energy goes**, so it points *toward the organism that does the eating*. `Grass → Rabbit` means the rabbit eats the grass. A correct chain starts with a producer.
+- **How to check:** read each arrow as "is eaten by". `Grass → Rabbit → Fox` reads "grass is eaten by rabbit, rabbit is eaten by fox." If any link reads backwards ("fox is eaten by rabbit"), the arrows are reversed.
+
+### Pattern 3 — Find the resource that is actually in short supply
+
+- **Clue to notice:** organisms grow poorly, move away, or fight over something; or two setups are compared.
+- **Decision to make:** which resource is missing or shared? Name it from the list (water, light, shelter, space, nutrients, food). Ignore resources the question says are plentiful. If two setups differ in **more than one** resource, you cannot tell which one caused the difference.
+- **How to check:** ask "If I supplied more of this one resource, would the problem go away?" Then check that nothing else in the stem was also changed.
+
+### Pattern 4 — Direct versus indirect effects
+
+- **Clue to notice:** an organism is removed, added, or changes in number, and the question asks about a different organism.
+- **Decision to make:** is the organism asked about joined to the changed one by a single arrow (a **direct** effect: it loses food or loses a predator), or only through a middle organism (an **indirect** effect)? For indirect effects, follow the chain one link at a time.
+- **How to check:** write each step as "X goes down, so Y (which eats X / is eaten by X) goes ___." Never write "unaffected" just because there is no arrow between two organisms.
 
 ## 4. Worked example
 
-<!-- Authoring: exactly one original A–E question, the decisive step, and why the most tempting wrong answer is wrong. This example does not count toward the 30 drills. -->
+**Question.** In a coastal kelp forest, the only feeding relationships are shown below. Arrows point from the organism eaten to the eater.
 
-_To be written in the S1 authoring issue._
+```mermaid
+graph LR
+    Kelp[Kelp] --> Urchin[Sea urchin]
+    Urchin --> Otter[Sea otter]
+```
+
+Hunters remove most of the sea otters. What is the most likely effect on the kelp?
+
+A. Kelp is unaffected, because sea otters do not eat kelp.
+
+B. Kelp increases, because there are now fewer animals in the forest.
+
+C. Kelp decreases, because sea urchins, no longer eaten by otters, increase and eat more kelp.
+
+D. Sea urchins decrease, because they have lost their predator.
+
+E. Kelp decreases, because sea otters were producers that made food for the kelp.
+
+**Answer: C.**
+
+**Decisive step (Pattern 4):** there is no arrow between otters and kelp, so the effect must travel through the middle organism. Fewer otters → fewer urchins are eaten → urchins **increase** → more kelp is eaten → kelp **decreases**.
+
+**Why the tempting wrong answer fails:** choice A treats "no arrow between them" as "no effect". That is only true for *direct* effects. Kelp is affected *indirectly*, through the urchins. Choice D reverses the first step: losing a predator lets a population grow, not shrink. Choice E invents a role; the kelp is the producer here.
 
 ## 5. Practise
 
