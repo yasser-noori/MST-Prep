@@ -1,7 +1,5 @@
 # S5 — Forces and balance: Learning
 
-> **Scaffold status:** this page is an outline. The teaching content and worked example are written in the S5 authoring issue. Until then, use the skill list below as a study checklist.
-
 [← Back to the index](../../README.md) · [Go to the S5 practice questions →](doing.md)
 
 ## 1. What you remember
@@ -17,26 +15,48 @@
 
 All questions here are original practice. They are not copies of real test questions.
 
-## 2. Core skills taught on this page
+## 2. Four ways to reason about forces
 
-- Identify the pivot and the turning direction of each load.
-- Compare turning effects using load × distance from the pivot.
-- Find a missing load or distance that balances a beam.
-- Predict which side drops when a load or position changes.
-- Read force arrows to decide whether forces are balanced.
+### Locate the point that stays put
 
-## 3. Core patterns
+Watch a pair of scissors open. The blades and handles turn around the screw. That screw is the **pivot**. Your fingers supply the **effort** at the handles, and the material being cut supplies resistance at the blades. To check the labels, imagine moving just one handle. Which point does it turn around?
 
-<!-- Authoring: write three or four patterns. For each give: the clue to notice, the decision to make, and how to check it. -->
+### Compare the turns
 
-_To be written in the S5 authoring issue._
+On a level beam, a hanging load to the left of the pivot tends to lower the left end. A load to the right tends to lower the right end. The turning effect of a vertical force is its size multiplied by its horizontal distance from the pivot. Measure from the pivot, even when the ruler starts somewhere else. A weight hung directly at the pivot has zero turning effect.
 
-## 4. Worked example
+### Add before you compare
 
-<!-- Authoring: exactly one original A–E question, the decisive step, and why the most tempting wrong answer is wrong. This example does not count toward the 30 drills. -->
+If two weights hang on one side, find the turning effect of **each** weight, then add those effects. For a level beam to balance, the totals on opposite sides must match. When a load moves, cross out its old contribution and enter the new one. As a check, moving the same load farther out on the same side must increase that side’s turning effect.
 
-_To be written in the S5 authoring issue._
+### Read force arrows along one line
 
-## 5. Practise
+For a cart pushed directly along a straight track, add the forces pointing right and add the forces pointing left. Equal totals give zero net horizontal force. A larger total to the left means the velocity changes toward the left. A cart already travelling right can therefore slow down while still moving right. Check whether the question asks about its motion now or how that motion changes.
 
-Go to [S5 practice questions (doing.md)](doing.md). Commit to an answer for each question before you open the answer key.
+## 3. Worked example
+
+A weightless beam rests level on a pivot at mark 0. The marks are equally spaced. A 6 N load hangs at L2 and a 2 N load hangs at R3. Where should you hang one additional 3 N load to keep the beam level when released?
+
+```text
+      6 N                          2 N
+      v                            v
+L3----L2----L1----0----R1----R2----R3
+                  ^
+                pivot
+```
+
+A. L2
+
+B. R1
+
+C. R2
+
+D. R3
+
+E. R4, one mark beyond R3
+
+**Answer C.** The left load produces 6 × 2 = 12 N-marks and the right load already produces 2 × 3 = 6 N-marks. The missing turn is 6 N-marks on the right. A 3 N load supplies it at R2. Choice E would supply the whole 12 N-marks again and lower the right end.
+
+## 4. Practise
+
+[Open the S5 practice questions](doing.md). Record your answer and confidence before checking the key.

@@ -1,54 +1,647 @@
 # S5 — Forces and balance: Doing
 
-> **Scaffold status:** no drill questions have been written yet. The S5 authoring issue will add exactly 30 original A–E questions (S5-Q01 to S5-Q30) to this file.
-
 [← Back to the index](../../README.md) · [Review the S5 learning page](learning.md)
 
-## How to use this page
+These original questions practise forces and balance, a topic you recognized in follow-up. The everyday tools and force-arrow problems are extensions.
 
-1. Answer each question on paper **before** looking at the key.
-2. Mark each attempt: ✅ correct, 🤔 guessed (even if right), ❌ wrong, ⏭️ skipped.
-3. Review guesses as carefully as misses.
-4. Questions S5-Q26 to S5-Q30 are saved for the final weekend. Do not open them early.
+Work on paper. Mark each attempt correct, guessed, wrong or skipped before checking the key. Review guesses as well as misses. Save Q26–Q30 for the final weekend.
 
-## Planned question families
-
-- Numerical beam balance: find the distance.
-- Numerical beam balance: find the load.
-- Which side drops after a change.
-- Several loads on one side.
-- Qualitative seesaw diagrams without numbers.
-- Levers in everyday tools: pivot, load, and effort.
-- Balanced versus unbalanced force arrows.
-
-**Boundaries:**
-- State assumptions in each item: weightless beam, equal spacing between marks, loads hung at marks.
-
-**Diagram approach:** Draw beams as fenced ASCII with numbered marks and a clearly marked pivot.
-
-## Questions
-
-<!-- Authoring: replace this comment with S5-Q01 to S5-Q30.
-Each question starts with an anchor and a neutral heading, e.g.
+## Q01–Q05
 
 <a id="s5-q01"></a>
 ### S5-Q01
 
-Stem...
+A level, weightless beam has equally spaced marks and a pivot at mark 0. A 4 N load hangs at L3.
 
-A. ...
-B. ...
-C. ...
-D. ...
-E. ...
+```text
+4 N
+v
+L3------L2------L1------0-------R1------R2------R3------R4
+                        ^ pivot
+```
 
-Six blocks of five (Q01–05, Q06–10, ...). Each block: 3 Medium + 2 Challenge, varied order. No tier labels here. -->
+Where should a 6 N load hang to balance it?
 
-_Questions not yet written._
+A. R4
+
+B. R3
+
+C. L2
+
+D. R2
+
+E. R1
+
+<a id="s5-q02"></a>
+### S5-Q02
+
+A wheelbarrow is lifted by its handles. Its wheel stays on the ground while the soil in its tray rises. Treat the wheel axle as the fixed point about which the frame turns. Which list gives the pivot, the load being lifted, and the place where effort is applied, in order?
+
+A. Soil, axle, handles
+
+B. Axle, handles, soil
+
+C. Axle, soil, handles
+
+D. Handles, soil, axle
+
+E. Soil, handles, axle
+
+<a id="s5-q03"></a>
+### S5-Q03
+
+A level, weightless beam has equally spaced marks and a pivot at mark 0. A 5 N load hangs at L2 and a 3 N load at R4.
+
+```text
+                5 N                                             3 N
+                v                                               v
+L4------L3------L2------L1------0-------R1------R2------R3------R4
+                                ^ pivot
+```
+
+Which single change would balance the beam?
+
+A. Move the right load to R3.
+
+B. Add a 2 N load at R1.
+
+C. Add a 2 N load at L1.
+
+D. Move the left load to L3.
+
+E. Hang a 2 N load at the pivot.
+
+<a id="s5-q04"></a>
+### S5-Q04
+
+Two children pull a sled along the same straight rope line. The arrows give all horizontal forces. What is the net horizontal force?
+
+```text
+8 N left  <-- [sled] --> 5 N right
+```
+
+A. 3 N right
+
+B. 13 N right
+
+C. 3 N left
+
+D. 0 N
+
+E. 13 N left
+
+<a id="s5-q05"></a>
+### S5-Q05
+
+A level, weightless beam has equally spaced marks and a pivot at mark 0. A bag hangs at L3. Two identical small weights hang together at R2. The beam balances.
+
+```text
+bag                                     2 wts
+v                                       v
+L3------L2------L1------0-------R1------R2------R3
+                        ^ pivot
+```
+
+One small weight is removed. Where should the bag be hung to restore balance if it may hang between marks?
+
+A. L1
+
+B. Halfway between L1 and L2
+
+C. L3
+
+D. Halfway between L2 and L3
+
+E. L2
+
+## Q06–Q10
+
+<a id="s5-q06"></a>
+### S5-Q06
+
+A level, weightless beam has equally spaced marks and a pivot at mark 0. A 4 N load hangs at L3 and a mystery load hangs at R2. The beam balances.
+
+```text
+4 N                                     ? N
+v                                       v
+L3------L2------L1------0-------R1------R2
+                        ^ pivot
+```
+
+How heavy is the mystery load?
+
+A. 12 N
+
+B. 2 N
+
+C. 4 N
+
+D. 6 N
+
+E. 8 N
+
+<a id="s5-q07"></a>
+### S5-Q07
+
+A puck is sliding east along a straight track. At this instant the only horizontal forces are 3 N east and 7 N west, both through its centre. Which description fits the next instant, before the puck can stop?
+
+A. It moves east at constant speed.
+
+B. It moves east and slows down.
+
+C. It moves east and speeds up.
+
+D. It moves west immediately.
+
+E. It remains at rest.
+
+<a id="s5-q08"></a>
+### S5-Q08
+
+A hand presses straight down on a level spanner. Its head fits around a nut that acts as the pivot. You can press 4 cm, 8 cm or 12 cm from the nut. At which point will the same push have the greatest turning effect?
+
+A. Every position has the same effect.
+
+B. 8 cm from the nut
+
+C. Directly over the nut
+
+D. 4 cm from the nut
+
+E. 12 cm from the nut
+
+<a id="s5-q09"></a>
+### S5-Q09
+
+A level, weightless beam has equally spaced marks and a pivot at mark 0. Two identical stones hang at L1 and R3, one stone per mark.
+
+```text
+                stone                           stone
+                v                               v
+L3------L2------L1------0-------R1------R2------R3
+                        ^ pivot
+```
+
+Which description fits the instant after release from rest?
+
+A. Left end starts to drop.
+
+B. It stays level.
+
+C. Both ends start to drop together.
+
+D. Right end starts to drop.
+
+E. The pivot starts to rise.
+
+<a id="s5-q10"></a>
+### S5-Q10
+
+A level, weightless beam has equally spaced marks and a pivot at mark 0. Loads of 3 N at L4 and 2 N at L1 are balanced by a single load at R2.
+
+```text
+3 N                     2 N                     ? N
+v                       v                       v
+L4------L3------L2------L1------0-------R1------R2------R3------R4
+                                ^ pivot
+```
+
+The right load is moved to R1. How much extra weight must be hung at R1 with it to restore balance?
+
+A. 2 N
+
+B. 14 N
+
+C. 3.5 N
+
+D. 5 N
+
+E. 7 N
+
+## Q11–Q15
+
+<a id="s5-q11"></a>
+### S5-Q11
+
+A level, weightless beam has equally spaced marks and a pivot at mark 4. A 2 N load hangs at mark 1 and a 3 N load at mark 6.
+
+```text
+        2 N                                     3 N
+        v                                       v
+0-------1-------2-------3-------4-------5-------6-------7-------8
+                                ^ pivot
+```
+
+Which statement describes the initial turn?
+
+A. The beam stays level.
+
+B. The direction depends on the size of one mark.
+
+C. The end near mark 1 drops.
+
+D. The end near mark 6 drops.
+
+E. Both ends rise.
+
+<a id="s5-q12"></a>
+### S5-Q12
+
+Two horizontal pushes and one horizontal pull act on a crate along the same line. All three are shown. Which force would bring their total to zero?
+
+```text
+4 N left <-- [crate] --> 6 N right
+                     --> 3 N right
+```
+
+A. 5 N right
+
+B. 1 N right
+
+C. 5 N left
+
+D. 9 N left
+
+E. 13 N left
+
+<a id="s5-q13"></a>
+### S5-Q13
+
+A level, weightless beam has equally spaced marks and a pivot at mark 0. A load hangs at L2 and an identical load hangs at R2.
+
+```text
+        load                            load
+        v                               v
+L3------L2------L1------0-------R1------R2------R3
+                        ^ pivot
+```
+
+A third load is now hung at mark 0. What happens on release?
+
+A. The result depends on the third load’s weight.
+
+B. The left end drops because it was loaded first.
+
+C. The heavier combined load makes one side drop.
+
+D. The right end drops because it has the last numbered mark.
+
+E. The beam stays level.
+
+<a id="s5-q14"></a>
+### S5-Q14
+
+One horizontal handle turns a water valve. A worker can push perpendicular to the handle in the same turning direction using any one of the following settings. Which gives the greatest turning effect?
+
+A. 3 N at 12 cm
+
+B. 6 N at 6 cm
+
+C. 8 N at 5 cm
+
+D. 4 N at 10 cm
+
+E. 5 N at 9 cm
+
+<a id="s5-q15"></a>
+### S5-Q15
+
+A suitcase hangs motionless from a single vertical luggage scale. The Earth pulls downward on the suitcase with 38 N. Air forces are negligible. Which force balances that pull on the suitcase?
+
+A. A 76 N upward pull from the scale
+
+B. A 38 N upward pull from the scale
+
+C. A 38 N downward pull from the suitcase on the scale
+
+D. A 19 N upward pull from the scale
+
+E. A 38 N horizontal pull from the handle
+
+## Q16–Q20
+
+<a id="s5-q16"></a>
+### S5-Q16
+
+A level, weightless beam has equally spaced marks and a pivot at mark 0. A 2 N load hangs at L4 and another 2 N load hangs at L2.
+
+```text
+2 N             2 N
+v               v
+L4------L3------L2------L1------0-------R1------R2------R3------R4
+                                ^ pivot
+```
+
+What turning effect must a right-side load produce to balance the beam?
+
+A. 24 N-marks
+
+B. 6 N-marks
+
+C. 4 N-marks
+
+D. 12 N-marks
+
+E. 8 N-marks
+
+<a id="s5-q17"></a>
+### S5-Q17
+
+A waiter lifts the lid of a hinged food warmer. A spring scale pulls straight up on the level lid at a point 20 cm from the hinge. Which measurement locates the pivot for calculating the turn?
+
+A. The position of the hinge pin
+
+B. The centre of the scale dial
+
+C. The position of the lid’s far edge
+
+D. The position of the scale hook
+
+E. The height of the warmer above the floor
+
+<a id="s5-q18"></a>
+### S5-Q18
+
+A level, weightless beam has equally spaced marks and a pivot at mark 0. A 6 N load hangs at L2 and a 4 N load hangs at R3.
+
+```text
+        6 N                                     4 N
+        v                                       v
+L3------L2------L1------0-------R1------R2------R3
+                        ^ pivot
+```
+
+Both loads move one mark toward the pivot. What happens when the beam is released?
+
+A. Right drops because the right turn is now 8 and the left turn is 6.
+
+B. It stays level because neither weight changed.
+
+C. Left drops because the left load is heavier.
+
+D. Left drops because it is closer to the pivot.
+
+E. It stays level because both moved the same distance.
+
+<a id="s5-q19"></a>
+### S5-Q19
+
+A lift is moving downward in a straight line. At the instant shown, the only forces on it are a 900 N upward cable pull and 900 N downward gravity. If these forces stay the same, what happens next?
+
+A. It speeds up downward.
+
+B. It starts moving upward.
+
+C. It continues downward at constant speed.
+
+D. It stops immediately.
+
+E. It slows to a stop.
+
+<a id="s5-q20"></a>
+### S5-Q20
+
+A level, weightless beam has equally spaced marks and a pivot at mark 0. An unknown weight hangs at L4 and a second unknown weight hangs at R2. The beam is balanced.
+
+```text
+? N                                             ? N
+v                                               v
+L4------L3------L2------L1------0-------R1------R2------R3------R4
+                                ^ pivot
+```
+
+What can you determine without knowing either weight in newtons?
+
+A. The left weight is exactly 2 N.
+
+B. The left weight is twice the right weight.
+
+C. The right weight is exactly 4 N.
+
+D. The right weight is twice the left weight.
+
+E. The two weights are equal.
+
+## Q21–Q25
+
+<a id="s5-q21"></a>
+### S5-Q21
+
+A crowbar lifts the edge of a stone slab. A small block under the bar stays fixed and supports the point where the bar turns. A worker pushes down on the long end. Which part serves as the pivot?
+
+A. The tip of the long handle
+
+B. The centre of the slab
+
+C. The contact between the bar and the slab
+
+D. The worker’s palm
+
+E. The contact between the bar and the small block
+
+<a id="s5-q22"></a>
+### S5-Q22
+
+A level, weightless beam has equally spaced marks and a pivot at mark 0. A 6 N load hangs at L2. A 3 N load may hang at any of R1, R2, R3 or R4.
+
+```text
+        6 N
+        v
+L3------L2------L1------0-------R1------R2------R3------R4
+                        ^ pivot
+```
+
+At how many of those four settings will the left end start to drop?
+
+A. 3 settings
+
+B. 4 settings
+
+C. 2 settings
+
+D. 1 setting
+
+E. 0 settings
+
+<a id="s5-q23"></a>
+### S5-Q23
+
+A model boat feels two horizontal forces pointing east, 4 N and 6 N. All horizontal forces act along the same line. A single westward force keeps the boat travelling straight at constant speed. How large is it?
+
+A. 10 N
+
+B. 6 N
+
+C. 24 N
+
+D. 2 N
+
+E. 4 N
+
+<a id="s5-q24"></a>
+### S5-Q24
+
+A horizontal gate pivots in plan view around a hinge, like a clock hand turning on a table. Two students stand equally far from the hinge. One pushes straight toward the hinge along the gate. The other pushes at a right angle to the gate. Both push with 10 N. Which explanation fits?
+
+A. Both pushes turn it equally because their force and distance are equal.
+
+B. Only the perpendicular push has a turning effect.
+
+C. Neither can turn a gate unless the students stand at the hinge.
+
+D. The pushes cancel because their sizes match.
+
+E. Only the inward push has a turning effect.
+
+<a id="s5-q25"></a>
+### S5-Q25
+
+A level, weightless beam has equally spaced marks and a pivot at mark 0. An 8 N load hangs at L2. A hook at R4 holds two identical bags and balances the beam.
+
+```text
+        8 N                                             2 bags
+        v                                               v
+L3------L2------L1------0-------R1------R2------R3------R4
+                        ^ pivot
+```
+
+How heavy is each bag?
+
+A. 4 N
+
+B. 16 N
+
+C. 2 N
+
+D. 8 N
+
+E. 1 N
+
+## Q26–Q30 · Final weekend
+
+<a id="s5-q26"></a>
+### S5-Q26
+
+A level, weightless beam has equally spaced marks and a pivot at mark 3. A 2 N sign hangs at mark 0 and a 4 N sign hangs at mark 6. A builder can relocate the pivot to any other numbered mark.
+
+```text
+2 N                                             4 N
+v                                               v
+0-------1-------2-------3-------4-------5-------6
+                        ^ pivot
+```
+
+At which mark should the pivot be placed to balance the signs?
+
+A. Mark 4
+
+B. Mark 3
+
+C. Mark 1
+
+D. Mark 2
+
+E. Mark 5
+
+<a id="s5-q27"></a>
+### S5-Q27
+
+A parcel rests on a level shelf. The shelf pushes up on it with 12 N and gravity pulls it down with 12 N. The shelf suddenly slides away without touching it again. Ignore air resistance. What is the net force on the parcel just after contact ends?
+
+A. 24 N upward
+
+B. 0 N
+
+C. 24 N downward
+
+D. 12 N upward
+
+E. 12 N downward
+
+<a id="s5-q28"></a>
+### S5-Q28
+
+A technician records the turn of a level test arm around a fixed pin as 24 N·cm. A vertical force gauge at the end reads 6 N. With a weightless arm and no other load, which label belongs on the blank horizontal distance from the pin to the gauge?
+
+A. 0.004 m
+
+B. 4 m
+
+C. 40 m
+
+D. 0.04 m
+
+E. 0.4 m
+
+<a id="s5-q29"></a>
+### S5-Q29
+
+A tray has two vertical support cords, one at each end. The tray stays level and at rest. Cord A pulls up with 16 N. Cord B pulls up with 9 N. An apple on the tray weighs 7 N. The tray and apple are the only loads. What would an empty-tray scale reading be, in newtons?
+
+A. 9 N
+
+B. 18 N
+
+C. 7 N
+
+D. 32 N
+
+E. 25 N
+
+<a id="s5-q30"></a>
+### S5-Q30
+
+In a top view of a square sign, each marked point is the same distance from the central pivot O. A short push points upward on the page at the right-edge point R. Which second push of the same size would give an equal turn in the opposite direction?
+
+```text
+      T
+      |
+L-----O-----R   (first push at R points up the page)
+      |
+      B
+```
+
+A. Down the page at B
+
+B. Up the page at L
+
+C. Up the page at T
+
+D. Left on the page at R
+
+E. Down the page at L
 
 ## Answer key
 
-<!-- Authoring: one entry per question, after all 30 questions.
-| ID | Answer | Tier | Reasoning | Clue that rules out the closest distractor | -->
-
-_Answer key not yet written._
+| ID | Answer | Tier | Reasoning | Closest distractor ruled out by |
+|---|---|---|---|---|
+| S5-Q01 | D | Medium | The left turn is 4 × 3 = 12. A 6 N load needs two marks on the opposite side. | B. Equal distances would give the heavier right load the larger turn. |
+| S5-Q02 | C | Medium | The frame turns about the axle while the gardener raises the soil by pulling up on the handles. | B. The gardener supplies effort at the handles. |
+| S5-Q03 | C | Challenge | The turns start at 10 left and 12 right. The left needs exactly two more N-marks. | B. Adding on the right enlarges the existing right-side advantage. |
+| S5-Q04 | C | Medium | Opposing forces subtract. The 8 N pull leaves 3 N toward the left. | A. The larger pull points left. |
+| S5-Q05 | B | Challenge | Removing one of two identical weights halves the right turn. Halve the bag’s three-mark distance to 1.5 marks. | A. One full mark is less than half the original three-mark distance. |
+| S5-Q06 | D | Medium | The left turn is 12 N-marks. Divide by the right distance of two marks. | E. Multiplying 4 by the right distance does not match the turns. |
+| S5-Q07 | B | Challenge | The puck still has eastward velocity. The 4 N westward net force opposes it. | D. A westward net force changes velocity gradually. |
+| S5-Q08 | E | Medium | A perpendicular push turns the spanner most strongly at the largest distance from the pivot. | D. Bringing the effort closer reduces its turning effect. |
+| S5-Q09 | D | Medium | The right stone hangs farther from the fixed pivot and produces the greater turn. | B. Identical weights produce equal turns only at equal distances. |
+| S5-Q10 | E | Challenge | The two left turns total 14. The original right load is 14 ÷ 2 = 7 N. At R1, 14 N total is needed, so add 7 N. | B. The original 7 N load still acts at R1. |
+| S5-Q11 | A | Challenge | The loads are three marks left and two marks right of mark 4. Both produce 6 N-marks. | D. The 3 N load is closer to the pivot. |
+| S5-Q12 | C | Medium | The two rightward forces total 9 N. With 4 N left, another 5 N left is needed. | A. An extra rightward force would increase the existing net force. |
+| S5-Q13 | E | Medium | The original turns are equal. The new load has zero distance from the pivot and adds zero turn. | C. The added load acts directly at the pivot. |
+| S5-Q14 | E | Challenge | Multiply each force by its distance. The strongest turn is 5 × 9 = 45 N·cm. Each other setting gives 40 or 36 N·cm. | C. The largest push gives 40 N·cm, less than 45 N·cm. |
+| S5-Q15 | B | Medium | The suitcase remains at rest, so the scale supplies an equal upward force on it. | C. That force acts on the scale. |
+| S5-Q16 | D | Medium | The two left loads turn in the same direction. Their effects add to 2 × 4 + 2 × 2 = 12. | E. The load at L2 contributes another 4 N-marks. |
+| S5-Q17 | A | Medium | The lid rotates about the hinge pin, so distances for its turning effects start there. | D. The hook locates the applied force. |
+| S5-Q18 | A | Challenge | Use the new positions L1 and R2. The resulting turns are 6 × 1 and 4 × 2. | E. The move removes 6 N-marks from the left and 4 from the right. |
+| S5-Q19 | C | Medium | The net force is zero, so the downward velocity stays the same. | D. Equal forces give zero change in velocity. |
+| S5-Q20 | D | Challenge | The left distance is twice the right distance. Equality of turns fixes the ratio, while several pairs of weights give that ratio. | B. The left weight already has twice the distance. |
+| S5-Q21 | E | Medium | The bar turns around the support on the block. | C. The slab pushes back where the load acts. |
+| S5-Q22 | A | Challenge | The left turn is 12. The right turns are 3, 6, 9 and 12. Three are strictly smaller. | B. At R4 the turns match and neither end drops. |
+| S5-Q23 | A | Medium | The boat has zero acceleration. The westward force cancels a total eastward force of 10 N. | D. The two eastward forces act together. |
+| S5-Q24 | B | Challenge | The perpendicular push swings the gate sideways. The inward push has zero perpendicular distance from its line of action to the hinge. | A. The line of the inward push goes straight through the pivot. |
+| S5-Q25 | C | Medium | The left turn is 16. The hook must carry 16 ÷ 4 = 4 N altogether, so each bag weighs 2 N. | A. The 4 N at the right hook is shared by two bags. |
+| S5-Q26 | A | Challenge | At mark 4 the distances are four marks and two marks. Both turns equal 8. Moving the pivot changes both distances. | D. That placement gives the heavier sign a longer arm. |
+| S5-Q27 | E | Medium | Gravity still acts with 12 N, and the shelf no longer supplies any upward force. | B. Once the shelf slides clear, it exerts no force on the parcel. |
+| S5-Q28 | D | Medium | The distance is 24 N·cm ÷ 6 N = 4 cm. Divide centimetres by 100 to get metres. | E. Four centimetres is four hundredths of a metre. |
+| S5-Q29 | B | Challenge | Vertical balance gives 25 N for the loaded tray. Subtract the apple’s 7 N to get the weight of the tray alone. | E. The two cords together support both the tray and the apple. |
+| S5-Q30 | B | Medium | The right-side upward push turns the sign counterclockwise. Pushing upward on the left turns it clockwise with the same arm length. | E. Pushing down at L helps push R upward. |
