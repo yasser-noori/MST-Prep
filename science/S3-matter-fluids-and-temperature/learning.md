@@ -38,9 +38,13 @@ A sealed plastic counter has a mass of 18 g. A student holds it fully under wate
 Water has a density of 1.0 g/cm³. When the student releases the counter under water, what does it do?
 
 A. It sinks because its density is 1.33 g/cm³.\
+
 B. It rises because its density is 0.75 g/cm³.\
+
 C. It stays suspended because it displaces its own volume.\
+
 D. It sinks because its mass is 18 g.\
+
 E. It rises because its density is 0.27 g/cm³.
 
 **Answer B.** The counter occupies 66 − 42 = 24 mL, or 24 cm³. Its density is 18 ÷ 24 = 0.75 g/cm³, below the density of water. Choice E predicts the motion correctly but divides by all 66 mL, including the original water.

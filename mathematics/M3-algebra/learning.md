@@ -38,9 +38,13 @@ For a constant-rate relationship, divide the change in output by the change in i
 A library has 58 bookmarks left after giving 4 bookmarks to each of 9 classes. How many bookmarks did the library start with?
 
 A. 13\
+
 B. 22\
+
 C. 49\
+
 D. 94\
+
 E. 130
 
 **Answer D.** Let `b` be the starting number. The clue is “left after giving,” so `b − 4 × 9 = 58`. Add the 36 bookmarks that left the library back to the 58 on hand to get 94. Choice B subtracts the 36 a second time. Check by handing out the bookmarks from your proposed starting pile. Only 94 leaves 58.
