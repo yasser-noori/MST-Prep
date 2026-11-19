@@ -31,29 +31,22 @@ E. cell, nucleus, chromosome, gene
 <a id="s2-q02"></a>
 ### S2-Q02
 
-A labelled description of a human body cell reads:
+Two drawings show part of the same animal cell. In the first, a nucleus contains three chromosomes labelled P, Q and R. The second drawing zooms in on Q and marks two different genes along its DNA, one for a scale pattern and one for a claw protein. Which change to the drawings would remove the scale-pattern gene while keeping the claw gene and the other two chromosomes?
 
-- **P** — the whole unit, surrounded by a thin membrane
-  - **Q** — a round structure that holds the genetic material
-    - **R** — one of many thread-like structures inside Q; each R is a single long, coiled DNA molecule
-      - **S** — a short highlighted section along one R that carries the instructions for making one protein
+A. Erase the entire chromosome Q.
 
-Both R and S are made of DNA. Which statement correctly identifies S and explains how it differs from R?
+B. Erase just the DNA segment marked for the scale pattern on Q.
 
-A. S is a chromosome; it is a short piece of the gene R.
+C. Erase the nucleus but keep Q in its original place.
 
-B. S is a gene; it is one segment of the long DNA molecule that forms the chromosome R.
+D. Erase chromosomes P and R while leaving Q intact.
 
-C. S is a nucleus; it is the structure that contains R.
-
-D. S is a gene; the chromosome R is one small segment of S.
-
-E. S is a chromosome; S is made of DNA but R is made of protein only.
+E. Erase both marked segments on Q.
 
 <a id="s2-q03"></a>
 ### S2-Q03
 
-A student compares a cell from a green leaf with a cell from the inside of a human cheek. Which structure would the student find in the leaf cell but **not** in the cheek cell?
+A student compares a photosynthetic cell from a green leaf with a cell from the inside of a human cheek. Which structure would the student find in the leaf cell but **not** in the cheek cell?
 
 A. nucleus
 
@@ -191,13 +184,13 @@ E. 2 and 3 only
 <a id="s2-q11"></a>
 ### S2-Q11
 
-A table describes the genetic material in a cell, from largest to smallest. One name is missing.
+A table describes the genetic material in a cell, by where it is found and what it is made of. One name is missing.
 
 | Level | Name | Description |
 |---|---|---|
 | 1 | Cell | basic unit of a living thing |
 | 2 | Nucleus | control centre that holds the genetic material |
-| 3 | ? | thread-like structure made of one long, tightly coiled DNA molecule |
+| 3 | ? | thread-like structure containing long DNA packaged with proteins |
 | 4 | DNA | the chemical that stores the instructions |
 | 5 | Gene | short segment of DNA with the instructions for one product |
 
@@ -226,7 +219,7 @@ B. Height is not affected by genes at all.
 
 C. The taller twin gained extra chromosomes from eating more food.
 
-D. An environmental factor such as diet most likely caused the difference, because the twins share the same genes.
+D. Different childhood environments could contribute to the height difference even though the twins started with the same DNA.
 
 E. The shorter twin's DNA changed, so the shorter twin's children will be short.
 
@@ -243,7 +236,7 @@ C. a leaf cell that is busy making food by photosynthesis
 
 D. none, because every cell with a cell wall must also have chloroplasts
 
-E. a cell from the root of a plant
+E. a cell from the underground root of a bean plant
 
 <a id="s2-q14"></a>
 ### S2-Q14
@@ -427,7 +420,7 @@ E. No, because both breed and food differ between the fields, so the data cannot
 <a id="s2-q24"></a>
 ### S2-Q24
 
-A student compares a cell from a green leaf with a human cheek cell. Which row is correct?
+A student compares a photosynthetic cell from a green leaf with a human cheek cell. Which row is correct?
 
 | Row | Structure | Leaf cell | Cheek cell |
 |---|---|---|---|
@@ -450,63 +443,66 @@ E. Row E
 <a id="s2-q25"></a>
 ### S2-Q25
 
-In one person, a muscle cell and a skin cell both have a nucleus with the same full set of DNA. Yet the two cells look different and do very different jobs. Which explanation fits these facts?
+A muscle cell and a skin cell from one person have the same chromosomes. A gene can be present in a cell even when the cell is not using its instructions. Two students make predictions about a gene whose instructions the muscle cell uses. Lea predicts that the skin cell lacks the gene. Omar predicts that the skin cell has the gene but does not use it. Which result from the skin cell supports Omar and rules out Lea?
 
-A. Muscle cells have different chromosomes from skin cells.
+A. The gene is absent and its instructions are unused.
 
-B. Different types of cells use different genes from the same DNA.
+B. The gene is present and its instructions are unused.
 
-C. Skin cells have no DNA, so they cannot make muscle proteins.
+C. The gene is present and its instructions are being used.
 
-D. Muscle cells gained extra DNA from exercise.
+D. The skin cell has a nucleus, but this particular gene has not been checked.
 
-E. Genes are found only in the cells that make eggs or sperm.
+E. The muscle cell uses the instructions, but the skin cell has not been tested.
 
 <a id="s2-q26"></a>
 ### S2-Q26
 
-In a fictional beetle, every beetle has two copies of the shell-colour gene and passes **one** of its two copies, chosen at random, to each offspring. Copy G gives a green shell and copy g gives a gold shell. G is dominant: any beetle with at least one G is green. Only gg beetles are gold.
+In a fictional beetle, each parent passes one of its two shell-colour copies to each offspring. GG and Gg beetles have green shells, and gg beetles have gold shells. A museum sorts three parent-pair records by the colours their young **could** have. Which pair of records belongs in the same group?
 
-A breeder has a green beetle and does not know whether it is GG or Gg. She mates it with a gold (gg) beetle. Which result would **prove** that the green beetle is Gg?
+| Record | Parent pair |
+|---|---|
+| 1 | GG and gg |
+| 2 | Gg and GG |
+| 3 | Gg and gg |
 
-A. All 12 of the offspring are green.
+A. Records 1 and 3, because each pair includes a gold parent.
 
-B. The green beetle's own parents were both green.
+B. Records 2 and 3, because each pair includes a Gg parent.
 
-C. The green beetle must have at least one G, because it is green.
+C. All three records, because every pair can produce green young.
 
-D. The gold parent has two g copies.
+D. None of the records, because all three parent pairs differ.
 
-E. At least one of the offspring is gold.
+E. Records 1 and 2, because both pairs can produce only green young.
 
 <a id="s2-q27"></a>
 ### S2-Q27
 
-A scientist examines cells from two unknown samples.
+A class counts 20 intact cells from a mixture of bean and mouse samples. In these samples, every bean cell has a wall and every mouse cell lacks one. Only some bean cells contain chloroplasts.
 
-| Structure | Sample X | Sample Y |
-|---|---|---|
-| Cell membrane | yes | yes |
-| Nucleus | yes | yes |
-| Cell wall | yes | no |
-| Chloroplasts | yes | no |
+| Observed structures | Number of cells |
+|---|---:|
+| Wall and chloroplasts | 6 |
+| Wall without chloroplasts | 5 |
+| Neither structure | 9 |
 
-Which conclusion is best supported?
+A student counts only cells with chloroplasts and reports 6 bean cells. Which correction should the class make?
 
-A. Sample X is most likely from the green part of a plant, and Sample Y is most likely from an animal.
+A. Add 5 to include bean cells that had a wall without chloroplasts.
 
-B. Sample X is most likely from an animal, and Sample Y is most likely from a plant.
+B. Add 9 to include every cell with neither structure.
 
-C. Both samples are from plants, because both have a nucleus.
+C. Keep 6 because every bean cell must have chloroplasts.
 
-D. Sample Y cannot contain any DNA, because it has no cell wall.
+D. Subtract 5 because only chloroplasts without a wall identify a bean cell.
 
-E. Sample X cannot contain chromosomes, because its chloroplasts replace the nucleus.
+E. Report all 20 because both species have cell membranes.
 
 <a id="s2-q28"></a>
 ### S2-Q28
 
-A gardener cuts two pieces from one plant and grows each into a new plant. Plants grown from cuttings of one plant have the same DNA as that plant.
+A gardener cuts two pieces from one plant and grows each into a new plant. Plants grown from cuttings of one plant have the same DNA as that plant. The gardener keeps light, water, temperature and growing time the same in each trial.
 
 | Step | What was planted | Soil | Flower colour |
 |---|---|---|---|
@@ -522,73 +518,71 @@ B. Soil A permanently changed the DNA of Cutting 1 so that its flowers would alw
 
 C. Flower colour is controlled only by genes, so the soil had no effect.
 
-D. The difference in colour is caused by the soil, not by a difference in the plants' genes.
+D. The results support an effect of soil on colour in plants with the same DNA.
 
 E. Nothing can be concluded, because only the flowers were observed.
 
 <a id="s2-q29"></a>
 ### S2-Q29
 
-A child has some traits like their mother and some like their father. Which statement best explains how a child inherits traits from **both** parents?
+For a fictional animal, an egg and a sperm each contribute one complete set of chromosomes to the offspring's first cell. The two sets have the same number of chromosomes. A normal first cell contains 12 chromosomes altogether. How many chromosomes came from each parent?
 
-A. The child gets all of their chromosomes from the mother, and learns the father's traits.
+A. 12 from the egg and none from the sperm
 
-B. The child's first cell receives one set of chromosomes from the egg and one set from the sperm.
+B. 6 from the egg and 6 from the sperm
 
-C. The child picks up the parents' traits by living in the same home as them.
+C. 12 from the egg and 12 from the sperm
 
-D. The child's chromosomes are built from the food the mother eats.
+D. 1 from the egg and 11 from the sperm
 
-E. The father passes on the nucleus and the mother passes on the cell membrane.
+E. None from the egg and 12 from the sperm
 
 <a id="s2-q30"></a>
 ### S2-Q30
 
-In a fictional lizard, every lizard has two copies of the skin-pattern gene and passes **one** of its two copies to each offspring, with each copy equally likely. Copy S gives spotted skin and copy s gives plain skin. S is dominant: any lizard with at least one S is spotted. Only ss lizards are plain.
+In a fictional lizard, two parents can have either spotted or plain young. Each hatchling independently has a one-in-two chance of being plain. The first four hatchlings are all spotted. A keeper expects the fifth to be plain to even out the numbers. What is the chance the fifth hatchling will be plain?
 
-An Ss lizard mates with an ss lizard, and 40 eggs hatch. About how many of the young lizards would you expect to be **plain**?
+A. Zero, because all the hatchlings so far are spotted
 
-A. 0
+B. One in four, because there have been four spotted hatchlings
 
-B. 10
+C. One in two, because the fifth hatchling follows the same independent rule
 
-C. 20
+D. Four in five, because four of the five would then be spotted
 
-D. 30
-
-E. 40
+E. Certain, because the next hatchling must even out the colours
 
 ## Answer key
 
 | ID | Answer | Tier | Reasoning | Closest distractor ruled out by |
 |---|---|---|---|---|
 | S2-Q01 | E | Medium | The cell contains the nucleus, the nucleus contains chromosomes, and each chromosome carries many genes. | A is the same order reversed (smallest to largest); the question asks for largest first. |
-| S2-Q02 | B | Challenge | S is a short section of one chromosome that codes for one protein, so S is a gene; R is the whole long DNA molecule, a chromosome. Both are DNA, but the gene is a part of the chromosome. | D names S correctly but reverses the relationship; a chromosome carries many genes, not the reverse. |
+| S2-Q02 | B | Challenge | Both genes lie on Q, so the change has to spare the rest of Q as well as P and R. Only the marked scale-pattern segment meets those conditions. | A would remove the claw gene along with the scale-pattern gene. |
 | S2-Q03 | C | Medium | Chloroplasts, which capture light to make food, occur in green plant cells but not in animal cells. | A, B, D, and E are all present in both cell types, so they do not separate the two cells. |
 | S2-Q04 | A | Medium | Natural eye colour is set by genes passed from the parents. | C (speaking French) feels "natural" to a fluent speaker but is learned during life, so it is acquired. |
 | S2-Q05 | D | Challenge | A white offspring is rr, so it got one r from each parent. The red parent therefore carries an r, and because it is red it also has an R: Rr. | E: by the stated rule each parent passes only one copy, so the white parent cannot supply both r copies. |
 | S2-Q06 | B | Medium | A gene is a segment of DNA carrying instructions that affect a trait. | A reverses the hierarchy: a chromosome contains many genes, not the other way round. |
-| S2-Q07 | E | Challenge | The seeds were split randomly and only light differed, so the height difference is explained by light, an environmental factor. Nothing in the design compares inherited differences. | A treats a difference between groups as inherited, but random splitting gives both groups the same mix of genes; only the light was different. |
+| S2-Q07 | E | Challenge | The seeds were split randomly and only light differed, so the observed difference supports an effect of light, an environmental factor. Nothing in the design compares inherited differences. | A treats a difference between groups as inherited, but random assignment makes systematic genetic differences between groups less likely. It does not guarantee identical mixes. |
 | S2-Q08 | A | Medium | The cell membrane controls what enters and leaves, and every plant and animal cell has one. | D: the nucleus controls the cell's activities, not the movement of substances across its boundary. |
 | S2-Q09 | D | Challenge | A brown pup is bb, so each black parent must carry b: both are Bb. Bb × Bb gives BB, Bb, bB, bb, so the chance of bb is 1 in 4. | C (3/4) is the chance of a black pup, not a brown one; A assumes black parents can never have brown pups, which the first pup disproves. |
 | S2-Q10 | C | Medium | The coat and eye colour match a parent and come from genes; the torn ear (injury) and sitting on command (training) were acquired during life. | A includes the torn ear, an injury that does not change the dog's genes. |
-| S2-Q11 | A | Medium | A thread-like structure in the nucleus made of one long coiled DNA molecule is a chromosome. | E (gene) is a short segment of DNA, which is Level 5, not the whole thread. |
-| S2-Q12 | D | Challenge | The twins share the same genes, so a gene difference cannot explain the gap; the environment (diet) differed, so it is the best explanation. | A could explain a height gap between unrelated people, but the stem states the twins have the same DNA. |
-| S2-Q13 | E | Challenge | The cell wall shows it is a plant cell; root cells grow underground and have no chloroplasts. | D: plant cells in roots have cell walls but no chloroplasts, so the "rule" in D is false. A and B have no cell wall. |
+| S2-Q11 | A | Medium | A thread-like structure in the nucleus containing long DNA packaged with proteins is a chromosome. | E (gene) is a short segment of DNA, which is Level 5, not the whole thread. |
+| S2-Q12 | D | Challenge | The twins began with the same DNA but grew up in different homes. Diet is one possible influence. This observation alone cannot isolate its effect. | A could explain a height gap between unrelated people, but the stem states the twins have the same DNA. |
+| S2-Q13 | E | Challenge | The wall rules out the two animal choices. The absence of chloroplasts rules out the photosynthetic leaf cell. A typical underground bean root cell fits both clues. | D: an underground bean root cell can have a wall without chloroplasts, so the "rule" in D is false. A and B have no cell wall. |
 | S2-Q14 | C | Medium | Trimming changed the hedge's shape but not its genes, so the cube shape is acquired and is not passed on through seeds. | A treats an acquired shape as if it were inherited. |
 | S2-Q15 | B | Medium | Almost every body cell with a nucleus in one person carries the same full set of DNA, so cells of different types can be compared. | A confuses different jobs with different DNA; the cells use different genes, but the DNA is the same. |
 | S2-Q16 | B | Challenge | Family members share both genes and an environment; an accent is learned from the people around you, so a shared accent does not show an inherited cause. | E: another child raised in the same home would share the same environment, so it still could not separate learning from inheritance. |
 | S2-Q17 | D | Medium | A gene is one short set of instructions within a chromosome, like one recipe inside a book. | C (a single book) is the chromosome itself; a gene is only one part of it. |
 | S2-Q18 | E | Medium | The cell wall is a rigid layer outside the membrane in plant cells; it gives support and shape. | B is also plant-only, but chloroplasts make food; they do not form a rigid outer layer. |
 | S2-Q19 | C | Challenge | A red offspring (RR) needs an R from each parent; a white offspring (WW) needs a W from each parent. So each parent carries both R and W: RW, which is pink. | D (red × white) gives only RW, so every offspring would be pink; E gives pink and white but never red. |
-| S2-Q20 | A | Medium | A seed pattern that matches the parent plant whatever the conditions is controlled by genes. | D: yellowing in a dry month depends on the weather, an environmental condition, so it is acquired. |
+| S2-Q20 | A | Medium | A seed pattern that matches the parent across different soils supports an inherited explanation. | D: yellowing in a dry month depends on the weather, an environmental condition, so it is acquired. |
 | S2-Q21 | D | Medium | Each offspring gets Y from the YY parent and y from the yy parent, so all are Yy, which is yellow. | C (3/4 yellow) is the result of a Yy × Yy cross, not YY × yy. |
 | S2-Q22 | A | Medium | A gene is a short segment of one DNA molecule, not the whole set of chromosomes. | B, C, D, and E each match the correct structure, so only A is wrong. |
 | S2-Q23 | E | Challenge | Two factors (breed and food) differ, so the data cannot separate their effects. A fair test would feed both breeds the same food. | A assumes that because breed is inherited, every difference between the breeds is inherited; B picks the other cause, which the data cannot prove either. |
-| S2-Q24 | C | Medium | Green leaf cells have chloroplasts; animal cells do not. | A: animal cells such as cheek cells have no cell wall. B, D, and E list structures that both cells have. |
-| S2-Q25 | B | Challenge | Since the DNA is the same, the difference must come from which genes each cell type uses. | A contradicts the stem, which says both cells have the same full set of DNA, so they carry the same chromosomes. |
-| S2-Q26 | E | Challenge | A gold offspring is gg, so it received a g from the green parent; a GG beetle has no g to pass on, so the green parent must be Gg. | A (all green) fits GG but does not prove it, and it gives no evidence of a g; C is true of both GG and Gg, so it cannot tell them apart. |
-| S2-Q27 | A | Medium | A cell wall plus chloroplasts indicates a green plant cell; no wall and no chloroplasts fits an animal cell. | B swaps the samples; C ignores that a nucleus is found in both plant and animal cells. |
-| S2-Q28 | D | Challenge | The plants have the same DNA, and the same genes give blue in Soil A but pink in Soil B; Step 3 shows a cutting from the blue plant turns pink in Soil B. So the soil causes the difference. | B: if Soil A had permanently changed the DNA, the Step 3 cutting would have stayed blue in Soil B; it turned pink. |
-| S2-Q29 | B | Medium | The egg carries one set of chromosomes from the mother and the sperm carries one set from the father; the first cell of the child gets both. | A: the father also passes chromosomes; traits like eye colour come from his genes, not from learning. |
-| S2-Q30 | C | Medium | Ss × ss gives Ss, Ss, ss, ss, so half the young are expected to be plain: about 20 of 40. | B (10) uses the 1/4 fraction from an Ss × Ss cross. |
+| S2-Q24 | C | Medium | Photosynthetic leaf cells have chloroplasts; animal cells do not. | A: animal cells such as cheek cells have no cell wall. B, D, and E list structures that both cells have. |
+| S2-Q25 | B | Challenge | Omar predicts two observations in skin cells: the gene is present and the instructions are unused. Seeing the gene also contradicts Lea's prediction. | C would contradict Lea, but it would also contradict Omar's prediction that the instructions are unused. |
+| S2-Q26 | E | Challenge | Every offspring in records 1 and 2 gets G from a GG parent. Record 3 allows either Gg or gg. Grouping by possible colours puts 1 and 2 together. | C checks that green is possible but overlooks the additional gold outcome in record 3. |
+| S2-Q27 | A | Medium | The wall identifies 6 + 5 = 11 bean cells. Counting only chloroplasts misses five. | C overlooks the five cells in the middle row. Those have the wall that identifies bean cells in these samples. |
+| S2-Q28 | D | Challenge | The plants have the same DNA, and the same genes give blue in Soil A but pink in Soil B; Step 3 shows a cutting from the blue plant turns pink in Soil B. The colour follows the soil across the trials. | B: if Soil A had permanently changed the DNA, the Step 3 cutting would have stayed blue in Soil B; it turned pink. |
+| S2-Q29 | B | Medium | The first cell contains two complete sets of the same size. Each set contains 12 ÷ 2 = 6 chromosomes. | C counts all 12 chromosomes as one set and would give the first cell 24 chromosomes. |
+| S2-Q30 | C | Medium | The passage gives the chance for each independent hatchling. Earlier colours leave that chance at one in two. | E treats equal chances as a guarantee that a short run must balance out. |
