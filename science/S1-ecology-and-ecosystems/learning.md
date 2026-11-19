@@ -52,7 +52,7 @@ All questions here are original practice. They are not copies of real test quest
 ### Pattern 2 — Arrows point from the eaten to the eater
 
 - **Clue to notice:** a food chain or web drawn with arrows, or a choice written as `A → B → C`.
-- **Decision to make:** an arrow shows where the **energy goes**, so it points *toward the organism that does the eating*. `Grass → Rabbit` means the rabbit eats the grass. A correct chain starts with a producer.
+- **Decision to make:** an arrow shows where the **energy goes**, so it points *toward the organism that does the eating*. `Grass → Rabbit` means the rabbit eats the grass. To trace a chain that begins with a producer, start at the organism that makes its own food.
 - **How to check:** read each arrow as "is eaten by". `Grass → Rabbit → Fox` reads "grass is eaten by rabbit, rabbit is eaten by fox." If any link reads backwards ("fox is eaten by rabbit"), the arrows are reversed.
 
 ### Pattern 3 — Find the resource that is actually in short supply
@@ -83,7 +83,7 @@ A. Kelp is unaffected, because sea otters do not eat kelp.
 
 B. Kelp increases, because there are now fewer animals in the forest.
 
-C. Kelp decreases, because sea urchins, no longer eaten by otters, increase and eat more kelp.
+C. Kelp decreases, because sea urchins, now eaten by fewer otters, increase and eat more kelp.
 
 D. Sea urchins decrease, because they have lost their predator.
 
