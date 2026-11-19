@@ -37,13 +37,13 @@ For a constant-rate relationship, divide the change in output by the change in i
 
 A library has 58 bookmarks left after giving 4 bookmarks to each of 9 classes. How many bookmarks did the library start with?
 
-A. 13\
+A. 13
 
-B. 22\
+B. 22
 
-C. 49\
+C. 49
 
-D. 94\
+D. 94
 
 E. 130
 

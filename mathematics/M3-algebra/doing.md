@@ -11,13 +11,13 @@ Answer each question on paper. Mark it correct, guessed, wrong or skipped before
 
 A print shop charges 8 dollars to set up a poster design and 3 dollars for each copy. Which expression gives the total cost in dollars for `c` copies?
 
-A. 3(c + 8)\
+A. 3(c + 8)
 
-B. 11c\
+B. 11c
 
-C. 8c + 3\
+C. 8c + 3
 
-D. 3c + 8\
+D. 3c + 8
 
 E. 8 + c
 
@@ -26,13 +26,13 @@ E. 8 + c
 
 What is the value of `5 − 2(x + 3)` when `x = −6`?
 
-A. −13\
+A. −13
 
-B. 11\
+B. 11
 
-C. 23\
+C. 23
 
-D. −1\
+D. −1
 
 E. 5
 
@@ -41,13 +41,13 @@ E. 5
 
 A rectangle has perimeter 50 cm. Its length is 3 cm greater than its width. What is its length?
 
-A. 17 cm\
+A. 17 cm
 
-B. 11 cm\
+B. 11 cm
 
-C. 14 cm\
+C. 14 cm
 
-D. 23.5 cm\
+D. 23.5 cm
 
 E. 26.5 cm
 
@@ -56,13 +56,13 @@ E. 26.5 cm
 
 Which expression equals `4a + 7 − a + 2` for every value of `a`?
 
-A. 3a + 7\
+A. 3a + 7
 
-B. 5a + 9\
+B. 5a + 9
 
-C. 3a + 5\
+C. 3a + 5
 
-D. 12a\
+D. 12a
 
 E. 3a + 9
 
@@ -71,13 +71,13 @@ E. 3a + 9
 
 Loop Rentals charges 16 dollars plus 2 dollars per hour. Wheel Rentals charges 4 dollars plus 5 dollars per hour. At how many hours do the total charges match?
 
-A. 20\
+A. 20
 
-B. 3\
+B. 3
 
-C. 12\
+C. 12
 
-D. 24\
+D. 24
 
 E. 4
 
@@ -92,13 +92,13 @@ A greenhouse controller follows one linear rule. Which rule gives the output `y`
 |---|---|---|---|
 | y | 11 | 23 | 35 |
 
-A. y = 12x − 13\
+A. y = 12x − 13
 
-B. y = 4x + 11\
+B. y = 4x + 11
 
-C. y = 4x + 3\
+C. y = 4x + 3
 
-D. y = 3x + 5\
+D. y = 3x + 5
 
 E. y = 3x + 8
 
@@ -107,13 +107,13 @@ E. y = 3x + 8
 
 Mina and Dev hold 36 counters altogether. Mina gives Dev 4 of hers. They now have equal numbers. How many counters did Mina start with?
 
-A. 20\
+A. 20
 
-B. 22\
+B. 22
 
-C. 26\
+C. 26
 
-D. 18\
+D. 18
 
 E. 14
 
@@ -122,13 +122,13 @@ E. 14
 
 A poster is reduced in width according to `w = (p − 6)/2`, where both widths are in centimetres. A reduced poster is 15 cm wide. What was its original width `p`?
 
-A. 21 cm\
+A. 21 cm
 
-B. 24 cm\
+B. 24 cm
 
-C. 42 cm\
+C. 42 cm
 
-D. 13.5 cm\
+D. 13.5 cm
 
 E. 36 cm
 
@@ -137,13 +137,13 @@ E. 36 cm
 
 Three consecutive whole numbers total 72. Which equation uses `m` for the **middle** number?
 
-A. m + m + (m + 1) = 72\
+A. m + m + (m + 1) = 72
 
-B. m + (m + 1) + (m + 2) = 72\
+B. m + (m + 1) + (m + 2) = 72
 
-C. (m − 1) + m + (m + 1) = 72\
+C. (m − 1) + m + (m + 1) = 72
 
-D. (m − 2) + (m − 1) + m = 72\
+D. (m − 2) + (m − 1) + m = 72
 
 E. (m − 1) + (m + 1) = 72
 
@@ -152,13 +152,13 @@ E. (m − 1) + (m + 1) = 72
 
 For inputs `x = 0, 2, 5`, which list gives the matching outputs of `y = 9 − 2x` in that order?
 
-A. 9, 5, −1\
+A. 9, 5, −1
 
-B. 9, 13, 19\
+B. 9, 13, 19
 
-C. 0, 5, −1\
+C. 0, 5, −1
 
-D. 9, 5, 1\
+D. 9, 5, 1
 
 E. 9, 7, 4
 
@@ -169,13 +169,13 @@ E. 9, 7, 4
 
 A climber starts 6 m below a marked ledge and rises at 2 m per minute. Which expression gives her signed height in metres relative to the ledge after `t` minutes, taking upward as positive?
 
-A. −6 − 2t\
+A. −6 − 2t
 
-B. 2t − 6\
+B. 2t − 6
 
-C. 6 − 2t\
+C. 6 − 2t
 
-D. 6 + 2t\
+D. 6 + 2t
 
 E. 2(t − 6)
 
@@ -184,13 +184,13 @@ E. 2(t − 6)
 
 A music club raised 128 dollars by selling 20 tickets. Adult tickets cost 8 dollars and student tickets cost 5 dollars. How many adult tickets were sold, or is the report impossible?
 
-A. 10\
+A. 10
 
-B. 7\
+B. 7
 
-C. 16\
+C. 16
 
-D. The report is impossible.\
+D. The report is impossible.
 
 E. 9
 
@@ -199,13 +199,13 @@ E. 9
 
 Which value of `v` makes `v/4 + 3 = −2` true?
 
-A. 20\
+A. 20
 
-B. −5\
+B. −5
 
-C. 4\
+C. 4
 
-D. −20\
+D. −20
 
 E. −4
 
@@ -214,13 +214,13 @@ E. −4
 
 Which expression equals `3(2b − 5) + 4b` for every value of `b`?
 
-A. 14b − 15\
+A. 14b − 15
 
-B. 10b − 15\
+B. 10b − 15
 
-C. 10b − 5\
+C. 10b − 5
 
-D. 9b − 15\
+D. 9b − 15
 
 E. 6b − 11
 
@@ -229,13 +229,13 @@ E. 6b − 11
 
 A bus has some passengers. At the next stop 5 leave, then 3 board. The number now aboard is twice the number who left. How many passengers were on the bus before the stop?
 
-A. 18\
+A. 18
 
-B. 15\
+B. 15
 
-C. 10\
+C. 10
 
-D. 8\
+D. 8
 
 E. 12
 
@@ -246,13 +246,13 @@ E. 12
 
 At a fair, 5 identical games cost `g` tokens each. Nia brings 42 tokens and wants to have 7 left after playing the five games. How many tokens can each game cost?
 
-A. 7\
+A. 7
 
-B. 8.4\
+B. 8.4
 
-C. 5\
+C. 5
 
-D. 9.8\
+D. 9.8
 
 E. 35
 
@@ -261,13 +261,13 @@ E. 35
 
 On a trail map, marker A is at kilometre 6 and marker B is at kilometre 39. Isha starts at A and walks toward B at 4 km/h. Leo starts at B at the same time and walks toward A at 7 km/h. At which kilometre marker do they meet?
 
-A. 18\
+A. 18
 
-B. 27\
+B. 27
 
-C. 21\
+C. 21
 
-D. 12\
+D. 12
 
 E. 3
 
@@ -276,13 +276,13 @@ E. 3
 
 What is `a² − 3b` when `a = −4` and `b = −2`?
 
-A. 10\
+A. 10
 
-B. −22\
+B. −22
 
-C. 14\
+C. 14
 
-D. 22\
+D. 22
 
 E. −10
 
@@ -291,13 +291,13 @@ E. −10
 
 A machine follows a linear rule. At input 3 its output is 14. A student claims that the rule must be `y = 4x + 2`. Which additional observation would **rule out** that claim?
 
-A. The output at input 5 is 22.\
+A. The output at input 5 is 22.
 
-B. The output at input 1 is 6.\
+B. The output at input 1 is 6.
 
-C. The output at input 5 is 24.\
+C. The output at input 5 is 24.
 
-D. The output at input 0 is 2.\
+D. The output at input 0 is 2.
 
 E. An input increase of 2 raises the output by 8.
 
@@ -306,13 +306,13 @@ E. An input increase of 2 raises the output by 8.
 
 A puzzle says, “Subtract 7 from my number and divide the result by 3 to get 5.” Which equation describes the puzzle if `n` is the number?
 
-A. 3(n − 7) = 5\
+A. 3(n − 7) = 5
 
-B. n/3 − 7 = 5\
+B. n/3 − 7 = 5
 
-C. n − 7/3 = 5\
+C. n − 7/3 = 5
 
-D. (n − 7)/3 = 5\
+D. (n − 7)/3 = 5
 
 E. (7 − n)/3 = 5
 
@@ -323,13 +323,13 @@ E. (7 − n)/3 = 5
 
 Arun is 4 years older than Beth. In 3 years their ages will add to 34. How old is Beth now?
 
-A. 10\
+A. 10
 
-B. 12\
+B. 12
 
-C. 16\
+C. 16
 
-D. 13.5\
+D. 13.5
 
 E. 15
 
@@ -338,13 +338,13 @@ E. 15
 
 A row of seats is numbered. A student sits in seat `s`. A friend sits in the seat whose number is one less than twice `s`. If `s = 14`, what is the friend’s seat number?
 
-A. 13\
+A. 13
 
-B. 30\
+B. 30
 
-C. 29\
+C. 29
 
-D. 26\
+D. 26
 
 E. 27
 
@@ -357,13 +357,13 @@ A straight candle burns at a constant rate. The table shows its height during bu
 |---|---|---|
 | Height (cm) | 17 | 14 |
 
-A. 15 cm\
+A. 15 cm
 
-B. 19 cm\
+B. 19 cm
 
-C. 20 cm\
+C. 20 cm
 
-D. 17 cm\
+D. 17 cm
 
 E. 21 cm
 
@@ -372,13 +372,13 @@ E. 21 cm
 
 For which value of `u` do `5u − 3` and `2u + 9` have the same value?
 
-A. 2\
+A. 2
 
-B. 6\
+B. 6
 
-C. 4\
+C. 4
 
-D. 12\
+D. 12
 
 E. −4
 
@@ -387,13 +387,13 @@ E. −4
 
 Two sealed cartons hold only red and blue beads. They contain equal numbers of **red** beads. The first also has 6 blue beads. The second also has 10 blue beads. Which statement gives enough additional information to determine the red count in one carton?
 
-A. Together they hold 16 blue beads.\
+A. Together they hold 16 blue beads.
 
-B. Moving 2 blue beads from the second to the first gives equal totals.\
+B. Moving 2 blue beads from the second to the first gives equal totals.
 
-C. Each carton holds at least 11 beads.\
+C. Each carton holds at least 11 beads.
 
-D. The second carton has 4 more beads than the first.\
+D. The second carton has 4 more beads than the first.
 
 E. The cartons contain 40 beads altogether.
 
@@ -404,13 +404,13 @@ E. The cartons contain 40 beads altogether.
 
 On a scoreboard, a win earns 3 points, a draw earns 1 point and a loss earns 0 points. A team plays 8 games, draws 2 of them and earns 14 points. How many games does it lose?
 
-A. 3\
+A. 3
 
-B. 6\
+B. 6
 
-C. 4\
+C. 4
 
-D. 2\
+D. 2
 
 E. 0
 
@@ -419,13 +419,13 @@ E. 0
 
 A photo stands in a frame with a left border `b` cm wide and a right border twice that wide. The whole frame is 30 cm wide. Which expression gives the width in centimetres of the visible photo?
 
-A. 30 − 3b\
+A. 30 − 3b
 
-B. 30 + 3b\
+B. 30 + 3b
 
-C. 3(30 − b)\
+C. 3(30 − b)
 
-D. 30 − b\
+D. 30 − b
 
 E. 30 − 2b
 
@@ -434,13 +434,13 @@ E. 30 − 2b
 
 A builder records shelf positions as distances above a floor. Later she measures those same positions from a platform 12 cm above that floor. A shelf is `h` cm above the platform. Which expression gives its height above the floor?
 
-A. h + 12\
+A. h + 12
 
-B. 12h\
+B. 12h
 
-C. h/12\
+C. h/12
 
-D. h − 12\
+D. h − 12
 
 E. 12 − h
 
@@ -449,13 +449,13 @@ E. 12 − h
 
 A recipe has a smudged entry for the mass of flour in one batch. Two full batches *plus half a batch* use 450 g of flour. How much flour goes into half a batch?
 
-A. 75 g\
+A. 75 g
 
-B. 112.5 g\
+B. 112.5 g
 
-C. 90 g\
+C. 90 g
 
-D. 225 g\
+D. 225 g
 
 E. 180 g
 
@@ -464,13 +464,13 @@ E. 180 g
 
 A judge calculates a score by adding three marks, dropping the smallest mark from the sum, then doubling the result. Two marks are 8 and 11. All marks are whole numbers from 0 to 20. If the final score is 38, which list gives **all** possible values of the third mark?
 
-A. 0 through 8\
+A. 0 through 8
 
-B. 8 only\
+B. 8 only
 
-C. 8 through 20\
+C. 8 through 20
 
-D. 0 through 7\
+D. 0 through 7
 
 E. 0 through 11
 
