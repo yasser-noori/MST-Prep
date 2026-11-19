@@ -2,7 +2,7 @@
 
 A two-week practice plan for the Grade 9 entrance test, covering mathematics and science equally.
 
-> **Current state (scaffold):** the folders, study calendar, and page outlines are in place, but **the practice questions have not been written yet**. The target is **300 original drill questions** (150 math, 150 science) plus 10 worked examples. Each category is being written in its own GitHub issue. This notice will be removed once every category is written, reviewed, and audited.
+> **Current state (scaffold):** all **300 original drill questions** (150 math, 150 science) and the 10 worked examples are written, and the study calendar links to each day's first question. Subject review is still in progress. This notice will be removed once every category is reviewed and audited.
 
 ## Start here
 
@@ -88,27 +88,27 @@ Your home practice score shows what to review. It does **not** predict an admiss
 
 ## Study calendar: November 20–December 6, 2026
 
-A **block** is five questions from one category. Each listed category gets the whole range on its row. November 22 and November 28 each list two ranges. Links go to the category's Doing page; the specific question links will be added once the questions are written.
+A **block** is five questions from one category. Each listed category gets the whole range on its row. November 22 and November 28 each list two ranges. Each link opens the category's Doing page at the first question of that row's range; carry on through the rest of the range from there.
 
 | Date | Assignment | Fresh drills |
 |---|---|---:|
-| Fri Nov 20 | Q01–05: [M1](mathematics/M1-number-theory/doing.md), [S1](science/S1-ecology-and-ecosystems/doing.md) | 10 |
-| Sat Nov 21 | Q01–05: [M2](mathematics/M2-geometry-and-measurement/doing.md), [M3](mathematics/M3-algebra/doing.md), [M4](mathematics/M4-patterns-and-sequences/doing.md), [M5](mathematics/M5-logic-and-constraints/doing.md), [S2](science/S2-cells-dna-and-inheritance/doing.md), [S3](science/S3-matter-fluids-and-temperature/doing.md), [S4](science/S4-circuits-and-switches/doing.md) | 35 |
-| Sun Nov 22 | Q01–05: [S5](science/S5-forces-and-balance/doing.md); Q06–10: [M1](mathematics/M1-number-theory/doing.md), [M2](mathematics/M2-geometry-and-measurement/doing.md), [M3](mathematics/M3-algebra/doing.md), [S1](science/S1-ecology-and-ecosystems/doing.md), [S2](science/S2-cells-dna-and-inheritance/doing.md), [S3](science/S3-matter-fluids-and-temperature/doing.md) | 35 |
-| Mon Nov 23 | Q06–10: [M4](mathematics/M4-patterns-and-sequences/doing.md), [S4](science/S4-circuits-and-switches/doing.md) | 10 |
-| Tue Nov 24 | Q06–10: [M5](mathematics/M5-logic-and-constraints/doing.md), [S5](science/S5-forces-and-balance/doing.md) | 10 |
-| Wed Nov 25 | Q11–15: [M1](mathematics/M1-number-theory/doing.md), [S1](science/S1-ecology-and-ecosystems/doing.md) | 10 |
-| Thu Nov 26 | Q11–15: [M2](mathematics/M2-geometry-and-measurement/doing.md), [S2](science/S2-cells-dna-and-inheritance/doing.md) | 10 |
-| Fri Nov 27 | Q11–15: [M3](mathematics/M3-algebra/doing.md), [S3](science/S3-matter-fluids-and-temperature/doing.md) | 10 |
-| Sat Nov 28 | Q11–15: [M4](mathematics/M4-patterns-and-sequences/doing.md), [M5](mathematics/M5-logic-and-constraints/doing.md), [S4](science/S4-circuits-and-switches/doing.md), [S5](science/S5-forces-and-balance/doing.md); Q16–20: [M1](mathematics/M1-number-theory/doing.md), [M2](mathematics/M2-geometry-and-measurement/doing.md), [S1](science/S1-ecology-and-ecosystems/doing.md) | 35 |
-| Sun Nov 29 | Q16–20: [M3](mathematics/M3-algebra/doing.md), [M4](mathematics/M4-patterns-and-sequences/doing.md), [M5](mathematics/M5-logic-and-constraints/doing.md), [S2](science/S2-cells-dna-and-inheritance/doing.md), [S3](science/S3-matter-fluids-and-temperature/doing.md), [S4](science/S4-circuits-and-switches/doing.md), [S5](science/S5-forces-and-balance/doing.md) | 35 |
-| Mon Nov 30 | Q21–25: [M1](mathematics/M1-number-theory/doing.md), [S1](science/S1-ecology-and-ecosystems/doing.md) | 10 |
-| Tue Dec 1 | Q21–25: [M2](mathematics/M2-geometry-and-measurement/doing.md), [S2](science/S2-cells-dna-and-inheritance/doing.md) | 10 |
-| Wed Dec 2 | Q21–25: [M3](mathematics/M3-algebra/doing.md), [S3](science/S3-matter-fluids-and-temperature/doing.md) | 10 |
-| Thu Dec 3 | Q21–25: [M4](mathematics/M4-patterns-and-sequences/doing.md), [S4](science/S4-circuits-and-switches/doing.md) | 10 |
-| Fri Dec 4 | Q21–25: [M5](mathematics/M5-logic-and-constraints/doing.md), [S5](science/S5-forces-and-balance/doing.md) | 10 |
-| Sat Dec 5 | Q26–30: [M1](mathematics/M1-number-theory/doing.md), [M3](mathematics/M3-algebra/doing.md), [M5](mathematics/M5-logic-and-constraints/doing.md), [S1](science/S1-ecology-and-ecosystems/doing.md), [S3](science/S3-matter-fluids-and-temperature/doing.md), [S5](science/S5-forces-and-balance/doing.md) | 30 |
-| Sun Dec 6 | Q26–30: [M2](mathematics/M2-geometry-and-measurement/doing.md), [M4](mathematics/M4-patterns-and-sequences/doing.md), [S2](science/S2-cells-dna-and-inheritance/doing.md), [S4](science/S4-circuits-and-switches/doing.md) | 20 |
+| Fri Nov 20 | Q01–05: [M1](mathematics/M1-number-theory/doing.md#m1-q01), [S1](science/S1-ecology-and-ecosystems/doing.md#s1-q01) | 10 |
+| Sat Nov 21 | Q01–05: [M2](mathematics/M2-geometry-and-measurement/doing.md#m2-q01), [M3](mathematics/M3-algebra/doing.md#m3-q01), [M4](mathematics/M4-patterns-and-sequences/doing.md#m4-q01), [M5](mathematics/M5-logic-and-constraints/doing.md#m5-q01), [S2](science/S2-cells-dna-and-inheritance/doing.md#s2-q01), [S3](science/S3-matter-fluids-and-temperature/doing.md#s3-q01), [S4](science/S4-circuits-and-switches/doing.md#s4-q01) | 35 |
+| Sun Nov 22 | Q01–05: [S5](science/S5-forces-and-balance/doing.md#s5-q01); Q06–10: [M1](mathematics/M1-number-theory/doing.md#m1-q06), [M2](mathematics/M2-geometry-and-measurement/doing.md#m2-q06), [M3](mathematics/M3-algebra/doing.md#m3-q06), [S1](science/S1-ecology-and-ecosystems/doing.md#s1-q06), [S2](science/S2-cells-dna-and-inheritance/doing.md#s2-q06), [S3](science/S3-matter-fluids-and-temperature/doing.md#s3-q06) | 35 |
+| Mon Nov 23 | Q06–10: [M4](mathematics/M4-patterns-and-sequences/doing.md#m4-q06), [S4](science/S4-circuits-and-switches/doing.md#s4-q06) | 10 |
+| Tue Nov 24 | Q06–10: [M5](mathematics/M5-logic-and-constraints/doing.md#m5-q06), [S5](science/S5-forces-and-balance/doing.md#s5-q06) | 10 |
+| Wed Nov 25 | Q11–15: [M1](mathematics/M1-number-theory/doing.md#m1-q11), [S1](science/S1-ecology-and-ecosystems/doing.md#s1-q11) | 10 |
+| Thu Nov 26 | Q11–15: [M2](mathematics/M2-geometry-and-measurement/doing.md#m2-q11), [S2](science/S2-cells-dna-and-inheritance/doing.md#s2-q11) | 10 |
+| Fri Nov 27 | Q11–15: [M3](mathematics/M3-algebra/doing.md#m3-q11), [S3](science/S3-matter-fluids-and-temperature/doing.md#s3-q11) | 10 |
+| Sat Nov 28 | Q11–15: [M4](mathematics/M4-patterns-and-sequences/doing.md#m4-q11), [M5](mathematics/M5-logic-and-constraints/doing.md#m5-q11), [S4](science/S4-circuits-and-switches/doing.md#s4-q11), [S5](science/S5-forces-and-balance/doing.md#s5-q11); Q16–20: [M1](mathematics/M1-number-theory/doing.md#m1-q16), [M2](mathematics/M2-geometry-and-measurement/doing.md#m2-q16), [S1](science/S1-ecology-and-ecosystems/doing.md#s1-q16) | 35 |
+| Sun Nov 29 | Q16–20: [M3](mathematics/M3-algebra/doing.md#m3-q16), [M4](mathematics/M4-patterns-and-sequences/doing.md#m4-q16), [M5](mathematics/M5-logic-and-constraints/doing.md#m5-q16), [S2](science/S2-cells-dna-and-inheritance/doing.md#s2-q16), [S3](science/S3-matter-fluids-and-temperature/doing.md#s3-q16), [S4](science/S4-circuits-and-switches/doing.md#s4-q16), [S5](science/S5-forces-and-balance/doing.md#s5-q16) | 35 |
+| Mon Nov 30 | Q21–25: [M1](mathematics/M1-number-theory/doing.md#m1-q21), [S1](science/S1-ecology-and-ecosystems/doing.md#s1-q21) | 10 |
+| Tue Dec 1 | Q21–25: [M2](mathematics/M2-geometry-and-measurement/doing.md#m2-q21), [S2](science/S2-cells-dna-and-inheritance/doing.md#s2-q21) | 10 |
+| Wed Dec 2 | Q21–25: [M3](mathematics/M3-algebra/doing.md#m3-q21), [S3](science/S3-matter-fluids-and-temperature/doing.md#s3-q21) | 10 |
+| Thu Dec 3 | Q21–25: [M4](mathematics/M4-patterns-and-sequences/doing.md#m4-q21), [S4](science/S4-circuits-and-switches/doing.md#s4-q21) | 10 |
+| Fri Dec 4 | Q21–25: [M5](mathematics/M5-logic-and-constraints/doing.md#m5-q21), [S5](science/S5-forces-and-balance/doing.md#s5-q21) | 10 |
+| Sat Dec 5 | Q26–30: [M1](mathematics/M1-number-theory/doing.md#m1-q26), [M3](mathematics/M3-algebra/doing.md#m3-q26), [M5](mathematics/M5-logic-and-constraints/doing.md#m5-q26), [S1](science/S1-ecology-and-ecosystems/doing.md#s1-q26), [S3](science/S3-matter-fluids-and-temperature/doing.md#s3-q26), [S5](science/S5-forces-and-balance/doing.md#s5-q26) | 30 |
+| Sun Dec 6 | Q26–30: [M2](mathematics/M2-geometry-and-measurement/doing.md#m2-q26), [M4](mathematics/M4-patterns-and-sequences/doing.md#m4-q26), [S2](science/S2-cells-dna-and-inheritance/doing.md#s2-q26), [S4](science/S4-circuits-and-switches/doing.md#s4-q26) | 20 |
 | **TOTAL** | | **300** |
 
 Redos and worked examples never count toward the daily totals.
@@ -125,10 +125,77 @@ Do the work after school, at whatever time suits you. Plan **45–60 minutes** f
 
 ### Final weekend (Dec 5–6)
 
-- **Saturday, Dec 5:** the 30 fresh questions as one **60-minute mixed practice session**, then review. A mixed order across categories will be provided.
-- **Sunday, Dec 6:** finish the remaining 20 fresh questions early in the day, then a shorter session of targeted redos.
+- **Saturday, Dec 5:** the 30 fresh questions as one **60-minute mixed practice session**, then review. Use the mixed order below.
+- **Sunday, Dec 6:** finish the remaining 20 fresh questions early in the day (mixed order below), then a shorter session of targeted redos.
 - The one-hour timing is a practice setting, not a confirmed test format.
 - Questions Q26–Q30 in every category are saved for this weekend. Don't open them early.
+
+Work through each list in order, writing your answer and a mark (✅/🤔/❌/⏭️) for every question on paper. **Open the answer keys only after you finish the whole session.** Each key is at the bottom of that category's Doing page.
+
+#### Saturday Dec 5 mixed session (30 questions, 60 minutes)
+
+1. [M1-Q26](mathematics/M1-number-theory/doing.md#m1-q26)
+2. [S3-Q26](science/S3-matter-fluids-and-temperature/doing.md#s3-q26)
+3. [M3-Q28](mathematics/M3-algebra/doing.md#m3-q28)
+4. [S5-Q28](science/S5-forces-and-balance/doing.md#s5-q28)
+5. [M5-Q30](mathematics/M5-logic-and-constraints/doing.md#m5-q30)
+6. [S1-Q29](science/S1-ecology-and-ecosystems/doing.md#s1-q29)
+7. [M3-Q29](mathematics/M3-algebra/doing.md#m3-q29)
+8. [S3-Q27](science/S3-matter-fluids-and-temperature/doing.md#s3-q27)
+9. [M5-Q26](mathematics/M5-logic-and-constraints/doing.md#m5-q26)
+10. [S1-Q30](science/S1-ecology-and-ecosystems/doing.md#s1-q30)
+11. [M1-Q27](mathematics/M1-number-theory/doing.md#m1-q27)
+12. [S5-Q29](science/S5-forces-and-balance/doing.md#s5-q29)
+13. [M5-Q27](mathematics/M5-logic-and-constraints/doing.md#m5-q27)
+14. [S1-Q26](science/S1-ecology-and-ecosystems/doing.md#s1-q26)
+15. [M1-Q28](mathematics/M1-number-theory/doing.md#m1-q28)
+16. [S3-Q28](science/S3-matter-fluids-and-temperature/doing.md#s3-q28)
+17. [M3-Q30](mathematics/M3-algebra/doing.md#m3-q30)
+18. [S5-Q30](science/S5-forces-and-balance/doing.md#s5-q30)
+19. [M1-Q29](mathematics/M1-number-theory/doing.md#m1-q29)
+20. [S1-Q27](science/S1-ecology-and-ecosystems/doing.md#s1-q27)
+21. [M3-Q26](mathematics/M3-algebra/doing.md#m3-q26)
+22. [S5-Q26](science/S5-forces-and-balance/doing.md#s5-q26)
+23. [M5-Q28](mathematics/M5-logic-and-constraints/doing.md#m5-q28)
+24. [S3-Q29](science/S3-matter-fluids-and-temperature/doing.md#s3-q29)
+25. [M3-Q27](mathematics/M3-algebra/doing.md#m3-q27)
+26. [S5-Q27](science/S5-forces-and-balance/doing.md#s5-q27)
+27. [M5-Q29](mathematics/M5-logic-and-constraints/doing.md#m5-q29)
+28. [S1-Q28](science/S1-ecology-and-ecosystems/doing.md#s1-q28)
+29. [M1-Q30](mathematics/M1-number-theory/doing.md#m1-q30)
+30. [S3-Q30](science/S3-matter-fluids-and-temperature/doing.md#s3-q30)
+
+#### Sunday Dec 6 session (20 questions)
+
+1. [M2-Q26](mathematics/M2-geometry-and-measurement/doing.md#m2-q26)
+2. [S4-Q26](science/S4-circuits-and-switches/doing.md#s4-q26)
+3. [M4-Q28](mathematics/M4-patterns-and-sequences/doing.md#m4-q28)
+4. [S2-Q29](science/S2-cells-dna-and-inheritance/doing.md#s2-q29)
+5. [M4-Q29](mathematics/M4-patterns-and-sequences/doing.md#m4-q29)
+6. [S4-Q27](science/S4-circuits-and-switches/doing.md#s4-q27)
+7. [M2-Q27](mathematics/M2-geometry-and-measurement/doing.md#m2-q27)
+8. [S2-Q30](science/S2-cells-dna-and-inheritance/doing.md#s2-q30)
+9. [M2-Q28](mathematics/M2-geometry-and-measurement/doing.md#m2-q28)
+10. [S4-Q28](science/S4-circuits-and-switches/doing.md#s4-q28)
+11. [M4-Q30](mathematics/M4-patterns-and-sequences/doing.md#m4-q30)
+12. [S2-Q26](science/S2-cells-dna-and-inheritance/doing.md#s2-q26)
+13. [M4-Q26](mathematics/M4-patterns-and-sequences/doing.md#m4-q26)
+14. [S4-Q29](science/S4-circuits-and-switches/doing.md#s4-q29)
+15. [M2-Q29](mathematics/M2-geometry-and-measurement/doing.md#m2-q29)
+16. [S2-Q27](science/S2-cells-dna-and-inheritance/doing.md#s2-q27)
+17. [M2-Q30](mathematics/M2-geometry-and-measurement/doing.md#m2-q30)
+18. [S4-Q30](science/S4-circuits-and-switches/doing.md#s4-q30)
+19. [M4-Q27](mathematics/M4-patterns-and-sequences/doing.md#m4-q27)
+20. [S2-Q28](science/S2-cells-dna-and-inheritance/doing.md#s2-q28)
+
+#### Final-weekend scoring sheet
+
+After each session, count your marks from paper. Then open the keys, check every answer, and fill in the row. Change a ✅ to ❌ if the key disagrees; keep 🤔 even when the guess was right.
+
+| Session | Questions | ✅ | 🤔 | ❌ | ⏭️ | Categories to review |
+|---|---:|---|---|---|---|---|
+| Sat Dec 5 mixed | 30 | | | | | |
+| Sun Dec 6 | 20 | | | | | |
 
 ## For contributors
 
