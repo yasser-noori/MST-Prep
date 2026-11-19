@@ -1,7 +1,5 @@
 # M3 — Algebra: Learning
 
-> **Scaffold status:** this page is an outline. The teaching content and worked example are written in the M3 authoring issue. Until then, use the skill list below as a study checklist.
-
 [← Back to the index](../../README.md) · [Go to the M3 practice questions →](doing.md)
 
 ## 1. What you remember
@@ -17,26 +15,36 @@
 
 All questions here are original practice. They are not copies of real test questions.
 
-## 2. Core skills taught on this page
+## 2. Four core patterns
 
-- Translate a situation into an expression or equation.
-- Substitute values into expressions, including with brackets and exponents.
-- Solve one- and two-step linear equations and check by substitution.
-- Match a rule to a table of values and a table to a rule.
-- Change the unknown: use the same rule to find input from output.
+### Build a rule from the story
 
-## 3. Core patterns
+Give the unknown a name and a unit. Listen for what happens **once** and what happens **for each** unit. A spool with 18 m of ribbon loses 2 m for each parcel, so after wrapping `p` parcels it has `18 − 2p` metres left. Try zero parcels and then one parcel. The answers should be 18 m and 16 m.
 
-<!-- Authoring: write three or four patterns. For each give: the clue to notice, the decision to make, and how to check it. -->
+### Substitute before calculating
 
-_To be written in the M3 authoring issue._
+When you know the input, replace every occurrence of its letter with that number in brackets. For `2x² − (x + 1)` at `x = −3`, this gives `2(−3)² − (−3 + 1) = 18 − (−2) = 20`. Check the sign of the square by writing the multiplication out. A negative times a negative gives a positive.
 
-## 4. Worked example
+### Work backward from a known output
 
-<!-- Authoring: exactly one original A–E question, the decisive step, and why the most tempting wrong answer is wrong. This example does not count toward the 30 drills. -->
+An equals sign says both sides have the same value. To find the input, undo operations in reverse order and do the same thing to both sides. In `3n − 4 = 11`, add 4 to get `3n = 15`, then divide by 3. Put 5 back into the original equation to check that it gives 11. If the question asks for a related quantity, use the value of the letter to find that quantity too.
 
-_To be written in the M3 authoring issue._
+### Read a linear rule from a table
 
-## 5. Practise
+For a constant-rate relationship, divide the change in output by the change in input. If the input rises by 3 while the output rises by 12, the rate is 4 per input unit. To find the starting value, subtract four times an input from its matching output. Check the resulting rule on another column. Going the other way, calculate one output for each input, keeping the columns in order.
 
-Go to [M3 practice questions (doing.md)](doing.md). Commit to an answer for each question before you open the answer key.
+## 3. Worked example
+
+A library has 58 bookmarks left after giving 4 bookmarks to each of 9 classes. How many bookmarks did the library start with?
+
+A. 13\
+B. 22\
+C. 49\
+D. 94\
+E. 130
+
+**Answer D.** Let `b` be the starting number. The clue is “left after giving,” so `b − 4 × 9 = 58`. Add the 36 bookmarks that left the library back to the 58 on hand to get 94. Choice B subtracts the 36 a second time. Check by handing out the bookmarks from your proposed starting pile. Only 94 leaves 58.
+
+## 4. Practise
+
+[Go to the M3 algebra drills](doing.md).
