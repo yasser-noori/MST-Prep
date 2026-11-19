@@ -100,11 +100,17 @@ Remove the scaffold-status note when the page is complete.
 Question stem, including any diagram or table.
 
 A. …
+
 B. …
+
 C. …
+
 D. …
+
 E. …
 ```
+
+Put a blank line between choices. GitHub Markdown joins consecutive lines into one paragraph, so choices on adjacent lines run together.
 
 ### Answer key template
 
@@ -123,9 +129,13 @@ From S3, showing the expected finished form:
 > A cylinder contains 40 mL of water. A student fully submerges a stone without spilling water. The cylinder now reads 55 mL. What is the stone's volume?
 >
 > A. 15 cm³
+>
 > B. 27.5 cm³
+>
 > C. 40 cm³
+>
 > D. 55 cm³
+>
 > E. 95 cm³
 >
 > **Answer: A.** The stone displaces 55 − 40 = 15 mL, and 1 mL = 1 cm³. Choice D includes the original water.

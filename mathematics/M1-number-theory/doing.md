@@ -19,9 +19,13 @@ All questions are original practice, not real test questions. Use whole numbers 
 A florist has 28 roses and 42 tulips. She wants to make the greatest possible number of identical bouquets and use every flower. (Identical means every bouquet has the same number of roses and the same number of tulips.) How many bouquets can she make?
 
 A. 2
+
 B. 5
+
 C. 7
+
 D. 14
+
 E. 84
 
 <a id="m1-q02"></a>
@@ -30,9 +34,13 @@ E. 84
 Hot dogs are sold in packages of 8, and buns are sold in packages of 12. Sam wants to buy exactly the same number of hot dogs as buns, and he needs at least 50 of each. What is the smallest total number of packages (hot-dog packages plus bun packages) he can buy?
 
 A. 5
+
 B. 6
+
 C. 9
+
 D. 10
+
 E. 15
 
 <a id="m1-q03"></a>
@@ -41,9 +49,13 @@ E. 15
 Light P flashes every 6 seconds and light Q flashes every 15 seconds. Both lights flash together at 0 seconds. From 0 seconds to 120 seconds, counting both of those moments, how many times do the two lights flash at the same moment?
 
 A. 2
+
 B. 4
+
 C. 5
+
 D. 8
+
 E. 20
 
 <a id="m1-q04"></a>
@@ -52,9 +64,13 @@ E. 20
 The five-digit number 47□12 is divisible by 9. What digit goes in the box?
 
 A. 1
+
 B. 4
+
 C. 5
+
 D. 7
+
 E. 9
 
 <a id="m1-q05"></a>
@@ -63,9 +79,13 @@ E. 9
 Two whole numbers have a greatest common factor of 6 and a least common multiple of 72. One of the numbers is 18. What is the other number?
 
 A. 24
+
 B. 36
+
 C. 54
+
 D. 72
+
 E. 432
 
 <a id="m1-q06"></a>
@@ -74,9 +94,13 @@ E. 432
 A teacher shares 50 pencils and 38 erasers equally among the students in her class. Every student gets the same number of pencils and the same number of erasers. Afterwards, exactly 2 pencils and 2 erasers are left over. What is the greatest number of students the class could have?
 
 A. 2
+
 B. 7
+
 C. 12
+
 D. 24
+
 E. 88
 
 <a id="m1-q07"></a>
@@ -85,9 +109,13 @@ E. 88
 Which of the following writes 360 as a product of prime numbers only?
 
 A. 2² × 3² × 10
+
 B. 2³ × 3² × 5
+
 C. 2³ × 3 × 15
+
 D. 2² × 3³ × 5
+
 E. 2⁴ × 3² × 5
 
 <a id="m1-q08"></a>
@@ -96,9 +124,13 @@ E. 2⁴ × 3² × 5
 Maya swims every 4 days and Leo swims every 6 days. They both swam on Monday, March 3. On what date will they next swim on the same day?
 
 A. March 9
+
 B. March 12
+
 C. March 14
+
 D. March 15
+
 E. March 27
 
 <a id="m1-q09"></a>
@@ -107,9 +139,13 @@ E. March 27
 How many whole numbers from 1 to 50 (including 1 and 50) have exactly three factors?
 
 A. 4
+
 B. 5
+
 C. 6
+
 D. 7
+
 E. 15
 
 <a id="m1-q10"></a>
@@ -118,9 +154,13 @@ E. 15
 A farm packs eggs in cartons of 12. Today it collected 250 eggs and filled as many cartons as it could. How many more eggs would it need to fill one more carton?
 
 A. 2
+
 B. 10
+
 C. 12
+
 D. 20
+
 E. 21
 
 <a id="m1-q11"></a>
@@ -129,9 +169,13 @@ E. 21
 Paper plates are sold in packs of 20 and paper cups are sold in packs of 15. Jo wants exactly the same number of plates and cups, and she wants to buy as few packs as possible. How many cups will she buy?
 
 A. 5
+
 B. 7
+
 C. 35
+
 D. 60
+
 E. 300
 
 <a id="m1-q12"></a>
@@ -140,9 +184,13 @@ E. 300
 Which of these numbers is divisible by 8?
 
 A. 2316
+
 B. 7124
+
 C. 6412
+
 D. 9180
+
 E. 4520
 
 <a id="m1-q13"></a>
@@ -151,9 +199,13 @@ E. 4520
 Bus A leaves the station every 8 minutes, starting at 6:00 a.m. Bus B leaves the same station every 12 minutes, starting at 6:04 a.m. What is the first time after 6:00 a.m. that both buses leave at the same moment?
 
 A. 6:16 a.m.
+
 B. 6:20 a.m.
+
 C. 6:24 a.m.
+
 D. 6:28 a.m.
+
 E. 7:36 a.m.
 
 <a id="m1-q14"></a>
@@ -162,9 +214,13 @@ E. 7:36 a.m.
 How many factors does 36 have?
 
 A. 4
+
 B. 7
+
 C. 9
+
 D. 10
+
 E. 18
 
 <a id="m1-q15"></a>
@@ -173,9 +229,13 @@ E. 18
 In the four-digit number 3A6B, the letters A and B each stand for a single digit. The number is odd and divisible by 45. What is the number?
 
 A. 3060
+
 B. 3165
+
 C. 3360
+
 D. 3365
+
 E. 3465
 
 <a id="m1-q16"></a>
@@ -184,9 +244,13 @@ E. 3465
 A coach splits 48 balls and 72 cones into identical sets. Every set gets the same number of balls and the same number of cones, and nothing is left over. Each set must contain at least 5 balls. What is the greatest number of sets she can make?
 
 A. 6
+
 B. 8
+
 C. 9
+
 D. 12
+
 E. 24
 
 <a id="m1-q17"></a>
@@ -195,9 +259,13 @@ E. 24
 A hall has rows of 8 chairs. 135 students need seats. What is the smallest number of rows needed so that every student has a seat?
 
 A. 1
+
 B. 7
+
 C. 16
+
 D. 17
+
 E. 18
 
 <a id="m1-q18"></a>
@@ -206,9 +274,13 @@ E. 18
 Ravi has between 50 and 100 marbles. When he puts them in groups of 4, 1 marble is left over. When he puts them in groups of 6, 1 marble is left over. When he puts them in groups of 9, 1 marble is left over. How many marbles does he have?
 
 A. 37
+
 B. 49
+
 C. 61
+
 D. 72
+
 E. 73
 
 <a id="m1-q19"></a>
@@ -224,9 +296,13 @@ Two numbers are written as products of primes:
 What is the greatest common factor of P and Q?
 
 A. 2 × 3
+
 B. 2² × 3
+
 C. 2³ × 3³
+
 D. 2² × 3 × 5 × 7
+
 E. 2³ × 3³ × 5² × 7
 
 <a id="m1-q20"></a>
@@ -235,9 +311,13 @@ E. 2³ × 3³ × 5² × 7
 A red light blinks every 45 seconds and a green light blinks every 1 minute. Both blink at exactly 3:00:00 p.m. When will they next blink at the same moment?
 
 A. 3:00:15 p.m.
+
 B. 3:01:00 p.m.
+
 C. 3:01:45 p.m.
+
 D. 3:03:00 p.m.
+
 E. 3:45:00 p.m.
 
 <a id="m1-q21"></a>
@@ -246,9 +326,13 @@ E. 3:45:00 p.m.
 Which digit in the box makes the four-digit number 6□05 divisible by 11?
 
 A. 1
+
 B. 4
+
 C. 6
+
 D. 7
+
 E. 9
 
 <a id="m1-q22"></a>
@@ -257,9 +341,13 @@ E. 9
 A box of chocolates is not empty. Its chocolates can be shared equally among 4 children, or among 6 children, or among 10 children, with none left over each time. Which one extra fact would be enough, on its own, to tell exactly how many chocolates are in the box?
 
 A. The number of chocolates is even.
+
 B. The box holds fewer than 100 chocolates.
+
 C. The box holds fewer than 150 chocolates.
+
 D. The number of chocolates is a multiple of 12.
+
 E. The number of chocolates is divisible by 3.
 
 <a id="m1-q23"></a>
@@ -268,9 +356,13 @@ E. The number of chocolates is divisible by 3.
 What is the smallest whole number that 72 can be multiplied by to give a perfect square? (A perfect square is a number such as 49 = 7 × 7.)
 
 A. 2
+
 B. 3
+
 C. 4
+
 D. 6
+
 E. 8
 
 <a id="m1-q24"></a>
@@ -279,9 +371,13 @@ E. 8
 A gym class has fewer than 40 students. When they line up in rows of 6, there are 4 students left over. When they line up in rows of 8, there are 6 students left over. How many students are in the class?
 
 A. 10
+
 B. 16
+
 C. 22
+
 D. 24
+
 E. 46
 
 <a id="m1-q25"></a>
@@ -290,9 +386,13 @@ E. 46
 A baker has 54 muffins and 72 cookies. She packs all of them into the greatest possible number of identical gift boxes, with nothing left over. How many cookies are in each box?
 
 A. 3
+
 B. 4
+
 C. 7
+
 D. 18
+
 E. 216
 
 <a id="m1-q26"></a>
@@ -301,9 +401,13 @@ E. 216
 Two gears are meshed together. Gear A has 12 teeth and gear B has 18 teeth. A chalk mark is drawn on each gear at the point where they touch. The gears turn. How many full turns does gear A make before the two chalk marks are touching each other again for the first time?
 
 A. 3
+
 B. 5
+
 C. 6
+
 D. 18
+
 E. 36
 
 <a id="m1-q27"></a>
@@ -312,9 +416,13 @@ E. 36
 Identical rectangular cards measure 6 cm by 10 cm. They are placed side by side, all facing the same way, with no gaps or overlaps, to form the smallest possible square. How many cards are used?
 
 A. 2
+
 B. 8
+
 C. 15
+
 D. 30
+
 E. 60
 
 <a id="m1-q28"></a>
@@ -323,9 +431,13 @@ E. 60
 A hallway has 100 lockers, numbered 1 to 100, and all of them start closed. Student 1 opens every locker. Student 2 changes every 2nd locker (2, 4, 6, …), student 3 changes every 3rd locker (3, 6, 9, …), and so on, until student 100 changes only locker 100. To "change" a locker means to open it if it is closed, or close it if it is open. When all 100 students are done, which of these lockers is open?
 
 A. 24
+
 B. 45
+
 C. 50
+
 D. 72
+
 E. 81
 
 <a id="m1-q29"></a>
@@ -334,9 +446,13 @@ E. 81
 Today is Wednesday. The book club meets every 9 days and the chess club meets every 12 days. Both clubs met today. On what day of the week will both clubs next meet on the same day?
 
 A. Monday
+
 B. Wednesday
+
 C. Thursday
+
 D. Friday
+
 E. Saturday
 
 <a id="m1-q30"></a>
@@ -345,9 +461,13 @@ E. Saturday
 Pencils cost 15¢ each. Lena wants to buy at least one pencil and pay the exact price using only quarters (25¢ coins), with no change given. What is the smallest amount she can pay?
 
 A. 5¢
+
 B. 25¢
+
 C. 40¢
+
 D. 50¢
+
 E. 75¢
 
 ## Answer key

@@ -89,9 +89,13 @@ Example: packs of 18 and 30 → LCM(18, 30) = 90 tiles of each colour (5 packs o
 > A rectangular floor measures 84 cm by 60 cm. It will be covered exactly, with no gaps, overlaps, or cutting, by identical square tiles that are as large as possible. How many tiles are needed?
 >
 > A. 7
+>
 > B. 12
+>
 > C. 35
+>
 > D. 140
+>
 > E. 420
 >
 > **Answer: C.**
