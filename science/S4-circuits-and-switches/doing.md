@@ -60,7 +60,7 @@ E. Only M stays lit
 <a id="s4-q03"></a>
 ### S4-Q03
 
-Exactly one switch is open. Only the bell-shaped bulb B is lit. Which switch is open?
+Exactly one switch is open. Only bulb B is lit. Which switch is open?
 
 ```text
 (+)--*--[T]--(A)--*--[R]--[S]--(-)
