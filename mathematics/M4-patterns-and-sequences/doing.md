@@ -224,7 +224,7 @@ E. 21
 <a id="m4-q14"></a>
 ### M4-Q14
 
-Labels are handed out in order from two bundles, alternating A, B, A, B. Bundle A supplies 2, 5, 8, … in steps of 3. Bundle B supplies 4, 8, 12, … in steps of 4. At which two handouts does a label first show the number 8?
+Labels are handed out in order from two bundles, alternating A, B, A, B. Bundle A supplies 2, 5, 8, … in steps of 3. Bundle B supplies 4, 8, 12, … in steps of 4. Which two handouts give labels marked 8?
 
 A. 3 and 4
 
@@ -393,7 +393,7 @@ E. Term 8
 <a id="m4-q25"></a>
 ### M4-Q25
 
-A mosaic contains a straight row of n touching hexagons. Each new hexagon shares exactly one whole side with the previous one and touches no earlier hexagon. Lou counts every side of every hexagon, including a shared side twice. How much must she subtract from her count to get the number of distinct sides?
+A mosaic contains a straight row of n touching hexagons. Each new hexagon shares exactly one whole side with the previous one and touches no earlier hexagon. Lou counts every side of every hexagon, including a shared side twice. Which expression gives the amount she must subtract to get the number of distinct sides for every row length n?
 
 A. 1
 
