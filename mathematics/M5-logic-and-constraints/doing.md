@@ -192,7 +192,7 @@ A. Every volunteer who completed orientation wears a blue badge.
 
 B. People without blue badges missed orientation.
 
-C. Everyone wearing blue has completed orientation.
+C. A volunteer who missed orientation could still wear a blue badge.
 
 D. Lin has completed orientation.
 

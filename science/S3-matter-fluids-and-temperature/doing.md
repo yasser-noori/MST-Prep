@@ -11,13 +11,13 @@ These are original practice questions. Answer each on paper and mark it correct,
 
 A cylinder holds 26 mL of water. With a solid pebble fully submerged it reads 39 mL. No water spills. What is the pebble's volume? Use 1 mL = 1 cm³.
 
-A. 65 cm³\
+A. 65 cm³
 
-B. 26 cm³\
+B. 26 cm³
 
-C. 39 cm³\
+C. 39 cm³
 
-D. 32.5 cm³\
+D. 32.5 cm³
 
 E. 13 cm³
 
@@ -26,13 +26,13 @@ E. 13 cm³
 
 Two solid blocks each occupy 12 cm³. Block H has a mass of 42 g and block J a mass of 30 g. How much greater is H's density?
 
-A. 12 g/cm³\
+A. 12 g/cm³
 
-B. 6 g/cm³\
+B. 6 g/cm³
 
-C. 1 g/cm³\
+C. 1 g/cm³
 
-D. 3.5 g/cm³\
+D. 3.5 g/cm³
 
 E. 2.5 g/cm³
 
@@ -47,13 +47,13 @@ A hanging sinker holds a cork fully underwater. No water spills and the thread h
 | Sinker | 46 |
 | Sinker and cork | 62 |
 
-A. 46 cm³\
+A. 46 cm³
 
-B. 16 cm³\
+B. 16 cm³
 
-C. 11 cm³\
+C. 11 cm³
 
-D. 62 cm³\
+D. 62 cm³
 
 E. 27 cm³
 
@@ -62,13 +62,13 @@ E. 27 cm³
 
 A metal clip at 12 °C touches a dry tile at 19 °C. Which way does heat flow between them at first?
 
-A. From the larger object regardless of temperature\
+A. From the larger object regardless of temperature
 
-B. Only from the object with more mass\
+B. Only from the object with more mass
 
-C. From clip to tile\
+C. From clip to tile
 
-D. From tile to clip\
+D. From tile to clip
 
 E. Neither way until both reach 19 °C
 
@@ -82,13 +82,13 @@ Two samples cool for the same time. Which sample has the lower ending temperatur
 | K | 68 | 45 |
 | L | 44 | 31 |
 
-A. L ends lower and both drop equally.\
+A. L ends lower and both drop equally.
 
-B. L ends lower and L drops more.\
+B. L ends lower and L drops more.
 
-C. K ends lower and L drops more.\
+C. K ends lower and L drops more.
 
-D. L ends lower and K drops more.\
+D. L ends lower and K drops more.
 
 E. K ends lower and K drops more.
 
@@ -99,13 +99,13 @@ E. K ends lower and K drops more.
 
 A 60 g mineral occupies 20 cm³. What mass would 7 cm³ of the same uniform mineral have?
 
-A. 3 g\
+A. 3 g
 
-B. 47 g\
+B. 47 g
 
-C. 21 g\
+C. 21 g
 
-D. 7 g\
+D. 7 g
 
 E. 140 g
 
@@ -114,13 +114,13 @@ E. 140 g
 
 An object sinks in liquid X of density 0.80 g/cm³ but rises in liquid Y of density 1.20 g/cm³. It keeps the same mass and volume. Which of these could be its average density?
 
-A. 1.25 g/cm³\
+A. 1.25 g/cm³
 
-B. 0.70 g/cm³\
+B. 0.70 g/cm³
 
-C. 1.20 g/cm³\
+C. 1.20 g/cm³
 
-D. 0.80 g/cm³\
+D. 0.80 g/cm³
 
 E. 0.95 g/cm³
 
@@ -129,13 +129,13 @@ E. 0.95 g/cm³
 
 A fully submerged object occupies 18 cm³. The cylinder reading with the object present is 73 mL. No water spilled. What was the initial water reading? Use 1 mL = 1 cm³.
 
-A. 36.5 mL\
+A. 36.5 mL
 
-B. 18 mL\
+B. 18 mL
 
-C. 55 mL\
+C. 55 mL
 
-D. 91 mL\
+D. 91 mL
 
 E. 73 mL
 
@@ -144,13 +144,13 @@ E. 73 mL
 
 A thermometer always reads 3 °C too high. It reads 24 °C before a sample is heated and 38 °C afterward. Which pair gives the actual final temperature and the temperature rise?
 
-A. 35 °C final, 17 °C rise\
+A. 35 °C final, 17 °C rise
 
-B. 35 °C final, 14 °C rise\
+B. 35 °C final, 14 °C rise
 
-C. 38 °C final, 14 °C rise\
+C. 38 °C final, 14 °C rise
 
-D. 35 °C final, 11 °C rise\
+D. 35 °C final, 11 °C rise
 
 E. 41 °C final, 14 °C rise
 
@@ -159,13 +159,13 @@ E. 41 °C final, 14 °C rise
 
 Two beads each have a mass of 8 g. The glass bead occupies 4 cm³, and the other bead occupies 10 cm³. Which has greater average density?
 
-A. The bead with the greater surface area\
+A. The bead with the greater surface area
 
-B. More temperature data are needed.\
+B. More temperature data are needed.
 
-C. They have equal density because their masses match.\
+C. They have equal density because their masses match.
 
-D. The 10 cm³ bead\
+D. The 10 cm³ bead
 
 E. The glass bead
 
@@ -176,13 +176,13 @@ E. The glass bead
 
 A warm stone is surrounded by cooler air. Both eventually reach 22 °C. At that point what is the net heat transfer between the stone and air?
 
-A. Zero\
+A. Zero
 
-B. From the stone to the air\
+B. From the stone to the air
 
-C. Toward the object with smaller volume\
+C. Toward the object with smaller volume
 
-D. From the air to the stone\
+D. From the air to the stone
 
 E. Toward the object with greater density
 
@@ -191,13 +191,13 @@ E. Toward the object with greater density
 
 A cylinder reads 22 mL initially and 38 mL with a bead fully underwater. A large air bubble is stuck to the bead. Mia uses the 16 mL rise as the bead's volume and divides its measured mass by that volume. Compared with the bead's true density, what does she get?
 
-A. Too low because the measured volume includes the bubble\
+A. Too low because the measured volume includes the bubble
 
-B. Correct because air has little mass\
+B. Correct because air has little mass
 
-C. Correct because the bead is fully underwater\
+C. Correct because the bead is fully underwater
 
-D. Too low because the bubble lowers the measured mass\
+D. Too low because the bubble lowers the measured mass
 
 E. Too high because the measured volume includes the bubble
 
@@ -206,13 +206,13 @@ E. Too high because the measured volume includes the bubble
 
 A sample starts at −6 °C and warms by 11 °C. What is its final temperature?
 
-A. −17 °C\
+A. −17 °C
 
-B. 11 °C\
+B. 11 °C
 
-C. 5 °C\
+C. 5 °C
 
-D. 17 °C\
+D. 17 °C
 
 E. −5 °C
 
@@ -221,13 +221,13 @@ E. −5 °C
 
 A polymer block has density 1.1 g/cm³. In which liquid would it sink after being released below the surface, away from the walls?
 
-A. A liquid of density 0.9 g/cm³\
+A. A liquid of density 0.9 g/cm³
 
-B. A liquid of density 1.2 g/cm³\
+B. A liquid of density 1.2 g/cm³
 
-C. A liquid of density 1.1 g/cm³\
+C. A liquid of density 1.1 g/cm³
 
-D. A liquid of density 1.4 g/cm³\
+D. A liquid of density 1.4 g/cm³
 
 E. A liquid of density 1.3 g/cm³
 
@@ -236,13 +236,13 @@ E. A liquid of density 1.3 g/cm³
 
 A cylinder holds 28 mL of water and has marks up to 50 mL. A 60 g solid has density 2.5 g/cm³. What is the least amount of water to remove so the solid can be fully submerged with the final reading at or below 50 mL? Assume the shape fits and enough water remains to cover it. Use 1 mL = 1 cm³.
 
-A. 2 mL\
+A. 2 mL
 
-B. 0 mL\
+B. 0 mL
 
-C. 22 mL\
+C. 22 mL
 
-D. 4 mL\
+D. 4 mL
 
 E. 24 mL
 
@@ -253,13 +253,13 @@ E. 24 mL
 
 A bottle and its liquid together have a mass of 140 g. The empty bottle has a mass of 35 g. The liquid occupies 70 mL. What is the liquid's density?
 
-A. 3.0 g/mL\
+A. 3.0 g/mL
 
-B. 1.5 g/mL\
+B. 1.5 g/mL
 
-C. 0.5 g/mL\
+C. 0.5 g/mL
 
-D. 0.67 g/mL\
+D. 0.67 g/mL
 
 E. 2.0 g/mL
 
@@ -268,13 +268,13 @@ E. 2.0 g/mL
 
 Three separate cups hold water at 8 °C, 18 °C and 32 °C. The same thermometer is moved directly from the 8 °C cup to the 32 °C cup. It reaches the cup's temperature at each stop. It is then moved to the 18 °C cup. Which way does heat initially flow at each move?
 
-A. Into the thermometer, then out of it\
+A. Into the thermometer, then out of it
 
-B. Into the thermometer both times\
+B. Into the thermometer both times
 
-C. Out of the thermometer, then into it\
+C. Out of the thermometer, then into it
 
-D. Out of the thermometer both times\
+D. Out of the thermometer both times
 
 E. Into the thermometer, then no net flow
 
@@ -287,13 +287,13 @@ A cooling sample is measured every two minutes. In which interval is the tempera
 |---|---:|---:|---:|---:|---:|---:|
 | Temperature (°C) | 76 | 70 | 58 | 50 | 45 | 42 |
 
-A. 4–6 min\
+A. 4–6 min
 
-B. 2–4 min\
+B. 2–4 min
 
-C. 0–2 min\
+C. 0–2 min
 
-D. 6–8 min\
+D. 6–8 min
 
 E. 8–10 min
 
@@ -302,13 +302,13 @@ E. 8–10 min
 
 A metal sample has density 4 g/cm³ and occupies 9 cm³. A wooden sample has density 0.8 g/cm³. What volume of wood would have the same mass as the metal?
 
-A. 7.2 cm³\
+A. 7.2 cm³
 
-B. 36 cm³\
+B. 36 cm³
 
-C. 11.25 cm³\
+C. 11.25 cm³
 
-D. 45 cm³\
+D. 45 cm³
 
 E. 1.8 cm³
 
@@ -317,13 +317,13 @@ E. 1.8 cm³
 
 A chain is gradually lowered into a full overflow vessel. All the chain ends up submerged, and exactly 12 mL of water runs into the empty collecting cup. What chain volume is below the surface? Use 1 mL = 1 cm³.
 
-A. 24 cm³\
+A. 24 cm³
 
-B. The volume of water left in the vessel\
+B. The volume of water left in the vessel
 
-C. 12 cm³\
+C. 12 cm³
 
-D. The vessel's full capacity\
+D. The vessel's full capacity
 
 E. 6 cm³
 
@@ -334,13 +334,13 @@ E. 6 cm³
 
 Two insulated containers start at the same temperature. A lamp warms each for four minutes. A rises by 8 °C and B reaches 34 °C. Which single extra observation is enough to decide which rose more?
 
-A. The colour of container A\
+A. The colour of container A
 
-B. A's warming time\
+B. A's warming time
 
-C. B's volume\
+C. B's volume
 
-D. B's starting temperature\
+D. B's starting temperature
 
 E. The mass of container B
 
@@ -349,13 +349,13 @@ E. The mass of container B
 
 A 90 g piece of uniform clay is divided into three equal pieces with no air gaps added. The original clay density is 1.8 g/cm³. What is the density of one piece?
 
-A. 5.4 g/cm³\
+A. 5.4 g/cm³
 
-B. 0.6 g/cm³\
+B. 0.6 g/cm³
 
-C. 1.8 g/cm³\
+C. 1.8 g/cm³
 
-D. 3.0 g/cm³\
+D. 3.0 g/cm³
 
 E. 30 g/cm³
 
@@ -364,13 +364,13 @@ E. 30 g/cm³
 
 A student sets a 24 °C spoon against a 30 °C plate. The spoon gains energy from the plate. Which observation would show that the direction of net heat transfer has reversed later?
 
-A. The spoon is at 29 °C and the plate is at 26 °C.\
+A. The spoon is at 29 °C and the plate is at 26 °C.
 
-B. The plate is now at 29 °C and the spoon remains at 24 °C.\
+B. The plate is now at 29 °C and the spoon remains at 24 °C.
 
-C. The plate has a larger area than the spoon.\
+C. The plate has a larger area than the spoon.
 
-D. The spoon and plate are both at 27 °C.\
+D. The spoon and plate are both at 27 °C.
 
 E. The spoon has warmed to 25 °C and the plate is at 28 °C.
 
@@ -379,13 +379,13 @@ E. The spoon has warmed to 25 °C and the plate is at 28 °C.
 
 A chunk of ice at its melting temperature is heated steadily at ordinary air pressure. Its temperature stays level while some ice turns to liquid. Which explanation fits?
 
-A. The thermometer must be broken.\
+A. The thermometer must be broken.
 
-B. The liquid is changing into ice.\
+B. The liquid is changing into ice.
 
-C. No energy enters the sample during the level interval.\
+C. No energy enters the sample during the level interval.
 
-D. The sample is losing all its mass.\
+D. The sample is losing all its mass.
 
 E. Energy is going into the change of state.
 
@@ -394,13 +394,13 @@ E. Energy is going into the change of state.
 
 A sealed capsule occupies 25 cm³. Its empty mass is 12 g. A technician loads it without changing its outside volume and wants it to stay suspended in a liquid of density 1.2 g/cm³. How much mass should be loaded?
 
-A. 20.8 g\
+A. 20.8 g
 
-B. 18 g\
+B. 18 g
 
-C. 42 g\
+C. 42 g
 
-D. 30 g\
+D. 30 g
 
 E. 13 g
 
@@ -411,13 +411,13 @@ E. 13 g
 
 Four equal solid marbles are small enough to pass through a cylinder opening. The cylinder reads 41 mL with one marble submerged and 56 mL with all four submerged in the same water. No water spills. What is the water reading with no marbles? Use 1 mL = 1 cm³.
 
-A. 21 mL\
+A. 21 mL
 
-B. 26 mL\
+B. 26 mL
 
-C. 37.25 mL\
+C. 37.25 mL
 
-D. 36 mL\
+D. 36 mL
 
 E. 41 mL
 
@@ -426,28 +426,28 @@ E. 41 mL
 
 A cooler's label promises to keep a sample at or below 8 °C for every recorded reading on a trip. At departure the sample reads 5 °C. At the next three checks it reads 7, 9 and 6 °C. Which statement correctly evaluates the record?
 
-A. The promise held because the average reading was below 8 °C.\
+A. The promise held because the average reading was below 8 °C.
 
-B. The promise failed as soon as the sample reached 7 °C.\
+B. The promise failed as soon as the sample reached 7 °C.
 
-C. The promise held because the final reading was 6 °C.\
+C. The promise held because the final reading was 6 °C.
 
-D. The promise failed only if two consecutive readings exceeded 8 °C.\
+D. The promise failed only if two consecutive readings exceeded 8 °C.
 
 E. The promise failed at the 9 °C check.
 
 <a id="s3-q28"></a>
 ### S3-Q28
 
-A strip has a horizontal line marking exactly 100 cm³ on a rigid tank. The water reaches that line. A technician removes a fully submerged 15 cm³ solid and pours in liquid to restore the mark. How much liquid must be added? No other liquid enters or leaves. Use 1 mL = 1 cm³.
+A rigid tank has a horizontal line marking exactly 100 cm³. The water reaches that line. A technician removes a fully submerged 15 cm³ solid and pours in liquid to restore the mark. How much liquid must be added? No other liquid enters or leaves. Use 1 mL = 1 cm³.
 
-A. 115 mL\
+A. 115 mL
 
-B. 85 mL\
+B. 85 mL
 
-C. 7.5 mL\
+C. 7.5 mL
 
-D. 100 mL\
+D. 100 mL
 
 E. 15 mL
 
@@ -456,13 +456,13 @@ E. 15 mL
 
 A sealed two-part float has a 30 cm³ compartment of mass 36 g and a 70 cm³ compartment of mass 49 g. These volumes add to the whole outside volume. The float is released beneath a liquid of density 0.90 g/cm³. What happens?
 
-A. It sinks because the two compartment densities average to 0.95 g/cm³.\
+A. It sinks because the two compartment densities average to 0.95 g/cm³.
 
-B. It rises because its overall density is 0.85 g/cm³.\
+B. It rises because its overall density is 0.85 g/cm³.
 
-C. It rises because the entire float's density is 0.70 g/cm³.\
+C. It rises because the entire float's density is 0.70 g/cm³.
 
-D. It sinks because the first compartment has density 1.20 g/cm³.\
+D. It sinks because the first compartment has density 1.20 g/cm³.
 
 E. It stays suspended because one compartment would rise and the other would sink.
 
@@ -471,13 +471,13 @@ E. It stays suspended because one compartment would rise and the other would sin
 
 A data logger records temperatures only at whole minutes. It shows 19 °C at minute 2 and 25 °C at minute 6. What can you conclude about minute 4 from these readings alone?
 
-A. It must have been below 22 °C.\
+A. It must have been below 22 °C.
 
-B. It must have been 25 °C.\
+B. It must have been 25 °C.
 
-C. It must have been above 25 °C.\
+C. It must have been above 25 °C.
 
-D. The exact temperature at minute 4 cannot be determined.\
+D. The exact temperature at minute 4 cannot be determined.
 
 E. It must have been 22 °C.
 
