@@ -333,7 +333,7 @@ E. 24
 <a id="m4-q21"></a>
 ### M4-Q21
 
-A tile maker starts with one row of four tiles. At every new stage she adds the same positive whole number of tiles to the right end. One stage has 22 tiles and the very next stage has 28. Which claim is correct?
+Stage 1 is one row of four tiles. At every later stage a tile maker adds the same positive whole number of tiles to the right end. One stage has 22 tiles and the very next stage has 28. Which claim is correct?
 
 A. 40 is stage 7.
 
