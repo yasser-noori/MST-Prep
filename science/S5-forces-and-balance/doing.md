@@ -576,7 +576,7 @@ E. 0.4 m
 <a id="s5-q29"></a>
 ### S5-Q29
 
-A tray has two vertical support cords, one at each end. The tray stays level and at rest. Cord A pulls up with 16 N. Cord B pulls up with 9 N. An apple on the tray weighs 7 N. The tray and apple are the only loads. What would an empty-tray scale reading be, in newtons?
+A tray has two vertical support cords, one at each end. The tray stays level and at rest. Cord A pulls up with 16 N. Cord B pulls up with 9 N. An apple on the tray weighs 7 N. The tray and apple are the only loads. If the apple is removed and the empty tray alone hangs from one scale, what does the scale read?
 
 A. 9 N
 
@@ -627,8 +627,8 @@ E. Down the page at L
 | S5-Q10 | E | Challenge | The two left turns total 14. The original right load is 14 ÷ 2 = 7 N. At R1, 14 N total is needed, so add 7 N. | B. The original 7 N load still acts at R1. |
 | S5-Q11 | A | Challenge | The loads are three marks left and two marks right of mark 4. Both produce 6 N-marks. | D. The 3 N load is closer to the pivot. |
 | S5-Q12 | C | Medium | The two rightward forces total 9 N. With 4 N left, another 5 N left is needed. | A. An extra rightward force would increase the existing net force. |
-| S5-Q13 | E | Medium | The original turns are equal. The new load has zero distance from the pivot and adds zero turn. | C. The added load acts directly at the pivot. |
-| S5-Q14 | E | Challenge | Multiply each force by its distance. The strongest turn is 5 × 9 = 45 N·cm. Each other setting gives 40 or 36 N·cm. | C. The largest push gives 40 N·cm, less than 45 N·cm. |
+| S5-Q13 | E | Challenge | The original turns are equal. The third load’s weight is unknown, but that does not matter: at zero distance from the pivot it adds zero turn, so the information is sufficient. | C. The added load acts directly at the pivot. |
+| S5-Q14 | E | Medium | Multiply each force by its distance. The strongest turn is 5 × 9 = 45 N·cm. Each other setting gives 40 or 36 N·cm. | C. The largest push gives 40 N·cm, less than 45 N·cm. |
 | S5-Q15 | B | Medium | The suitcase remains at rest, so the scale supplies an equal upward force on it. | C. That force acts on the scale. |
 | S5-Q16 | D | Medium | The two left loads turn in the same direction. Their effects add to 2 × 4 + 2 × 2 = 12. | E. The load at L2 contributes another 4 N-marks. |
 | S5-Q17 | A | Medium | The lid rotates about the hinge pin, so distances for its turning effects start there. | D. The hook locates the applied force. |
