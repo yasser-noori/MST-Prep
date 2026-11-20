@@ -36,6 +36,8 @@ All questions here are original practice. They are not copies of real test quest
 
 Example: 18 red and 30 blue tiles → GCF(18, 30) = 6 bags, each with 3 red + 5 blue = 8 tiles.
 
+![18 red and 30 blue tiles sorted into 6 identical bags of 3 red and 5 blue](../../assets/M1/learn-gcf-bags.svg)
+
 ### Pattern 2: Matching totals and events that line up (LCM)
 
 - **Clue to notice:** things come in fixed **steps** (packs of 8, a bus every 12 minutes, a light every 6 seconds) and you want the steps to **match** or happen **together again**. The answer has to be *at least as big as* the largest step.
@@ -48,7 +50,11 @@ Example: 18 red and 30 blue tiles → GCF(18, 30) = 6 bags, each with 3 red + 5 
 
 Example: packs of 18 and 30 → LCM(18, 30) = 90 tiles of each colour (5 packs of 18, 3 packs of 30).
 
+![Multiples of 18 and of 30 on one number line first meet at 90](../../assets/M1/learn-lcm-line.svg)
+
 **GCF or LCM?** Ask: "Am I *cutting up* amounts I already have (answer gets smaller → GCF), or *building up* to a total that several step sizes all reach (answer gets bigger → LCM)?"
+
+![Decision chart: cutting up amounts you have means GCF; building up to a shared total means LCM](../../assets/M1/learn-gcf-or-lcm.svg)
 
 ### Pattern 3: Remainders and leftovers
 
@@ -61,10 +67,14 @@ Example: packs of 18 and 30 → LCM(18, 30) = 90 tiles of each colour (5 packs o
   - Working backward: if a number leaves the **same** remainder for several divisors, then (number − remainder) is a common multiple. If it is always **short by the same amount** (4 left in 6s, 6 left in 8s are both "2 short"), then (number + 2) is a common multiple.
 - **How to check it:** rebuild the total. For 46 bottles in crates of 8, write 46 = 5 × 8 + 6. Six bottles are left over and two more would fill another crate.
 
+![46 bottles fill 5 crates of 8 with 6 left over; 2 more would fill a sixth crate](../../assets/M1/learn-remainder-crates.svg)
+
 ### Pattern 4: Prime factorization and divisibility rules
 
 - **Clue to notice:** large numbers, missing digits (31□4), counting factors, or numbers already written as products of primes.
 - **Decision to make:** break numbers into primes (180 = 2² × 3² × 5) or use a quick rule:
+
+![Factor tree: 180 = 2 × 90, 90 = 2 × 45, 45 = 3 × 15, 15 = 3 × 5](../../assets/M1/learn-factor-tree-180.svg)
 
 | Divisible by | Rule |
 |---|---|
@@ -103,6 +113,8 @@ Example: packs of 18 and 30 → LCM(18, 30) = 90 tiles of each colour (5 packs o
 > **Decisive step:** the tile side must fit exactly into **both** 84 and 60, and it must be as large as possible, so the side is GCF(84, 60). 84 = 2² × 3 × 7 and 60 = 2² × 3 × 5, so the GCF is 2² × 3 = 12 cm. Along the 84 cm side there are 84 ÷ 12 = 7 tiles, and along the 60 cm side there are 60 ÷ 12 = 5 tiles, so 7 × 5 = **35 tiles**.
 >
 > **Check:** 35 tiles × (12 × 12) cm² = 5040 cm², and 84 × 60 = 5040 cm².
+>
+> ![An 84 cm by 60 cm floor divided into 7 by 5 squares of 12 cm](../../assets/M1/learn-worked-floor.svg)
 >
 > **Why the tempting answer is wrong:** **B (12)** is the side length of each tile, not the number of tiles. It answers "how big?" when the question asks "how many?". The other traps: A (7) counts only one row; D (140) uses a common factor that is not the greatest (6 cm tiles → 14 × 10); E (420) is a common multiple of the two lengths. A tile side must divide both lengths.
 
