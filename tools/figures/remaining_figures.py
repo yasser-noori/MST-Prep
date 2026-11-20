@@ -3,6 +3,7 @@
 from pathlib import Path
 
 from m2_learning_figures import generate as generate_m2_learning
+from m2_practice_figures import generate as generate_m2_practice
 from svgkit import (
     BLUE, BLUE_FILL, GRAY_FILL, GREEN, GREEN_FILL, INK, LINE, MUTED,
     ORANGE, ORANGE_FILL, Fig,
@@ -51,13 +52,7 @@ def geometry():
     fig.text(200, 197, "AB = 14 cm", 15, anchor="middle")
     save("M2", "q01-circle", fig)
 
-    fig = card(520, 237, "Trace the six outside edges",
-               "The missing horizontal and vertical steps are 12 minus 7, or 5 m, and 8 minus 5, or 3 m.")
-    fig.path("M120,64 H390 V144 H278 V192 H120 Z", BLUE_FILL, BLUE, 2)
-    for x, y, text in [(255, 56, "12 m"), (415, 109, "5 m"), (332, 134, "5 m"),
-                       (303, 177, "3 m"), (198, 215, "7 m"), (92, 134, "8 m")]:
-        fig.text(x, y, text, 15, anchor="middle")
-    save("M2", "sol04-garden", fig)
+    generate_m2_practice()
 
 
 def algebra():
