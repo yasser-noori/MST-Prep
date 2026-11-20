@@ -42,11 +42,15 @@ Units: 1 mL = 1 cm³, 1 L = 1000 mL = 1000 cm³, 1 m = 100 cm, 1 m² = 10 000 cm
 
 ### Pattern 1: Radius or diameter? Around or inside?
 
+![A radius runs from the centre to the rim. The diameter spans the circle through its centre. Circumference is the rim length, and area is the region inside.](../../assets/M2/learn-circle-measurements.svg)
+
 - **Clue to notice:** a circle (or half or quarter circle, a cup, a can, a wheel) with one length marked. Look at where the line goes: from the centre to the edge is the **radius**; all the way across through the centre is the **diameter**. Then look at the question word: "around", "edge", "fence", "frame", "turns of a wheel" mean **circumference / perimeter**; "cover", "paint", "space", "region" mean **area**.
 - **Decision to make:** halve the diameter before using π × r × r. For a half or quarter circle, take half or a quarter of the full circle's answer, then decide whether the straight edges are part of the boundary being measured.
 - **How to check:** the units tell you what you found: cm for a length, cm² for an area, cm³ for a volume. If you used the diameter in the area formula, your answer is exactly 4 times too big. Always use the value of π the question gives (3.14, or leave the answer "in terms of π").
 
 ### Pattern 2: Which amount of water is the question asking for?
+
+![Three measurements on the same tank: the gap above the water, the water depth, and the full inside height.](../../assets/M2/learn-tank-heights.svg)
 
 - **Clue to notice:** a container with a water level marked. There are three different volumes in the same picture: **water present** (base × water depth), **empty space** (base × gap above the water), and **total capacity** (base × full inside height).
 - **Decision to make:** read the last sentence carefully. "How much water is in it?" is water present. "How much more can be added?" or "how much to fill it?" is empty space. "How much does it hold?" is capacity. Use **inside** dimensions only; the walls do not hold water.
@@ -54,11 +58,15 @@ Units: 1 mL = 1 cm³, 1 L = 1000 mL = 1000 cm³, 1 m = 100 cm, 1 m² = 10 000 cm
 
 ### Pattern 3: Working backward from a volume to a depth
 
+![120 cubic centimetres spread over an 8 cm by 5 cm base give a depth of 3 cm.](../../assets/M2/learn-depth-from-volume.svg)
+
 - **Clue to notice:** you are told how much water is poured in (often in mL or L) and asked for a depth, a rise in level, or a missing side.
 - **Decision to make:** for any container with straight vertical sides, **depth = volume ÷ base area**. That gives the rise; add it to any water already there if the question asks for the new depth. Then compare with the inside height: if the new depth is taller than the container, the extra spills.
 - **How to check:** multiply back. Base area × your depth should give the volume you started with. Make sure the volume is in cm³ before dividing by a base in cm².
 
 ### Pattern 4: Units and scaling
+
+![Doubling an edge gives two unit lengths, four unit squares, or eight unit cubes in two layers.](../../assets/M2/learn-scaling.svg)
 
 - **Clue to notice:** the question mixes units (cm and m, cm³ and L), or says a shape is enlarged, doubled, or built "to scale".
 - **Decision to make:** convert before you calculate, or convert the final answer, but never mix. For scaling, if every length is multiplied by k, then lengths (and perimeters) are multiplied by k, areas by k × k, and volumes by k × k × k. Doubling every edge makes area 4 times as big and volume 8 times as big, not 2 times.
@@ -87,6 +95,8 @@ This example is original practice. It does not count toward the 30 drills.
 > **Answer: B.**
 
 **Decisive step.** The question asks for the **empty space**, not the water. The empty part is a box with the same base, 10 cm × 8 cm = 80 cm², and a height of 12 − 5 = 7 cm. Its volume is 80 × 7 = 560 cm³, and 1 cm³ = 1 mL, so 560 mL more can be added.
+
+![The 7 cm gap over the 80 cm² base holds another 560 mL.](../../assets/M2/learn-tank-gap.svg)
 
 **Check.** Water present = 80 × 5 = 400 cm³. Capacity = 80 × 12 = 960 cm³. 400 + 560 = 960, so the three amounts fit together.
 

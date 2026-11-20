@@ -2,6 +2,7 @@
 
 from pathlib import Path
 
+from m2_learning_figures import generate as generate_m2_learning
 from svgkit import (
     BLUE, BLUE_FILL, GRAY_FILL, GREEN, GREEN_FILL, INK, LINE, MUTED,
     ORANGE, ORANGE_FILL, Fig,
@@ -38,22 +39,7 @@ def chain(fig, labels, y, fills=()):
 
 
 def geometry():
-    fig = card(510, 225, "Water in the tank",
-               "Inside length 10 cm, inside width 8 cm, inside height 12 cm, water depth 5 cm.")
-    x, top, width, bottom = 76, 50, 235, 182
-    level = bottom - (bottom - top) * 5 / 12
-    fig.rect(x, level, width, bottom - level, BLUE_FILL, "none")
-    fig.line(x, level, x + width, level, BLUE, 2)
-    fig.path(f"M{x},{top} V{bottom} H{x + width} V{top}", sw=2)
-    fig.text(x + width / 2, 92, "Air space", 15, MUTED, "middle")
-    fig.text(x + width / 2, 165, "Water", 15, BLUE, "middle")
-    fig.text(x + width / 2, 204, "10 cm long × 8 cm wide inside", 14, anchor="middle")
-    for mark_x, mark_top, label in [(330, top, "12 cm inside height"), (352, level, "5 cm depth")]:
-        fig.line(mark_x, mark_top, mark_x, bottom, MUTED)
-        for y in (mark_top, bottom):
-            fig.line(mark_x - 5, y, mark_x + 5, y, MUTED)
-        fig.text(mark_x + 12, (mark_top + bottom) / 2 + 5, label, 14)
-    save("M2", "learn-tank", fig)
+    generate_m2_learning()
 
     fig = card(400, 213, "Circle with centre O",
                "A and B lie on opposite sides of the circle. AB passes through O and is 14 cm long.")
