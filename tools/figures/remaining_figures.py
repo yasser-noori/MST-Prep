@@ -248,7 +248,7 @@ def fluids():
 
 
 def lamp(fig, x, y, label):
-    fig.circle(x, y, 13, ORANGE_FILL, INK)
+    fig.circle(x, y, 13, GRAY_FILL, INK)
     fig.line(x - 6, y - 6, x + 6, y + 6)
     fig.line(x - 6, y + 6, x + 6, y - 6)
     fig.text(x, y - 19, label, 14, anchor="middle")
