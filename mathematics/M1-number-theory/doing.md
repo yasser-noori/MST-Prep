@@ -166,7 +166,7 @@ E. 21
 <a id="m1-q11"></a>
 ### M1-Q11
 
-Paper plates are sold in packs of 20 and paper cups are sold in packs of 15. Jo wants exactly the same number of plates and cups, and she wants to buy as few packs as possible. How many cups will she buy?
+Paper plates are sold in packs of 20 and paper cups are sold in packs of 15. Jo needs at least one pack of each and wants exactly the same number of plates and cups, and she wants to buy as few packs as possible. How many cups will she buy?
 
 A. 5
 
@@ -353,7 +353,7 @@ E. The number of chocolates is divisible by 3.
 <a id="m1-q23"></a>
 ### M1-Q23
 
-What is the smallest whole number that 72 can be multiplied by to give a perfect square? (A perfect square is a number such as 49 = 7 × 7.)
+What is the smallest positive whole number that 72 can be multiplied by to give a perfect square? (A perfect square is a number such as 49 = 7 × 7.)
 
 A. 2
 
@@ -443,32 +443,32 @@ E. 81
 <a id="m1-q29"></a>
 ### M1-Q29
 
-Today is Wednesday. The book club meets every 9 days and the chess club meets every 12 days. Both clubs met today. On what day of the week will both clubs next meet on the same day?
+A clockmaker finds a repeating chime on a recording. The chime sounds at a fixed interval of at least 2 whole minutes. She hears it at minute 0, minute 36 and minute 60, but parts of the recording are missing. A clear section confirms that it did **not** sound at minute 18. Which pair lists all intervals still possible?
 
-A. Monday
+A. 2 and 6 minutes
 
-B. Wednesday
+B. 3 and 12 minutes
 
-C. Thursday
+C. 4 and 12 minutes
 
-D. Friday
+D. 4 and 6 minutes
 
-E. Saturday
+E. 6 and 12 minutes
 
 <a id="m1-q30"></a>
 ### M1-Q30
 
-Pencils cost 15¢ each. Lena wants to buy at least one pencil and pay the exact price using only quarters (25¢ coins), with no change given. What is the smallest amount she can pay?
+At a school fair, a machine exchanges a quarter (25¢) for two 10¢ tokens and one 5¢ token. Lena puts in five quarters. A game costs 20¢ and takes **only** 10¢ tokens. How many games can she play using the tokens she receives?
 
-A. 5¢
+A. 2
 
-B. 25¢
+B. 3
 
-C. 40¢
+C. 6
 
-D. 50¢
+D. 10
 
-E. 75¢
+E. 5
 
 ## Answer key
 
@@ -489,9 +489,9 @@ E. 75¢
 | M1-Q13 | A | Challenge | The buses start at different times, so the LCM alone is not enough. List them: A at 6:00, 6:08, 6:16, …; B at 6:04, 6:16, … First match: 6:16. | C (6:24) assumes both start at 6:00 and adds LCM(8, 12) = 24, but bus B does not leave at 6:24. D (6:28) adds 24 to 6:04, but bus A does not leave at 6:28. |
 | M1-Q14 | C | Medium | Factor pairs: 1 × 36, 2 × 18, 3 × 12, 4 × 9, 6 × 6. Factors: 1, 2, 3, 4, 6, 9, 12, 18, 36, which is 9. | D (10) counts the 6 in 6 × 6 twice. B (7) leaves out 1 and 36. |
 | M1-Q15 | E | Challenge | Divisible by 45 means divisible by 5 and by 9. Odd and divisible by 5 → B = 5. Digit sum 3 + A + 6 + 5 = 14 + A must be a multiple of 9, so A = 4: 3465. | A (3060) is divisible by 45 but is even. B (3165) has digit sum 15, so it is divisible by 3 and 5, not 9. |
-| M1-Q16 | B | Challenge | The number of sets must divide 48 and 72 (common factors 1, 2, 3, 4, 6, 8, 12, 24). At least 5 balls each means 48 ÷ sets ≥ 5, so sets ≤ 9. The greatest allowed is 8 (6 balls, 9 cones per set). | D (12) is the GCF, but it gives only 4 balls per set, breaking the extra condition. C (9) is cones per set, and 9 does not divide 48. |
+| M1-Q16 | B | Challenge | The number of sets must divide 48 and 72 (common factors 1, 2, 3, 4, 6, 8, 12, 24). At least 5 balls each means 48 ÷ sets ≥ 5, so sets ≤ 9. The greatest allowed is 8 (6 balls, 9 cones per set). | D (12) divides both totals, but it gives only 4 balls per set. E (24) is the GCF and gives only 2 balls per set. C (9) is cones per set, and 9 does not divide 48. |
 | M1-Q17 | D | Medium | 135 = 16 × 8 + 7. Sixteen full rows seat 128; the other 7 students need one more row: 17 rows. | C (16) ignores the 7 students still standing. B (7) is the remainder. |
-| M1-Q18 | E | Challenge | One left over each time means (marbles − 1) is a common multiple of 4, 6 and 9, which are multiples of LCM = 36. So marbles = 37, 73, 109, …; only 73 is between 50 and 100. | A (37) fits every remainder but is not between 50 and 100. D (72) is the common multiple itself, so it leaves 0 left over, not 1. |
+| M1-Q18 | E | Challenge | One left over each time means (marbles − 1) must be a common multiple of 4, 6 and 9. The least positive common multiple is 36. So marbles = 37, 73, 109, …; only 73 is between 50 and 100. | A (37) fits every remainder but is not between 50 and 100. D (72) is the common multiple itself, so it leaves 0 left over, not 1. |
 | M1-Q19 | B | Medium | GCF uses only shared primes, each with its smaller power: 2² and 3¹, so 2² × 3 = 12. | E is the LCM (every prime, larger powers). C takes the larger powers of the shared primes. |
 | M1-Q20 | D | Medium | Change to seconds: LCM(45, 60) = 180 s = 3 minutes, so 3:03:00 p.m. | C (3:01:45) adds 45 + 60 seconds instead of finding a common multiple. E (3:45:00) uses the product 2700 s = 45 minutes. |
 | M1-Q21 | A | Medium | Alternating sum 6 − □ + 0 − 5 = 1 − □ must be 0 or a multiple of 11, so □ = 1: 6105 = 11 × 555. | D (7) makes the digit sum 18 (a test for 9, not 11). B (4) makes the digit sum 15 (a test for 3). |
@@ -502,5 +502,5 @@ E. 75¢
 | M1-Q26 | A | Medium | Teeth pass at the same rate on both gears. The marks meet again when the number of teeth passed is a multiple of 12 and 18: LCM = 36 teeth, so gear A turns 36 ÷ 12 = 3 times (gear B turns 2). | E (36) is teeth passed, not turns. C (6) is GCF(12, 18), not a common multiple. |
 | M1-Q27 | C | Medium | The square's side must be a common multiple of 6 and 10: LCM = 30 cm. That is 30 ÷ 6 = 5 cards one way and 30 ÷ 10 = 3 the other: 5 × 3 = 15 cards. | D (30) is the side length of the square, not the number of cards. B (8) adds 5 + 3 instead of multiplying. |
 | M1-Q28 | E | Challenge | Locker n is changed once for every factor of n. It ends open only if it is changed an odd number of times, and only perfect squares have an odd number of factors (one factor pair repeats). 81 = 9 × 9 is the only square listed. | B (45) is odd, but it has 6 factors (an even number), so it ends closed. A (24) and D (72) have many factors, but the number of factors is even. |
-| M1-Q29 | C | Challenge | Both meet again after LCM(9, 12) = 36 days. 36 = 5 weeks + 1 day, so the day of the week moves 1 forward: Thursday. | B (Wednesday) treats 36 days as whole weeks. E (Saturday) uses the product 108 days (15 weeks + 3 days). |
-| M1-Q30 | E | Medium | The amount must be a multiple of 15¢ (pencils) and of 25¢ (quarters): LCM(15, 25) = 75¢, which is 5 pencils paid with 3 quarters. | D (50¢) is two quarters, but it is not a multiple of 15¢ (3 pencils cost 45¢). A (5¢) is the GCF. |
+| M1-Q29 | C | Challenge | The interval divides both 36 and 60. Their common factors of at least 2 are 2, 3, 4, 6 and 12. The silence at minute 18 rules out 2, 3 and 6. | E includes 6 minutes, which would have produced a chime at minute 18. |
+| M1-Q30 | E | Medium | Five exchanges give 10 usable tokens. Each game takes two of them, enough for 5 games. | C counts all 125¢ as spendable at the game. The five 5¢ tokens cannot go into its slot. |

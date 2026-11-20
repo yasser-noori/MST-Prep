@@ -32,7 +32,7 @@ All questions here are original practice. They are not copies of real test quest
   - number of groups = GCF
   - items of one kind in each group = that total ÷ GCF
   - items in each group altogether = add up the per-group amounts
-- **How to check it:** the number of groups must divide **every** total exactly. Then try one bigger number of groups and make sure it fails for at least one total.
+- **How to check it:** the number of groups must divide **every** total exactly. List the divisors of the smaller total from largest to smallest. The first one that divides every total gives the greatest possible number of groups.
 
 Example: 18 red and 30 blue tiles → GCF(18, 30) = 6 bags, each with 3 red + 5 blue = 8 tiles.
 
@@ -44,7 +44,7 @@ Example: 18 red and 30 blue tiles → GCF(18, 30) = 6 bags, each with 3 red + 5 
   - number of packs of one kind = LCM ÷ that pack size
   - a clock time or date = start + LCM (count forward, do not count the starting day)
   - If the events start at **different** times, the LCM alone is not enough: list each schedule and find the first time on both lists.
-- **How to check it:** the answer must be a multiple of **every** step size. Try the step before it (for example, half the LCM) and confirm it is not a multiple of one of them. The plain product of the numbers is a common multiple, but often not the *least* one.
+- **How to check it:** the answer must be a multiple of **every** step size. List the positive multiples of the largest step in order. The first one divisible by every step is the least common multiple. The plain product of the numbers is a common multiple, but often not the *least* one.
 
 Example: packs of 18 and 30 → LCM(18, 30) = 90 tiles of each colour (5 packs of 18, 3 packs of 30).
 
@@ -59,12 +59,12 @@ Example: packs of 18 and 30 → LCM(18, 30) = 90 tiles of each colour (5 packs o
   - groups needed so nobody is left out → whole-number part + 1 (if the remainder is not 0)
   - how many more to fill one more group → group size − remainder
   - Working backward: if a number leaves the **same** remainder for several divisors, then (number − remainder) is a common multiple. If it is always **short by the same amount** (4 left in 6s, 6 left in 8s are both "2 short"), then (number + 2) is a common multiple.
-- **How to check it:** rebuild the total. For 250 eggs in cartons of 12: 20 × 12 + 10 = 250, so 10 are left over and 2 more would fill another carton.
+- **How to check it:** rebuild the total. For 46 bottles in crates of 8, write 46 = 5 × 8 + 6. Six bottles are left over and two more would fill another crate.
 
 ### Pattern 4: Prime factorization and divisibility rules
 
-- **Clue to notice:** large numbers, missing digits (47□12), counting factors, or numbers already written as products of primes.
-- **Decision to make:** break numbers into primes (360 = 2³ × 3² × 5) or use a quick rule:
+- **Clue to notice:** large numbers, missing digits (31□4), counting factors, or numbers already written as products of primes.
+- **Decision to make:** break numbers into primes (180 = 2² × 3² × 5) or use a quick rule:
 
 | Divisible by | Rule |
 |---|---|
@@ -80,7 +80,7 @@ Example: packs of 18 and 30 → LCM(18, 30) = 90 tiles of each colour (5 packs o
 
   - GCF from prime factorizations: take each shared prime with the **smaller** power.
   - LCM from prime factorizations: take every prime that appears, with the **larger** power.
-  - To count factors, list factor **pairs** (1 × 36, 2 × 18, 3 × 12, 4 × 9, 6 × 6). A square number has one pair with a repeated factor, so count it once.
+  - To count factors, list factor **pairs** (1 × 16, 2 × 8, 4 × 4). A square number has one pair with a repeated factor, so count it once.
   - For "divisible by 45" or "divisible by 6", split into rules you know: 45 = 5 × 9, 6 = 2 × 3.
 - **How to check it:** multiply the prime factorization back out, and check that every factor in it really is prime. For a missing digit, test your digit **and** confirm that no other digit 0–9 also works.
 
@@ -104,7 +104,7 @@ Example: packs of 18 and 30 → LCM(18, 30) = 90 tiles of each colour (5 packs o
 >
 > **Check:** 35 tiles × (12 × 12) cm² = 5040 cm², and 84 × 60 = 5040 cm².
 >
-> **Why the tempting answer is wrong:** **B (12)** is the side length of each tile, not the number of tiles. It answers "how big?" when the question asks "how many?". The other traps: A (7) counts only one row; D (140) uses a common factor that is not the greatest (6 cm tiles → 14 × 10); E (420) is the LCM, which would be the side of a square built *from* 84-by-60 rectangles, the opposite situation.
+> **Why the tempting answer is wrong:** **B (12)** is the side length of each tile, not the number of tiles. It answers "how big?" when the question asks "how many?". The other traps: A (7) counts only one row; D (140) uses a common factor that is not the greatest (6 cm tiles → 14 × 10); E (420) is a common multiple of the two lengths. A tile side must divide both lengths.
 
 ## 5. Practise
 
