@@ -142,7 +142,7 @@ def sol03_filters():
 def sol22_neighbours():
     fig = card(555, 206, "Check the three edge neighbours of X",
                "Cells a, b and d share an edge with X. Cell a shares Y’s column, "
-               "cell b is in the rightmost column, and d passes both checks.")
+               "cell b is in the rightmost column, and d also avoids Y’s row.")
     for row, labels in enumerate((("a", "X", "b"), ("c", "d", "e"), ("Y", "f", "g"))):
         for col, label in enumerate(labels):
             fill = (ORANGE_FILL if label in {"a", "b"} else GREEN_FILL if label == "d"
@@ -151,7 +151,7 @@ def sol22_neighbours():
     for y, name, reason, fill in [
         (54, "a", "Shares Y’s column", ORANGE_FILL),
         (101, "b", "In the rightmost column", ORANGE_FILL),
-        (148, "d", "Outside both excluded columns", GREEN_FILL),
+        (148, "d", "Avoids Y’s row and both columns", GREEN_FILL),
     ]:
         cell(fig, 202, y, 38, name, fill, height=39)
         fig.text(253, y + 26, reason, 15)

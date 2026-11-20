@@ -820,7 +820,7 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** B. Cell a touches X but shares the left column with Y.
 
-![X has edge neighbours a, b and d. Cell a shares Y’s column, b is rightmost, and d is the only one left.](../../assets/M5/sol22-neighbours.svg)
+![X has edge neighbours a, b and d. Cell a shares Y’s column, b is rightmost, and d avoids both columns and Y’s row.](../../assets/M5/sol22-neighbours.svg)
 
 <a id="m5-q23-solution"></a>
 ### M5-Q23 solution
