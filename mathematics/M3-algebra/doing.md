@@ -41,6 +41,8 @@ E. 5
 
 A rectangle has perimeter 50 cm. Its length is 3 cm greater than its width. What is its length?
 
+![Rectangle with perimeter 50 cm and length 3 cm more than its width.](../../assets/M3/q03-rectangle.svg)
+
 A. 17 cm
 
 B. 11 cm
@@ -169,6 +171,8 @@ E. 9, 7, 4
 
 A climber starts 6 m below a marked ledge and rises at 2 m per minute. Which expression gives her signed height in metres relative to the ledge after `t` minutes, taking upward as positive?
 
+![The starting point is 6 m below the ledge at 0 m. The climber rises at 2 m per minute.](../../assets/M3/q11-signed-height.svg)
+
 A. −6 − 2t
 
 B. 2t − 6
@@ -260,6 +264,8 @@ E. 35
 ### M3-Q17
 
 On a trail map, marker A is at kilometre 6 and marker B is at kilometre 39. Isha starts at A and walks toward B at 4 km/h. Leo starts at B at the same time and walks toward A at 7 km/h. At which kilometre marker do they meet?
+
+![Isha leaves marker 6 at 4 km/h. Leo leaves marker 39 at 7 km/h. They walk toward one another.](../../assets/M3/q17-trail.svg)
 
 A. 18
 
@@ -387,6 +393,8 @@ E. −4
 
 Two sealed cartons hold only red and blue beads. They contain equal numbers of **red** beads. The first also has 6 blue beads. The second also has 10 blue beads. Which statement gives enough additional information to determine the red count in one carton?
 
+![Two cartons show equal unknown red counts and blue counts of 6 and 10.](../../assets/M3/q25-cartons.svg)
+
 A. Together they hold 16 blue beads.
 
 B. Moving 2 blue beads from the second to the first gives equal totals.
@@ -435,6 +443,8 @@ E. 30 − 2b
 ### M3-Q28
 
 A builder records shelf positions as distances above a floor. Later she measures those same positions from a platform 12 cm above that floor. A shelf is `h` cm above the platform. Which expression gives its height above the floor?
+
+![The platform is 12 cm above the floor and the shelf is h cm above the platform.](../../assets/M3/q28-shelf.svg)
 
 A. h + 12
 
@@ -547,6 +557,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 2. The length is the width plus 3 cm. Remove those 3 cm and split the remaining 22 cm into two equal widths of 11 cm.
 3. The length is 14 cm. Check: 2 × (14 + 11) = 50 cm.
 
+![The 25 cm half-perimeter is two equal widths plus 3 cm. Each width is 11 cm and the length is 14 cm.](../../assets/M3/sol03-rectangle.svg)
+
 **Closest distractor.** B. This is the width.
 
 <a id="m3-q04-solution"></a>
@@ -568,6 +580,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 1. At hour zero, Loop costs $12 more.
 2. Wheel adds $3 more per hour than Loop, so the gap closes in 12 ÷ 3 = 4 hours.
 3. Substitute four hours into both cost rules to check that each gives $24.
+
+![Loop and Wheel’s price lines meet at 4 hours and 24 dollars.](../../assets/M3/sol05-rentals.svg)
 
 **Closest distractor.** C. The initial gap is in dollars, while the question asks for hours.
 
@@ -703,6 +717,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 2. Divide to get a meeting time of 3 hours.
 3. Isha travels 4 × 3 = 12 km from marker 6 and reaches marker 18.
 
+![Isha walks 12 km from marker 6. Leo walks 21 km from marker 39. Both reach marker 18.](../../assets/M3/sol17-trail.svg)
+
 **Closest distractor.** D. Isha walks 12 km from marker 6.
 
 <a id="m3-q18-solution"></a>
@@ -746,6 +762,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 1. Over three years the two people together gain 6 years, so now their ages total 34 − 6 = 28.
 2. Let Beth's age be b. The other age is b + 4, so 2b + 4 = 28.
 3. Solve to get b = 12. The current ages 12 and 16 become 15 and 19 in three years.
+
+![Their ages now total 28 years. Subtract Arun’s 4 additional years, then split the remaining 24 equally.](../../assets/M3/sol21-ages.svg)
 
 **Closest distractor.** E. This is Beth’s age three years from now.
 
@@ -835,6 +853,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 2. Split the 450 g equally among those five units to get 90 g per half-batch.
 3. Check that five half-batches at 90 g each use 450 g.
 
+![Two full batches plus half a batch divide 450 g into five equal half-batches.](../../assets/M3/sol29-half-batches.svg)
+
 **Closest distractor.** E. This is the flour in a full batch.
 
 <a id="m3-q30-solution"></a>
@@ -845,5 +865,7 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 1. A mean of 9.5 across two marks requires a kept total of 19.
 2. The two known marks already total 19. A third mark at most 8 is a lowest mark and can be dropped, including a tie at 8.
 3. Any third mark above 8 replaces the 8 and pushes the kept total above 19.
+
+![A number line highlights marks 0 through 8, including the tie at 8. Marks from 9 through 20 raise the kept total above 19.](../../assets/M3/sol30-score-range.svg)
 
 **Closest distractor.** D. A tie still allows one smallest mark to be dropped.
