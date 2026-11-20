@@ -27,11 +27,11 @@ All questions here are original practice. They are not copies of real test quest
 
 ### Pattern 1: The "zoom-in" hierarchy
 
-Each level sits inside the one before it:
+As you zoom in, distinguish where a structure sits from what it is made of.
 
 - **Cell** — the basic unit of a living thing, surrounded by a cell membrane
   - **Nucleus** — the control centre that holds the cell's genetic material
-    - **Chromosome** — a thread-like structure; each one is a single long, tightly coiled DNA molecule
+    - **Chromosome** — a thread-like structure; in a cell that has not copied its DNA for division, each chromosome contains one long DNA molecule packaged with proteins
       - **DNA** — the chemical that stores the instructions
         - **Gene** — one short segment of the DNA that carries the instructions for one product (which affects a trait)
 
@@ -48,13 +48,13 @@ Each level sits inside the one before it:
 | Cell membrane | Yes | Yes | Controls what enters and leaves the cell |
 | Nucleus | Yes | Yes | Holds the chromosomes (DNA); controls the cell |
 | Cell wall | Yes | **No** | Rigid outer layer outside the membrane; support and shape |
-| Chloroplast | In green parts (e.g. leaves), **not** in roots | **No** | Uses light energy to make food (photosynthesis) |
+| Chloroplast | In photosynthetic cells, usually absent from underground roots | **No** | Uses light energy to make food (photosynthesis) |
 
 | | |
 |---|---|
 | **Clue to notice** | A list of parts seen under a microscope, or a question about which part does a job. |
 | **Decision to make** | Is the part shared (membrane, nucleus) or plant-only (wall, chloroplast)? Match the job, not just the name. |
-| **How to check** | A cell wall is the strongest sign of a plant cell. Missing chloroplasts does **not** prove a cell is from an animal: plant root cells have no chloroplasts. |
+| **How to check** | Between plant and animal cells, a wall points to the plant. A cell from an underground root can have a wall without chloroplasts. |
 
 ### Pattern 3: Inherited versus acquired
 
@@ -71,7 +71,7 @@ Each level sits inside the one before it:
 
 **Inheritance rules.** Questions supply the rule, for example: "Each plant has two copies of the colour gene and passes one copy, chosen at random, to each offspring. R is dominant: any plant with at least one R is red; only rr is white." To use it, list every possible pair of copies the offspring could receive. If one parent is Rr and the other is rr, the possible offspring are Rr, Rr, rr, rr: half red, half white. Working backward: a white (rr) offspring had to receive an r from **each** parent.
 
-**Evidence.** A difference between groups only points to inheritance if the groups' environments were the same. Organisms with the same genes (clones, identical twins, seeds split randomly into groups) that turn out different are evidence of an **environmental** cause. Family members sharing a trait is not enough on its own, because families share homes, food, and habits too.
+**Evidence.** A difference between groups only points to inheritance if the groups' environments were the same. Differences between clones or identical twins can point to an environmental influence. Seedlings grown from different seeds may differ genetically. Random assignment makes inherited differences less likely to favour one treatment group systematically. Family members sharing a trait is not enough on its own, because families share homes, food, and habits too.
 
 | | |
 |---|---|
@@ -95,7 +95,7 @@ Each level sits inside the one before it:
 >
 > B. Chromosome 3 is found inside one of the genes K1 or K2.
 >
-> C. Chromosome 3 is one long DNA molecule, and K1 and K2 are two genes that are segments of it.
+> C. Chromosome 3 contains a long DNA molecule, and K1 and K2 are two genes along that molecule.
 >
 > D. K1 and K2 are made of DNA, but chromosome 3 is not.
 >
@@ -103,9 +103,9 @@ Each level sits inside the one before it:
 
 **Answer: C.**
 
-**Decisive step:** K1 and K2 are each a short stretch of chromosome 3 that carries the instructions for one product. That is the definition of a gene. Both genes sit on the same chromosome, and a chromosome is a single long DNA molecule, so K1, K2, and chromosome 3 are all made of DNA.
+**Decisive step:** K1 and K2 are each a short stretch of chromosome 3 that carries the instructions for one product. That is the definition of a gene. Both genes are parts of the DNA carried by chromosome 3.
 
-**Most tempting wrong answer: A.** It reverses the hierarchy. Students often remember that "chromosomes and genes go together" but swap which one contains the other. A chromosome contains many genes, not the other way round. Read it back as a sentence ("a gene is part of a chromosome") to check. B and E reverse the hierarchy in the same way. D forgets that the whole chromosome, not only its genes, is DNA.
+**Most tempting wrong answer: A.** It reverses the hierarchy. Students often remember that "chromosomes and genes go together" but swap which one contains the other. A chromosome contains many genes, not the other way round. Read it back as a sentence ("a gene is part of a chromosome") to check. B and E reverse the hierarchy in the same way. D overlooks the DNA in chromosome 3.
 
 ## 5. Practise
 
