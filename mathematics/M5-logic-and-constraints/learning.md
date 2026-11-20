@@ -19,11 +19,19 @@ All questions here are original practice. They are not copies of real test quest
 
 **Trace a rule forward.** When a table gives the input settings, cover the output column and read one rule at a time. Underline words such as *both*, *at least one* and *exactly one*. Check your result on the awkward case where both inputs are ON. That case passes “at least one” and fails “exactly one.”
 
+![With one ON input both at least one and exactly one pass. With two ON inputs at least one and both pass, while exactly one fails.](../../assets/M5/learn-forward-rules.svg)
+
 **Work backward from a result.** When you know what happened, write down the inputs that could produce it. For instance, if a light appears whenever two settings match, an observed light leaves two possibilities, both ON and both OFF. Keep both rows until another clue rules one out. Run the surviving settings forward through every rule to check.
+
+![A light that signals matching inputs could indicate ON and ON or OFF and OFF.](../../assets/M5/learn-backward-rules.svg)
 
 **Give each constraint a place on paper.** Draw boxes for seats or time slots, or arrows for paths. If Bea is *immediately* before Kai, put them in neighbouring boxes as a pair. If Bea is simply *before* Kai, leave room for someone between them. After filling the boxes, reread each clue against the finished arrangement.
 
+![Immediately before requires neighbouring places. Before allows other places in between.](../../assets/M5/learn-neighbouring-slots.svg)
+
 **Decide how much proof the question needs.** For “could,” one complete working arrangement is enough. For “must,” try to construct a counterexample. For “is this enough information?”, keep all arrangements that fit the clues and compare the particular fact you were asked for. Several line-ups can still give the same person in first place.
+
+![For could, find one valid arrangement. For must, look for a counterexample. To check sufficiency, compare the answer across all valid arrangements.](../../assets/M5/learn-proof.svg)
 
 ## 3. Worked example
 
