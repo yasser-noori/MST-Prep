@@ -31,11 +31,7 @@ The marks `(+)` and `(-)` are the two terminals of one battery. Lines are wires 
 
 A reading lamp has two bulbs. Which switch settings light only the desk bulb?
 
-```text
-(+)--[M]--*--[P]--(Desk)---*--(-)
-          |                |
-          *--[Q]--(Shelf)--*
-```
+![Battery with shared switch M, then two parallel routes through P and Desk or Q and Shelf, joined at the negative terminal](../../assets/S4/learn-reading-lamp.svg)
 
 Switch settings are listed in the order M, P, Q.
 

@@ -18,17 +18,7 @@ All questions are original practice, not real test questions. Diagrams are sketc
 
 A and B lie on the circle. Segment AB passes through its centre O.
 
-```
-            *  *  *
-         *           *
-       *               *
-      A--------O--------B
-       *               *
-         *           *
-            *  *  *
-
-      AB = 14 cm
-```
+![Circle with centre O and segment AB passing through O, with AB = 14 cm](../../assets/M2/q01-circle.svg)
 
 Using π = 3.14, what is the circumference of the circle?
 
@@ -679,6 +669,8 @@ E. Nico’s, by 216 cm³
 
 ## Answer key
 
+[Go to the full solutions](#full-solutions)
+
 | ID | Answer | Tier | Reasoning | Closest distractor ruled out by |
 |---|---|---|---|---|
 | M2-Q01 | C | Medium | AB goes through the centre, so it is the diameter: C = π × d = 3.14 × 14 = 43.96 cm. | A (87.92) uses 2 × π × 14, treating the diameter as a radius. |
@@ -711,3 +703,339 @@ E. Nico’s, by 216 cm³
 | M2-Q28 | E | Medium | Fence = perimeter = 2 × (15 + 8) = 46 m; 46 × $12 = $552. | B ($1440) uses the area 120 m² instead of the perimeter. A ($276) counts only one length and one width. |
 | M2-Q29 | D | Medium | Water needed = 50 × 40 × 24 = 48 000 cm³ = 48 L; 48 ÷ 2 = 24 minutes. | A (30 minutes) fills the whole 30 cm height. E (48) forgets to divide by the 2 L per minute rate. |
 | M2-Q30 | A | Challenge | Each base loses two cut widths along both dimensions. Ada’s tray holds 14 × 8 × 2 = 224 cm³. Nico’s holds 12 × 6 × 3 = 216 cm³. Ada’s holds 8 cm³ more. | D (85 cm³) subtracts only one cut width per dimension, giving 16 × 10 × 2 = 320 and 15 × 9 × 3 = 405. Each dimension loses a strip at both ends. |
+
+## Full solutions
+
+Solve and mark each question before opening its solution. For a guess or miss, try the steps again on paper before comparing.
+
+<a id="m2-q01-solution"></a>
+### M2-Q01 solution
+
+**Answer C.** 43.96 cm
+
+1. Trace AB through O to see that 14 cm spans the whole circle.
+2. Use circumference = π × diameter.
+3. Multiply 3.14 × 14 to get 43.96 cm. Halving the diameter first would give radius 7 and the same result from 2 × 3.14 × 7.
+
+**Closest distractor.** A (87.92) uses 2 × π × 14, treating the diameter as a radius.
+
+<a id="m2-q02-solution"></a>
+### M2-Q02 solution
+
+**Answer A.** 2.1 L
+
+1. Measure the space above the water inside the glass: 25 − 18 = 7 cm.
+2. Multiply the inside base area by this gap: 20 × 15 × 7 = 2100 cm³.
+3. Divide by 1000 to get 2.1 L. Check that 5.4 L already present plus 2.1 L equals the 7.5 L capacity.
+
+**Closest distractor.** D (2.992 L) uses the outside measurements, 22 × 17 × (26 − 18); the glass walls and base hold no water. B (5.4 L) is the water already present.
+
+<a id="m2-q03-solution"></a>
+### M2-Q03 solution
+
+**Answer D.** 502.4 mL
+
+1. Find the circular base area: 3.14 × 4² = 50.24 cm².
+2. Multiply by the inside height: 50.24 × 10 = 502.4 cm³.
+3. Use 1 cm³ = 1 mL, giving 502.4 mL.
+
+**Closest distractor.** C (2009.6) uses 8 cm (the diameter) as the radius. B (251.2) is 2 × π × r × h, the side wall area, not the volume.
+
+<a id="m2-q04-solution"></a>
+### M2-Q04 solution
+
+**Answer B.** 40 m
+
+1. Subtract the marked 7 m from the full 12 m to find the 5 m horizontal step.
+2. Subtract the marked 5 m from the full 8 m to find the 3 m vertical step.
+3. Add all six edges: 12 + 5 + 5 + 3 + 7 + 8 = 40 m. The horizontal edges total 24 m and the vertical edges total 16 m.
+
+**Closest distractor.** A (81) is the area (12 × 5 + 7 × 3), not the distance around. C (32) leaves out the two unlabelled sides.
+
+![L-shaped garden with the two missing steps labelled 5 m and 3 m](../../assets/M2/sol04-garden.svg)
+
+<a id="m2-q05-solution"></a>
+### M2-Q05 solution
+
+**Answer E.** 1.2 L
+
+1. The empty height is 12 − 6 = 6 cm.
+2. The empty volume is 30 × 20 × 6 = 3600 cm³, or 3.6 L.
+3. Subtract the amount that fits from the 4.8 L poured: 4.8 − 3.6 = 1.2 L.
+
+**Closest distractor.** B (3.6 L) is the room that was left, not what spills. A assumes the water fits without checking against the 12 cm height (it would need 14 cm).
+
+<a id="m2-q06-solution"></a>
+### M2-Q06 solution
+
+**Answer B.** 40.56 cm
+
+1. Trace the outside and count the three straight edges: 10 + 8 + 10 = 28 cm.
+2. The arc is half a circle with diameter 8 cm, so its length is 3.14 × 8 ÷ 2 = 12.56 cm.
+3. Add 28 + 12.56 = 40.56 cm.
+
+**Closest distractor.** A (48.56) also counts the 8 cm top of the rectangle, which is inside the window, not on its edge. C uses a whole circle.
+
+<a id="m2-q07-solution"></a>
+### M2-Q07 solution
+
+**Answer E.** 16
+
+1. Convert the total: 2.4 L = 2400 mL.
+2. Divide by 150 mL per glass: 2400 ÷ 150 = 16.
+3. Check by multiplying: 16 × 150 = 2400 mL.
+
+**Closest distractor.** A (1.6) treats 2.4 L as 240 cm³. B (160) treats 2.4 L as 24 000 cm³.
+
+<a id="m2-q08-solution"></a>
+### M2-Q08 solution
+
+**Answer C.** 8
+
+1. The multiplier for each edge is 10 ÷ 5 = 2.
+2. Volume uses three dimensions, so its multiplier is 2 × 2 × 2 = 8.
+3. Check using the volumes: 1000 ÷ 125 = 8.
+
+**Closest distractor.** A (2) assumes volume doubles when edges double. B (4) is the area factor, not the volume factor.
+
+<a id="m2-q09-solution"></a>
+### M2-Q09 solution
+
+**Answer A.** 12 cm
+
+1. Divide the volume by the height to recover the base area: 1130.4 ÷ 10 = 113.04 cm².
+2. Divide by 3.14 to get r² = 36, so the positive radius is 6 cm.
+3. Double the radius to obtain the 12 cm diameter.
+
+**Closest distractor.** B (6 cm) is the radius, but the question asks for the diameter. C (36) is r × r, not r.
+
+<a id="m2-q10-solution"></a>
+### M2-Q10 solution
+
+**Answer D.** 26 L
+
+1. The top 4 cm is air, leaving 30 − 4 = 26 cm of water depth.
+2. Multiply 40 × 25 × 26 = 26,000 cm³.
+3. Convert to litres: 26,000 ÷ 1000 = 26 L.
+
+**Closest distractor.** A (4 L) is the empty space above the water. B (30 L) is the full capacity.
+
+<a id="m2-q11-solution"></a>
+### M2-Q11 solution
+
+**Answer D.** 35.7 cm
+
+1. A full circle of radius 10 cm has circumference 2 × 3.14 × 10 = 62.8 cm.
+2. The arc takes a quarter of it: 62.8 ÷ 4 = 15.7 cm.
+3. The two straight edges are both radii, giving 15.7 + 10 + 10 = 35.7 cm.
+
+**Closest distractor.** A (15.7) is only the curved edge. E (25.7) adds only one straight edge. B (78.5) is the area.
+
+<a id="m2-q12-solution"></a>
+### M2-Q12 solution
+
+**Answer B.** 78.5 cm²
+
+1. Recover the diameter by dividing the circumference by π: 31.4 ÷ 3.14 = 10 cm.
+2. Halve it to get radius 5 cm.
+3. Use the area formula: 3.14 × 5² = 78.5 cm².
+
+**Closest distractor.** C (314) uses 10 cm (the diameter) as the radius. A (31.4) repeats the circumference.
+
+<a id="m2-q13-solution"></a>
+### M2-Q13 solution
+
+**Answer A.** 5
+
+1. Calculate one carton's volume: 6 × 9 × 20 = 1080 cm³.
+2. Express the total in the same units: 5.4 L = 5400 cm³.
+3. Divide: 5400 ÷ 1080 = 5, with no remainder.
+
+**Closest distractor.** E (1080) gives the capacity of one carton in mL. The question asks how many cartons the entire supply fills. B (0.5) and C (50) come from converting litres wrongly (540 or 54 000).
+
+<a id="m2-q14-solution"></a>
+### M2-Q14 solution
+
+**Answer E.** 100.75 cm²
+
+1. Calculate the original rectangle's area: 14 × 10 = 140 cm².
+2. The semicircular cutout has radius 5 cm and area 3.14 × 5² ÷ 2 = 39.25 cm².
+3. Subtract the cutout: 140 − 39.25 = 100.75 cm².
+
+**Closest distractor.** A (61.5) subtracts a whole circle. B (124.3) subtracts half the circumference (a length) instead of half the area.
+
+<a id="m2-q15-solution"></a>
+### M2-Q15 solution
+
+**Answer C.** 401.92 mL
+
+1. The unfilled part is 20 − 12 = 8 cm tall.
+2. The diameter is 8 cm, so the radius is 4 cm and the base area is 3.14 × 4² = 50.24 cm².
+3. Multiply 50.24 × 8 = 401.92 cm³ = 401.92 mL.
+
+**Closest distractor.** A (602.88) is the water already present (12 cm). B (1004.8) is the full capacity. D uses 8 cm as the radius.
+
+<a id="m2-q16-solution"></a>
+### M2-Q16 solution
+
+**Answer E.** 600 mL
+
+1. The radius enters the volume formula twice. Doubling it multiplies the base area by 4.
+2. Halving the height then multiplies the volume by ½, for a combined factor of 2.
+3. The new capacity is 300 mL × 2 = 600 mL.
+
+**Closest distractor.** B (300) treats doubling the radius as ×2, which the halved height then cancels. C (1200) ignores the height change.
+
+<a id="m2-q17-solution"></a>
+### M2-Q17 solution
+
+**Answer A.** 25π cm²
+
+1. Halve the 10 cm diameter to obtain the 5 cm radius.
+2. Square the radius: 5² = 25 cm².
+3. Multiply by π and leave it exact: 25π cm².
+
+**Closest distractor.** C (100π) uses the diameter as the radius. B (10π) is the circumference.
+
+<a id="m2-q18-solution"></a>
+### M2-Q18 solution
+
+**Answer C.** 3 cm
+
+1. Find the bottle's water volume: 3.14 × 6² × 10 = 1130.4 cm³.
+2. Find the tray's base area: 24 × 15.7 = 376.8 cm².
+3. Divide volume by base area: 1130.4 ÷ 376.8 = 3 cm. Multiplying back restores the same volume.
+
+**Closest distractor.** B (10 cm) assumes the water keeps the bottle's height. D (12 cm) uses 12 cm (the diameter) as the radius. E (0.75 cm) halves the stated radius as if it were a diameter, giving a quarter of the correct volume and depth.
+
+<a id="m2-q19-solution"></a>
+### M2-Q19 solution
+
+**Answer B.** 132 m²
+
+1. Find the rectangle's area: 12 × 7 = 84 m².
+2. Find the triangle's area using its perpendicular height: 12 × 8 ÷ 2 = 48 m².
+3. Add the two non-overlapping areas: 84 + 48 = 132 m².
+
+**Closest distractor.** D (180) is the whole 12 m × 15 m rectangle around the shape, counting the empty corners beside the roof. E (144) uses the 10 m sloping side as the triangle’s height. The perpendicular height is 8 m. C (46) is the perimeter.
+
+<a id="m2-q20-solution"></a>
+### M2-Q20 solution
+
+**Answer D.** 30 000 cm²
+
+1. Convert the two sides separately: 2 m = 200 cm and 1.5 m = 150 cm.
+2. Multiply 200 × 150 = 30,000 cm².
+3. Check by converting 3 m² at 10,000 cm² per square metre.
+
+**Closest distractor.** B (300) multiplies 3 m² by 100, but 1 m² = 100 × 100 = 10 000 cm². E (350) adds 200 + 150.
+
+<a id="m2-q21-solution"></a>
+### M2-Q21 solution
+
+**Answer C.** 21.98 m
+
+1. Each full turn advances the wheel by one circumference: 2 × 3.14 × 35 = 219.8 cm.
+2. Ten turns advance it by 2198 cm.
+3. Divide by 100 cm per metre to get 21.98 m.
+
+**Closest distractor.** D (2198 m) forgets to convert cm to m. B (10.99 m) uses π × r for one turn (half the circumference).
+
+<a id="m2-q22-solution"></a>
+### M2-Q22 solution
+
+**Answer E.** 216 cm²
+
+1. A length on the enlarged shape is 3 times the original length in each direction.
+2. The area multiplier is 3 × 3 = 9.
+3. Apply it to the whole area: 24 × 9 = 216 cm².
+
+**Closest distractor.** A (72) multiplies the area by only 3. B (60) is the new perimeter, not the area.
+
+<a id="m2-q23-solution"></a>
+### M2-Q23 solution
+
+**Answer D.** 30 cm
+
+1. Convert 18 L to 18,000 cm³ and use volume = length × width × depth.
+2. The known lengths give 40 × 15 = 600 cm².
+3. Divide: width = 18,000 ÷ 600 = 30 cm. Check: 40 × 30 × 15 = 18,000.
+
+**Closest distractor.** B (15 cm) divides by 40 × 30, using the tank's height instead of the water depth. A (3 cm) converts 18 L to 1800 cm³.
+
+<a id="m2-q24-solution"></a>
+### M2-Q24 solution
+
+**Answer A.** 141.3 L
+
+1. Halve the 60 cm diameter to get radius 30 cm.
+2. Use the water depth as the cylinder height: 3.14 × 30² × 50 = 141,300 cm³.
+3. Divide by 1000 to get 141.3 L.
+
+**Closest distractor.** C (254.34 L) uses the full 90 cm height (capacity, not water present). D (565.2 L) uses 60 cm as the radius.
+
+<a id="m2-q25-solution"></a>
+### M2-Q25 solution
+
+**Answer B.** 21.5 cm²
+
+1. The circle touches opposite sides of the square, so its diameter is 10 cm and its radius is 5 cm.
+2. Compute the areas: square = 100 cm² and circle = 3.14 × 5² = 78.5 cm².
+3. Subtract the circle from the square: 100 − 78.5 = 21.5 cm².
+
+**Closest distractor.** A (78.5) is the circle, the unshaded part. D (5.375) is only one corner. C (68.6) subtracts the circumference.
+
+<a id="m2-q26-solution"></a>
+### M2-Q26 solution
+
+**Answer C.** The inside circumference and the inside height
+
+1. Write the inputs needed by V = πr²h: inside radius and inside height.
+2. An inside circumference gives the radius by division by 2π.
+3. Choice C supplies that circumference and the inside height, so both inputs are known.
+
+**Closest distractor.** A uses the outside diameter (includes the glass wall). B uses the outside height (includes the thick base). E gives the juice, not the capacity. D has no height.
+
+<a id="m2-q27-solution"></a>
+### M2-Q27 solution
+
+**Answer B.** 13π m²
+
+1. The path extends 1 m beyond the 6 m radius, making the outer radius 7 m.
+2. Compute the outer and inner areas: 49π m² and 36π m².
+3. Subtract the inner circle: 49π − 36π = 13π m².
+
+**Closest distractor.** A (12π) is the pond's circumference times the 1 m width, which ignores that the outer edge is longer. E (49π) includes the pond.
+
+<a id="m2-q28-solution"></a>
+### M2-Q28 solution
+
+**Answer E.** $552
+
+1. Add the lengths of both pairs of opposite sides: 2 × (15 + 8) = 46 m.
+2. Apply the rate of $12 per metre: 46 × 12 = 552.
+3. The fence costs $552.
+
+**Closest distractor.** B ($1440) uses the area 120 m² instead of the perimeter. A ($276) counts only one length and one width.
+
+<a id="m2-q29-solution"></a>
+### M2-Q29 solution
+
+**Answer D.** 24 minutes
+
+1. Find the volume at the requested depth: 50 × 40 × 24 = 48,000 cm³ = 48 L.
+2. Divide by the filling rate: 48 L ÷ 2 L/min = 24 min.
+3. Check that 24 minutes at 2 L/min gives 48 L.
+
+**Closest distractor.** A (30 minutes) fills the whole 30 cm height. E (48) forgets to divide by the 2 L per minute rate.
+
+<a id="m2-q30-solution"></a>
+### M2-Q30 solution
+
+**Answer A.** Ada’s, by 8 cm³
+
+1. Ada's 2 cm cuts leave a base (18 − 4) × (12 − 4) cm and walls 2 cm high, so her volume is 224 cm³.
+2. Nico's 3 cm cuts leave a base (18 − 6) × (12 − 6) cm and walls 3 cm high, so his volume is 216 cm³.
+3. Compare the actual volumes: 224 − 216 = 8 cm³ more for Ada.
+
+**Closest distractor.** D (85 cm³) subtracts only one cut width per dimension, giving 16 × 10 × 2 = 320 and 15 × 9 × 3 = 405. Each dimension loses a strip at both ends.

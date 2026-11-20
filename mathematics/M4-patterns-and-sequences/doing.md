@@ -105,12 +105,7 @@ E. Entry 15
 
 A robot lays sticks to make a straight row of squares. It keeps each shared side and uses it for both neighbours. How many sticks make a row of eight squares? Each horizontal or vertical unit edge is one stick.
 
-```text
-One       Two       Three
-+-+       +-+-+     +-+-+-+
-| |       | | |     | | | |
-+-+       +-+-+     +-+-+-+
-```
+![One, two and three squares in a row, with one shared edge between each pair](../../assets/M4/q07-squares.svg)
 
 A. 25
 
@@ -484,6 +479,8 @@ E. 8 black and 3 white
 
 ## Answer key
 
+[Go to the full solutions](#full-solutions)
+
 | ID | Answer | Tier | Reasoning | Closest distractor ruled out by |
 |---|---|---|---|---|
 | M4-Q01 | C | Medium | Row 12 is eleven increases after row 1, giving 14 + 11 × 3 = 47. | D. Twelve rows contain eleven gaps. |
@@ -516,3 +513,335 @@ E. 8 black and 3 white
 | M4-Q28 | E | Medium | The bar lengths are 2, 5, 7, 12, 19 and 31. Add 12 and 19 for the sixth bar. | B. Nineteen is the length of the fifth bar. |
 | M4-Q29 | E | Medium | The first extension ends in 4321. On the second extension its final 1 is copied first, so the middle pair is 11. | B. The last digit is copied at the join. |
 | M4-Q30 | C | Challenge | Each new white came from one old black, so there were 5 old black tiles. All 8 old tiles produced one black each, leaving 8 − 5 = 3 old whites. | B. Three old black tiles would produce only three new whites. |
+
+## Full solutions
+
+Solve and mark each question before opening its solution. For a guess or miss, try the steps again on paper before comparing.
+
+<a id="m4-q01-solution"></a>
+### M4-Q01 solution
+
+**Answer C.** 47
+
+1. Row 1 already has 14 seats. Count the gaps to row 12: 12 − 1 = 11.
+2. Each gap adds 3 seats, so row 12 has 14 + 11 × 3 = 47 seats.
+
+**Closest distractor.** D. Twelve rows contain eleven gaps.
+
+<a id="m4-q02-solution"></a>
+### M4-Q02 solution
+
+**Answer A.** 20
+
+1. Start at 160 frames before any pass.
+2. Halve once for each of the three passes: 160 → 80 → 40 → 20.
+3. Check that three halvings divide 160 by 8.
+
+**Closest distractor.** C. The original strip comes before pass 1.
+
+<a id="m4-q03-solution"></a>
+### M4-Q03 solution
+
+**Answer D.** 51
+
+1. Use the two known positions to find four equal gaps covering 20 points. Each gap adds 20 ÷ 4 = 5.
+2. Start at 6. Nine gaps add 45, giving 6 + 45 = 51.
+
+**Closest distractor.** E. Multiples of 5 measure the increase. Each displayed score also includes the opening 6.
+
+<a id="m4-q04-solution"></a>
+### M4-Q04 solution
+
+**Answer C.** Dot
+
+1. Group the marks into complete repeats of five.
+2. Position 100 is the final position of the 20th group because 100 = 20 × 5.
+3. Read the fifth symbol of the repeat: a dot.
+
+**Closest distractor.** A. A leaf begins the next group at position 101.
+
+<a id="m4-q05-solution"></a>
+### M4-Q05 solution
+
+**Answer B.** 28
+
+1. List the successive differences for P. They rise from 5 to 8 to 11, giving the next term 17 + 11 = 28.
+2. Q repeats a difference of 5 after 8, giving 17 + 5 = 22.
+3. Compare differences, since the lists agree up to 17.
+
+**Closest distractor.** D. Repeating the first jump follows Q.
+
+![Both sequences start 4, 9, 17. P next adds 11 to get 28 and Q adds 5 to get 22](../../assets/M4/sol05-fourth-card.svg)
+
+<a id="m4-q06-solution"></a>
+### M4-Q06 solution
+
+**Answer E.** Entry 15
+
+1. The known entries are six gaps apart and the total change is −18. Divide to find −3 per gap.
+2. Continue from 13: 10, 7, 4, 1, −2.
+3. The last of these is the first negative value.
+
+**Closest distractor.** B. The fourth step after entry 10 still leaves a positive 1.
+
+<a id="m4-q07-solution"></a>
+### M4-Q07 solution
+
+**Answer A.** 25
+
+1. Draw the first square with 4 sticks. Each next square borrows one side from its neighbour and needs 3 new sticks.
+2. Seven attachments give 4 + 7 × 3 = 25 sticks.
+
+**Closest distractor.** C. Counting three per square misses the left edge of the first one.
+
+<a id="m4-q08-solution"></a>
+### M4-Q08 solution
+
+**Answer A.** 25
+
+1. Read only even marker positions. The first one, marker 2, reads 40.
+2. Advance two positions at a time and subtract 5 on this subsequence: 40, 35, 30, 25.
+3. Marker 8 is the fourth even position, so it reads 25.
+
+**Closest distractor.** C. Marker 8 uses the fourth even-position value, three decreases from 40.
+
+<a id="m4-q09-solution"></a>
+### M4-Q09 solution
+
+**Answer B.** 6
+
+1. One round multiplies the prior count by 3, so undo the last round with 54 ÷ 3 = 18.
+2. Undo the previous round with 18 ÷ 3 = 6.
+3. Verify forward: 6 → 18 → 54.
+
+**Closest distractor.** D. One division recovers the number after round 1.
+
+<a id="m4-q10-solution"></a>
+### M4-Q10 solution
+
+**Answer D.** 7n + 1
+
+1. The first term is 8, with n − 1 increases of 7 before term n.
+2. Write 8 + 7(n − 1) and simplify to 7n + 1.
+3. Substitute n = 1 and n = 2 to get 8 and 15.
+
+**Closest distractor.** E. Putting n = 1 into that choice gives 15.
+
+<a id="m4-q11-solution"></a>
+### M4-Q11 solution
+
+**Answer B.** 13 cm
+
+1. The jump from 3 to 7 is 4 cm.
+2. The next two jumps are longer by 2 cm each, so they are 6 cm and 8 cm.
+3. Add them in order: 7 → 13 → 21 cm.
+
+**Closest distractor.** D. Averaging 7 and 21 assumes the two intervening jumps are equal.
+
+<a id="m4-q12-solution"></a>
+### M4-Q12 solution
+
+**Answer D.** Position 26
+
+1. The repeat spans six positions.
+2. Position 26 is 26 − 8 = 18 places after position 8.
+3. Eighteen positions make three whole repeats, so the symbols at 26 and 8 are the same.
+
+**Closest distractor.** C. Divisibility by six aligns position 30 with position 6. The known moon is in slot 2.
+
+<a id="m4-q13-solution"></a>
+### M4-Q13 solution
+
+**Answer B.** 20
+
+1. Count row by row. There are 9 pegs on top and 10 on the bottom.
+2. The handle adds one separate peg.
+3. Combine the three counts: 9 + 10 + 1 = 20.
+
+**Closest distractor.** C. The two rows account for 19 pegs before the handle is counted.
+
+<a id="m4-q14-solution"></a>
+### M4-Q14 solution
+
+**Answer D.** 4 and 5
+
+1. Write the handouts in the order they occur: A gets 2, B gets 4, A gets 5, B gets 8, then A gets 8.
+2. The first 8 occurs in the fourth entry, B's second turn.
+3. A does reach 8, one turn of the sequence later.
+
+**Closest distractor.** B. Handout 3 is A’s second turn, which shows 5.
+
+<a id="m4-q15-solution"></a>
+### M4-Q15 solution
+
+**Answer C.** 14
+
+1. Apply the operations in order, carrying the latest result forward. The first multiplication gives 6, then subtracting 1 gives 5.
+2. Multiply 5 by 3 to reach 15. Subtract 1 again to finish at 14.
+
+**Closest distractor.** B. The multiplication that produces 15 is instruction 3.
+
+<a id="m4-q16-solution"></a>
+### M4-Q16 solution
+
+**Answer C.** −15
+
+1. The amount subtracted grows by one each step.
+2. Starting at −2, subtract 6 to get −8.
+3. Subtract 7 to get −15. The two changes differ by one as required.
+
+**Closest distractor.** B. That is the sixth term.
+
+<a id="m4-q17-solution"></a>
+### M4-Q17 solution
+
+**Answer B.** 9
+
+1. Split 23 flashes into four full groups of five plus three more flashes.
+2. Each full group contributes two blue flashes, for 8.
+3. The final three positions contain one blue, so the total is 9.
+
+**Closest distractor.** D. The second blue in the last partial group would be flash 24.
+
+<a id="m4-q18-solution"></a>
+### M4-Q18 solution
+
+**Answer D.** Tap 2 showed 15 dots.
+
+1. Both rules fit the first count, so make a prediction at the next tap.
+2. Adding again produces 15, while doubling produces 20.
+3. A count of 15 therefore distinguishes the two rules in favour of adding.
+
+**Closest distractor.** B. Both rules take the opening 5 to 10.
+
+<a id="m4-q19-solution"></a>
+### M4-Q19 solution
+
+**Answer E.** 24
+
+1. A ticket must be a multiple of 3 to be blue and a multiple of 4 to carry a star.
+2. The first positive common multiple is 12.
+3. The next is 24. Both positions divide evenly by 3 and 4.
+
+**Closest distractor.** B. That ticket is the first one meeting both conditions.
+
+<a id="m4-q20-solution"></a>
+### M4-Q20 solution
+
+**Answer A.** 12
+
+1. Compare the last two terms: 48 ÷ 12 = 4.
+2. Test the same multiplier on the previous pair: 3 × 4 = 12.
+3. Both gaps fit multiplication by 4.
+
+**Closest distractor.** E. Doubling 24 reaches 48 but fails to reproduce the last step.
+
+<a id="m4-q21-solution"></a>
+### M4-Q21 solution
+
+**Answer A.** 40 is stage 7.
+
+1. The two adjacent known stages differ by 6, so move back or forward by 6 for each stage.
+2. Start at stage 1 with 4 and list the stages: 4, 10, 16, 22, 28, 34, 40.
+3. Stage 7 has 40. The six gaps from stage 1 add 36.
+
+**Closest distractor.** C. Five additions reach 34 at stage 6.
+
+<a id="m4-q22-solution"></a>
+### M4-Q22 solution
+
+**Answer C.** Glass and metal
+
+1. The beads repeat in groups of 9. After 45 beads, a fresh group begins at 46.
+2. Position 52 is slot 7 and position 54 is slot 9.
+3. Read those slots from the repeat: glass, then metal.
+
+**Closest distractor.** E. Slot 8 begins the metal section at bead 53.
+
+<a id="m4-q23-solution"></a>
+### M4-Q23 solution
+
+**Answer B.** 18 minutes
+
+1. The first term is 2, so reaching the fifth term takes four additions.
+2. Use the first four odd increases: 1, 3, 5 and 7.
+3. Add these to 2 to get 18.
+
+**Closest distractor.** C. Sixteen is how many minutes were added.
+
+<a id="m4-q24-solution"></a>
+### M4-Q24 solution
+
+**Answer D.** Term 6
+
+1. Start with 81 at position 1. Divide by 3 at each gap.
+2. The terms at positions 2 through 5 are 27, 9, 3 and 1.
+3. One more division gives ⅓ at position 6.
+
+**Closest distractor.** B. Term 5 equals the boundary value of 1.
+
+<a id="m4-q25-solution"></a>
+### M4-Q25 solution
+
+**Answer E.** n − 1
+
+1. Counting every square separately counts both copies of each shared side.
+2. A row of n squares has n − 1 joins, each of which needs one copy removed.
+3. The expression is 4n − (n − 1). For two squares it gives 7 sticks.
+
+**Closest distractor.** D. Subtracting twice per join would remove that side entirely.
+
+<a id="m4-q26-solution"></a>
+### M4-Q26 solution
+
+**Answer E.** Drawer 7
+
+1. Add the capacities of drawers 1 through 6 to get 1 + 2 + 3 + 4 + 5 + 6 = 21.
+2. The next drawer begins at photograph 22 and holds seven photos, through number 28.
+3. The target photo falls in this interval.
+
+**Closest distractor.** B. Photograph 24 comes after the last photograph in drawer 6.
+
+<a id="m4-q27-solution"></a>
+### M4-Q27 solution
+
+**Answer A.** 4
+
+1. Lay the two sums over the five positions. The middle three terms occur in both and cancel when you subtract.
+2. The last term exceeds the first by 54 − 38 = 16.
+3. There are four equal gaps from first to last, so the increase is 16 ÷ 4 = 4.
+
+**Closest distractor.** D. Sixteen measures the whole change from the first number to the fifth.
+
+<a id="m4-q28-solution"></a>
+### M4-Q28 solution
+
+**Answer E.** 31
+
+1. Start with 2 and 5. Sum the latest pair to obtain 7, then use 5 + 7 = 12.
+2. The fifth value is 7 + 12 = 19.
+3. The sixth value uses the two latest terms: 12 + 19 = 31.
+
+**Closest distractor.** B. Nineteen is the length of the fifth bar.
+
+<a id="m4-q29-solution"></a>
+### M4-Q29 solution
+
+**Answer E.** 1 and 1
+
+1. Reverse 1234 to get 4321 and append it, producing 12344321.
+2. The second append starts with the reversal of the final 1.
+3. At that new join the old final digit and new first digit are both 1.
+
+**Closest distractor.** B. The last digit is copied at the join.
+
+<a id="m4-q30-solution"></a>
+### M4-Q30 solution
+
+**Answer C.** 5 black and 3 white
+
+1. Each old tile contributes one new black, so 8 new blacks mean 8 old tiles.
+2. New whites come only from old blacks, one per old black. Five new whites therefore mean five old blacks.
+3. The remaining 8 − 5 = 3 old tiles were white.
+
+**Closest distractor.** B. Three old black tiles would produce only three new whites.

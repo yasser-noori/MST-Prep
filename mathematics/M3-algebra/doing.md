@@ -419,6 +419,8 @@ E. 0
 
 A photo stands in a frame with a left border `b` cm wide and a right border twice that wide. The whole frame is 30 cm wide. Which expression gives the width in centimetres of the visible photo?
 
+![Frame 30 cm across with left border b cm and right border 2b cm](../../assets/M3/q27-frame.svg)
+
 A. 30 − 3b
 
 B. 30 + 3b
@@ -476,6 +478,8 @@ E. 0 through 11
 
 ## Answer key
 
+[Go to the full solutions](#full-solutions)
+
 | ID | Answer | Tier | Reasoning | Closest distractor ruled out by |
 |---|---|---|---|---|
 | M3-Q01 | D | Medium | The setup charge occurs once and each copy adds 3 dollars. | C. This charges 8 dollars for every copy. |
@@ -508,3 +512,338 @@ E. 0 through 11
 | M3-Q28 | A | Medium | From the floor, rise 12 cm to the platform and then h cm to the shelf. | D. A shelf level with the platform has h = 0 and is still 12 cm above the floor. |
 | M3-Q29 | C | Medium | The recipe quantity is five half-batches. One half-batch uses 450 ÷ 5 = 90 g. | E. This is the flour in a full batch. |
 | M3-Q30 | A | Challenge | The two kept marks must total 19. Every third mark up to 8 can be dropped, including a tie at 8. Any larger third mark raises the kept total above 19. | D. A tie still allows one smallest mark to be dropped. |
+
+## Full solutions
+
+Solve and mark each question before opening its solution. For a guess or miss, try the steps again on paper before comparing.
+
+<a id="m3-q01-solution"></a>
+### M3-Q01 solution
+
+**Answer D.** 3c + 8
+
+1. Let the variable count the copies. Multiply that count by 3 to get the charge for the copies.
+2. Add the fixed $8 charge once. With zero copies the expression should still give $8.
+
+**Closest distractor.** C. This charges 8 dollars for every copy.
+
+<a id="m3-q02-solution"></a>
+### M3-Q02 solution
+
+**Answer B.** 11
+
+1. Evaluate the bracket first to get −3.
+2. Multiply by 2 to get −6.
+3. Subtract that product: 5 − (−6) = 5 + 6 = 11.
+
+**Closest distractor.** D. Subtracting a negative product increases 5.
+
+<a id="m3-q03-solution"></a>
+### M3-Q03 solution
+
+**Answer C.** 14 cm
+
+1. Halve the perimeter to find length + width = 25 cm.
+2. The length is the width plus 3 cm. Remove those 3 cm and split the remaining 22 cm into two equal widths of 11 cm.
+3. The length is 14 cm. Check: 2 × (14 + 11) = 50 cm.
+
+**Closest distractor.** B. This is the width.
+
+<a id="m3-q04-solution"></a>
+### M3-Q04 solution
+
+**Answer E.** 3a + 9
+
+1. Keep the variable terms together: four copies of a minus one copy leaves three.
+2. Add the constant terms: 7 + 2 = 9.
+3. The result is 3a + 9. At a = 0 both expressions give 9.
+
+**Closest distractor.** C. The minus sign applies to a alone.
+
+<a id="m3-q05-solution"></a>
+### M3-Q05 solution
+
+**Answer E.** 4
+
+1. At hour zero, Loop costs $12 more.
+2. Wheel adds $3 more per hour than Loop, so the gap closes in 12 ÷ 3 = 4 hours.
+3. Substitute four hours into both cost rules to check that each gives $24.
+
+**Closest distractor.** C. The initial gap is in dollars, while the question asks for hours.
+
+<a id="m3-q06-solution"></a>
+### M3-Q06 solution
+
+**Answer C.** y = 4x + 3
+
+1. Between the first two columns, x increases by 3 and y increases by 12. The rate is 12 ÷ 3 = 4.
+2. Use x = 2 and y = 11: the fixed amount is 11 − 4 × 2 = 3.
+3. The rule y = 4x + 3 also gives 23 at x = 5.
+
+**Closest distractor.** D. This fits the first column but gives 20 in the second.
+
+<a id="m3-q07-solution"></a>
+### M3-Q07 solution
+
+**Answer B.** 22
+
+1. The transfer keeps the total at 36. Equal final piles therefore contain 18 counters each.
+2. Undo Mina's transfer by adding her 4 counters back: 18 + 4 = 22.
+3. The other pile started with 14, and moving 4 gives 18 in both piles.
+
+**Closest distractor.** A. A single counter transferred changes the gap by two, so the original gap was 8.
+
+![Mina starts with 22, Dev with 14, and transferring 4 gives 18 each](../../assets/M3/sol07-transfer.svg)
+
+<a id="m3-q08-solution"></a>
+### M3-Q08 solution
+
+**Answer E.** 36 cm
+
+1. Reverse the division first: p − 6 = 2 × 15 = 30.
+2. Add 6 to both sides to get p = 36.
+3. Check by substituting: (36 − 6) ÷ 2 = 15.
+
+**Closest distractor.** B. Undoing the subtraction requires addition.
+
+<a id="m3-q09-solution"></a>
+### M3-Q09 solution
+
+**Answer C.** (m − 1) + m + (m + 1) = 72
+
+1. Call the middle number m. Its neighbours are m − 1 and m + 1.
+2. All three numbers total 72, so write (m − 1) + m + (m + 1) = 72.
+3. As a check, the −1 and +1 cancel, giving 3m = 72. The numbers 23, 24 and 25 then add to 72.
+
+**Closest distractor.** B. This makes m the smallest number.
+
+<a id="m3-q10-solution"></a>
+### M3-Q10 solution
+
+**Answer A.** 9, 5, −1
+
+1. Substitute each input separately. At 0 the output is 9 − 0 = 9.
+2. At 2 the output is 9 − 4 = 5.
+3. At 5 the output is 9 − 10 = −1. Each extra input unit drops the output by 2.
+
+**Closest distractor.** D. The last subtraction goes below zero.
+
+<a id="m3-q11-solution"></a>
+### M3-Q11 solution
+
+**Answer B.** 2t − 6
+
+1. Use −6 as the height at minute zero.
+2. In t minutes, the rise is 2t. Add it to the starting height to get −6 + 2t.
+3. At t = 3 the rule gives zero, since the 6 units gained cancel the starting deficit.
+
+**Closest distractor.** D. At zero minutes this puts the climber above the ledge.
+
+<a id="m3-q12-solution"></a>
+### M3-Q12 solution
+
+**Answer D.** The report is impossible.
+
+1. First price all 20 tickets as student tickets: 20 × $5 = $100.
+2. An adult ticket replaces one student ticket and adds $3. The extra $28 would need to equal 3 times a whole number.
+3. Nine adult upgrades add $27 and ten add $30, so $128 is impossible.
+
+**Closest distractor.** E. Nine adults would bring the total to 127 dollars. Rounding changes the reported total.
+
+<a id="m3-q13-solution"></a>
+### M3-Q13 solution
+
+**Answer D.** −20
+
+1. Subtract 3 from both sides to get v/4 = −5.
+2. Multiply both sides by 4: v = −20.
+3. Check that −20 ÷ 4 + 3 = −2.
+
+**Closest distractor.** B. This is v divided by 4.
+
+<a id="m3-q14-solution"></a>
+### M3-Q14 solution
+
+**Answer B.** 10b − 15
+
+1. Distribute the 3 to both terms inside the brackets: 3(2b − 5) = 6b − 15.
+2. Add 4b to 6b to get 10b − 15.
+3. Test b = 1: both the original and simplified expressions give −5.
+
+**Closest distractor.** C. The 5 inside the bracket is also multiplied by 3.
+
+<a id="m3-q15-solution"></a>
+### M3-Q15 solution
+
+**Answer E.** 12
+
+1. Twice the 5 who left gives the final 10 passengers.
+2. Undo the 3 boarding: 10 − 3 = 7.
+3. Undo the 5 leaving: 7 + 5 = 12. Running the changes forward gives 12 − 5 + 3 = 10.
+
+**Closest distractor.** C. This counts passengers after the stop.
+
+<a id="m3-q16-solution"></a>
+### M3-Q16 solution
+
+**Answer A.** 7
+
+1. Reserve 7 of the 42 tokens, leaving 35 to spend.
+2. Divide the 35 available tokens by 5 games to get 7 tokens per game.
+3. Check that 5 × 7 = 35 tokens spent, leaving 42 − 35 = 7 tokens.
+
+**Closest distractor.** B. Dividing all 42 tokens leaves none in reserve.
+
+<a id="m3-q17-solution"></a>
+### M3-Q17 solution
+
+**Answer A.** 18
+
+1. The riders are 33 km apart, and together they close 11 km each hour.
+2. Divide to get a meeting time of 3 hours.
+3. Isha travels 4 × 3 = 12 km from marker 6 and reaches marker 18.
+
+**Closest distractor.** D. Isha walks 12 km from marker 6.
+
+<a id="m3-q18-solution"></a>
+### M3-Q18 solution
+
+**Answer D.** 22
+
+1. Put the negative input inside parentheses before squaring: (−4)² = 16.
+2. The second product is 3 × (−2) = −6.
+3. Subtract the product to get 16 − (−6) = 22.
+
+**Closest distractor.** A. This treats b as positive.
+
+<a id="m3-q19-solution"></a>
+### M3-Q19 solution
+
+**Answer C.** The output at input 5 is 24.
+
+1. A counterexample needs one input whose claimed output fails.
+2. For x = 5, compute 4 × 5 + 2 = 22.
+3. The observed 24 differs, so this single pair is enough to disprove the rule.
+
+**Closest distractor.** A. This agrees with the prediction at input 5.
+
+<a id="m3-q20-solution"></a>
+### M3-Q20 solution
+
+**Answer D.** (n − 7)/3 = 5
+
+1. Start with the unknown n. The difference described is n − 7.
+2. Divide the entire difference by 3: (n − 7)/3.
+3. For example, with n = 13 the difference is 6 and the result is 2.
+
+**Closest distractor.** C. This divides only 7 by 3.
+
+<a id="m3-q21-solution"></a>
+### M3-Q21 solution
+
+**Answer B.** 12
+
+1. Over three years the two people together gain 6 years, so now their ages total 34 − 6 = 28.
+2. Let Beth's age be b. The other age is b + 4, so 2b + 4 = 28.
+3. Solve to get b = 12. The current ages 12 and 16 become 15 and 19 in three years.
+
+**Closest distractor.** E. This is Beth’s age three years from now.
+
+<a id="m3-q22-solution"></a>
+### M3-Q22 solution
+
+**Answer E.** 27
+
+1. Start with 14 and multiply by 2 to obtain 28.
+2. Take one away to obtain 27.
+3. You can check by adding one to 27, then halving it to recover 14.
+
+**Closest distractor.** D. Doubling 14 − 1 would subtract the 1 too early.
+
+<a id="m3-q23-solution"></a>
+### M3-Q23 solution
+
+**Answer B.** 19 cm
+
+1. The candle loses 3 cm in 6 minutes, or ½ cm per minute.
+2. In the first four minutes it lost 2 cm.
+3. Add that loss back to the 17 cm reading: it started at 19 cm.
+
+**Closest distractor.** E. Adding 4 cm assumes a rate of 1 cm per minute.
+
+<a id="m3-q24-solution"></a>
+### M3-Q24 solution
+
+**Answer C.** 4
+
+1. Equate the expressions and collect the variable terms on one side and the constants on the other.
+2. The equality reduces to 3u = 12, giving u = 4.
+3. At u = 4, both original expressions evaluate to 17.
+
+**Closest distractor.** A. At u = 2 the expressions give 7 and 13.
+
+<a id="m3-q25-solution"></a>
+### M3-Q25 solution
+
+**Answer E.** The cartons contain 40 beads altogether.
+
+1. Choice E supplies the grand total of 40. Remove the 6 + 10 = 16 blue beads, leaving 24 red beads.
+2. Both cartons have the same number of red beads. Divide 24 by 2 to get 12 red beads per carton.
+3. Check: the first carton has 6 + 12 = 18 beads and the second 10 + 12 = 22, for 40 altogether.
+
+**Closest distractor.** D. The difference of 4 follows from the blue beads for every possible red count.
+
+<a id="m3-q26-solution"></a>
+### M3-Q26 solution
+
+**Answer D.** 2
+
+1. Two draws contribute 2 points, leaving 14 − 2 = 12 points from wins.
+2. At 3 points per win, that means 4 wins.
+3. Out of 8 games, 8 − 2 − 4 = 2 remain as losses.
+
+**Closest distractor.** C. Four counts the wins.
+
+<a id="m3-q27-solution"></a>
+### M3-Q27 solution
+
+**Answer A.** 30 − 3b
+
+1. The two borders together use b + 2b = 3b of the full width.
+2. Subtract 3b from the full 30 cm width to get 30 − 3b.
+3. The result plus both borders must add back to the original width.
+
+**Closest distractor.** E. This subtracts only the right border.
+
+<a id="m3-q28-solution"></a>
+### M3-Q28 solution
+
+**Answer A.** h + 12
+
+1. Break the climb into two vertical segments.
+2. The first segment is 12 cm from floor to platform, and the second is h cm from platform to shelf.
+3. Add them to obtain 12 + h cm.
+
+**Closest distractor.** D. A shelf level with the platform has h = 0 and is still 12 cm above the floor.
+
+<a id="m3-q29-solution"></a>
+### M3-Q29 solution
+
+**Answer C.** 90 g
+
+1. Two and a half batches contain five half-batches.
+2. Split the 450 g equally among those five units to get 90 g per half-batch.
+3. Check that five half-batches at 90 g each use 450 g.
+
+**Closest distractor.** E. This is the flour in a full batch.
+
+<a id="m3-q30-solution"></a>
+### M3-Q30 solution
+
+**Answer A.** 0 through 8
+
+1. A mean of 9.5 across two marks requires a kept total of 19.
+2. The two known marks already total 19. A third mark at most 8 is a lowest mark and can be dropped, including a tie at 8.
+3. Any third mark above 8 replaces the 8 and pushes the kept total above 19.
+
+**Closest distractor.** D. A tie still allows one smallest mark to be dropped.

@@ -49,6 +49,8 @@ E. Setting 5
 
 **Answer D.** The star narrows the table to rows 1, 4 and 5. Only row 4 has matching P and Q settings. Two OFF settings count as a match. Row 2 looks promising because the circle lights, but R is ON there, so the star stays dark.
 
+![R OFF leaves settings 1, 4 and 5, and of these only setting 4 has matching P and Q](../../assets/M5/learn-settings.svg)
+
 ## 4. Practise
 
 [Open the M5 practice questions](doing.md). Mark guesses before checking the key.

@@ -60,6 +60,8 @@ E. 19
 
 **Answer C.** The high notes occupy positions 1, 3, 5, 7 and 9. Position 9 is the fifth high note, four increases after the first. Its length is 3 + 4 × 2 = 11 beats. Choice E counts an increase at every position, including the intervening low notes.
 
+![High notes in odd positions last 3, 5, 7, 9 and 11 beats, with 1-beat low notes between](../../assets/M4/learn-high-notes.svg)
+
 ## 4. Practise
 
 [Open the M4 practice questions](doing.md) and record each answer before checking the key.

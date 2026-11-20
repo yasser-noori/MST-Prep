@@ -33,6 +33,8 @@ E. cell, nucleus, chromosome, gene
 
 Two drawings show part of the same animal cell. In the first, a nucleus contains three chromosomes labelled P, Q and R. The second drawing zooms in on Q and marks two different genes along its DNA, one for a scale pattern and one for a claw protein. Which change to the drawings would remove the scale-pattern gene while keeping the claw gene and the other two chromosomes?
 
+![Chromosomes P, Q and R in a nucleus, with Q enlarged to show separate scale-pattern and claw-protein segments](../../assets/S2/q02-chromosome-q.svg)
+
 A. Erase the entire chromosome Q.
 
 B. Erase just the DNA segment marked for the scale pattern on Q.
@@ -554,6 +556,8 @@ E. Certain, because the next hatchling must even out the colours
 
 ## Answer key
 
+[Go to the full solutions](#full-solutions)
+
 | ID | Answer | Tier | Reasoning | Closest distractor ruled out by |
 |---|---|---|---|---|
 | S2-Q01 | E | Medium | The cell contains the nucleus, the nucleus contains chromosomes, and each chromosome carries many genes. | A is the same order reversed (smallest to largest); the question asks for largest first. |
@@ -586,3 +590,337 @@ E. Certain, because the next hatchling must even out the colours
 | S2-Q28 | D | Challenge | The plants have the same DNA, and the same genes give blue in Soil A but pink in Soil B; Step 3 shows a cutting from the blue plant turns pink in Soil B. The colour follows the soil across the trials. | B: if Soil A had permanently changed the DNA, the Step 3 cutting would have stayed blue in Soil B; it turned pink. |
 | S2-Q29 | B | Medium | The first cell contains two complete sets of the same size. Each set contains 12 ÷ 2 = 6 chromosomes. | C counts all 12 chromosomes as one set and would give the first cell 24 chromosomes. |
 | S2-Q30 | C | Medium | The passage gives the chance for each independent hatchling. Earlier colours leave that chance at one in two. | E treats equal chances as a guarantee that a short run must balance out. |
+
+## Full solutions
+
+Solve and mark each question before opening its solution. For a guess or miss, try the steps again on paper before comparing.
+
+<a id="s2-q01-solution"></a>
+### S2-Q01 solution
+
+**Answer E.** cell, nucleus, chromosome, gene
+
+1. Start at the outside with the cell.
+2. Move inward to its nucleus, then to a chromosome inside the nucleus.
+3. A gene is one of many segments carried on that chromosome.
+
+**Closest distractor.** A is the same order reversed (smallest to largest); the question asks for largest first.
+
+<a id="s2-q02-solution"></a>
+### S2-Q02 solution
+
+**Answer B.** Erase just the DNA segment marked for the scale pattern on Q.
+
+1. Locate the two marked genes on chromosome Q.
+2. Find the choice that identifies only the segment labelled for scale pattern.
+3. Check that the claw segment lies outside this marked region.
+
+**Closest distractor.** A would remove the claw gene along with the scale-pattern gene.
+
+<a id="s2-q03-solution"></a>
+### S2-Q03 solution
+
+**Answer C.** chloroplast
+
+1. Identify the job that differs between the two cells: photosynthesis.
+2. Chloroplasts capture light for photosynthesis in green plant cells.
+3. Animal cells lack chloroplasts.
+
+**Closest distractor.** A, B, D, and E are all present in both cell types, so they do not separate the two cells.
+
+<a id="s2-q04-solution"></a>
+### S2-Q04 solution
+
+**Answer A.** natural eye colour
+
+1. Sort the traits by when and how they arise.
+2. Natural eye colour is influenced by genes inherited from parents.
+3. Skills learned during life are acquired.
+
+**Closest distractor.** C (speaking French) feels "natural" to a fluent speaker but is learned during life, so it is acquired.
+
+<a id="s2-q05-solution"></a>
+### S2-Q05 solution
+
+**Answer D.** It is Rr.
+
+1. White offspring have rr under the stated rule.
+2. One r must come from the red parent, which also needs R to appear red.
+3. Its pair is therefore Rr.
+
+**Closest distractor.** E: by the stated rule each parent passes only one copy, so the white parent cannot supply both r copies.
+
+<a id="s2-q06-solution"></a>
+### S2-Q06 solution
+
+**Answer B.** A gene is a segment of DNA that carries instructions affecting a trait.
+
+1. Find the biological unit that carries instructions affecting a trait.
+2. It occupies one segment of DNA, so it is a gene.
+3. Many such segments fit on one chromosome.
+
+**Closest distractor.** A reverses the hierarchy: a chromosome contains many genes, not the other way round.
+
+<a id="s2-q07-solution"></a>
+### S2-Q07 solution
+
+**Answer E.** The amount of light affected height; the experiment gives no evidence that the difference was inherited.
+
+1. Identify what differed: the amount of light after random assignment.
+2. The outcome supports a light effect.
+3. The study did not compare groups with known inherited differences.
+
+**Closest distractor.** A treats a difference between groups as inherited, but random assignment makes systematic genetic differences between groups less likely. It does not guarantee identical mixes.
+
+<a id="s2-q08-solution"></a>
+### S2-Q08 solution
+
+**Answer A.** cell membrane
+
+1. Look for a boundary that controls entry and exit.
+2. Both cell types have a cell membrane.
+3. In a plant cell the membrane is inside the cell wall.
+
+**Closest distractor.** D: the nucleus controls the cell's activities, not the movement of substances across its boundary.
+
+<a id="s2-q09-solution"></a>
+### S2-Q09 solution
+
+**Answer D.** 1/4
+
+1. A brown pup is bb, so each black parent passed b and must be Bb.
+2. List the equally likely pairs BB, Bb, bB and bb.
+3. Only bb gives brown, a 1-in-4 chance.
+
+**Closest distractor.** C (3/4) is the chance of a black pup, not a brown one; A assumes black parents can never have brown pups, which the first pup disproves.
+
+![The four equally likely pairs are BB, Bb, bB and bb, and only bb gives brown fur](../../assets/S2/sol09-pair-grid.svg)
+
+<a id="s2-q10-solution"></a>
+### S2-Q10 solution
+
+**Answer C.** 1 and 4 only
+
+1. Coat and eye colour fit traits inherited through genes.
+2. The torn ear came from injury, and the response to a command came from training.
+3. Select the two inherited traits together.
+
+**Closest distractor.** A includes the torn ear, an injury that does not change the dog's genes.
+
+<a id="s2-q11-solution"></a>
+### S2-Q11 solution
+
+**Answer A.** chromosome
+
+1. Locate the clue in the nucleus.
+2. Long DNA is packaged with proteins there into a chromosome.
+3. A chromosome fits both the location and the thread-like description.
+
+**Closest distractor.** E (gene) is a short segment of DNA, which is Level 5, not the whole thread.
+
+<a id="s2-q12-solution"></a>
+### S2-Q12 solution
+
+**Answer D.** Different childhood environments could contribute to the height difference even though the twins started with the same DNA.
+
+1. The twins began with the same DNA, but their surroundings differed.
+2. Diet is one possible environmental explanation.
+3. Other conditions differed too, so this comparison cannot isolate the effect of diet.
+
+**Closest distractor.** A could explain a height gap between unrelated people, but the stem states the twins have the same DNA.
+
+<a id="s2-q13-solution"></a>
+### S2-Q13 solution
+
+**Answer E.** a cell from the underground root of a bean plant
+
+1. A cell wall rules out the animal choices.
+2. The lack of chloroplasts rules out the photosynthetic leaf cell.
+3. A typical underground bean root cell has a wall and lacks chloroplasts.
+
+**Closest distractor.** D: an underground bean root cell can have a wall without chloroplasts, so the "rule" in D is false. A and B have no cell wall.
+
+<a id="s2-q14-solution"></a>
+### S2-Q14 solution
+
+**Answer C.** into the natural shape of their species, because the cube shape was acquired, not inherited
+
+1. The hedge got its shape through repeated trimming.
+2. That changes its shape during growth.
+3. Descendants do not inherit the effect of being trimmed.
+
+**Closest distractor.** A treats an acquired shape as if it were inherited.
+
+<a id="s2-q15-solution"></a>
+### S2-Q15 solution
+
+**Answer B.** Almost every body cell in one person that has a nucleus contains the same full set of DNA.
+
+1. Separate cell function from the DNA stored in the nucleus.
+2. Nearly all nucleated body cells in the same person carry the same full DNA set.
+3. Compare the DNA even when the sampled body cells are different types.
+
+**Closest distractor.** A confuses different jobs with different DNA; the cells use different genes, but the DNA is the same.
+
+<a id="s2-q16-solution"></a>
+### S2-Q16 solution
+
+**Answer B.** The conclusion is not supported, because the family members also share an environment, so the accent could be learned.
+
+1. Family members share surroundings as well as genes.
+2. An accent develops through exposure to spoken language.
+3. A similar accent therefore does not establish inheritance through DNA.
+
+**Closest distractor.** E: another child raised in the same home would share the same environment, so it still could not separate learning from inheritance.
+
+<a id="s2-q17-solution"></a>
+### S2-Q17 solution
+
+**Answer D.** one recipe written inside one of the books
+
+1. Think of the chromosome as a book of many instructions.
+2. A gene is one set of instructions within it, like a recipe in that book.
+
+**Closest distractor.** C (a single book) is the chromosome itself; a gene is only one part of it.
+
+<a id="s2-q18-solution"></a>
+### S2-Q18 solution
+
+**Answer E.** cell wall
+
+1. Find the rigid layer outside the plant cell membrane.
+2. That layer is the cell wall, which supports the cell and helps maintain its shape.
+
+**Closest distractor.** B is also plant-only, but chloroplasts make food; they do not form a rigid outer layer.
+
+<a id="s2-q19-solution"></a>
+### S2-Q19 solution
+
+**Answer C.** both pink
+
+1. Red RR requires an R from each parent.
+2. White WW requires a W from each.
+3. Each parent must carry RW, which the given rule describes as pink.
+
+**Closest distractor.** D (red × white) gives only RW, so every offspring would be pink; E gives pink and white but never red.
+
+<a id="s2-q20-solution"></a>
+### S2-Q20 solution
+
+**Answer A.** the striped pattern on its seeds, which matches the parent plant whatever soil it grows in
+
+1. Compare the seed pattern across different soils.
+2. Persistence across soil changes makes soil alone a weaker explanation.
+3. A match to the parent under these different conditions supports inheritance.
+
+**Closest distractor.** D: yellowing in a dry month depends on the weather, an environmental condition, so it is acquired.
+
+<a id="s2-q21-solution"></a>
+### S2-Q21 solution
+
+**Answer D.** all yellow
+
+1. The YY parent can pass only Y, and the yy parent can pass only y.
+2. All pairings are Yy.
+3. Under the stated rule each Yy offspring is yellow.
+
+**Closest distractor.** C (3/4 yellow) is the result of a Yy × Yy cross, not YY × yy.
+
+<a id="s2-q22-solution"></a>
+### S2-Q22 solution
+
+**Answer A.** Gene
+
+1. Trace the organization from chromosome to DNA to gene.
+2. One gene occupies a short stretch of one DNA molecule.
+3. It is smaller than the full molecule or chromosome set.
+
+**Closest distractor.** B, C, D, and E each match the correct structure, so only A is wrong.
+
+<a id="s2-q23-solution"></a>
+### S2-Q23 solution
+
+**Answer E.** No, because both breed and food differ between the fields, so the data cannot show which one caused the difference.
+
+1. Breed and food changed together.
+2. The observation cannot separate the two effects.
+3. Give both breeds the same food so a comparison can focus on breed.
+
+**Closest distractor.** A assumes that because breed is inherited, every difference between the breeds is inherited; B picks the other cause, which the data cannot prove either.
+
+<a id="s2-q24-solution"></a>
+### S2-Q24 solution
+
+**Answer C.** Row C
+
+1. Find which structure is involved in photosynthesis.
+2. Photosynthetic leaf cells contain chloroplasts for this job.
+3. Animal cells lack them.
+
+**Closest distractor.** A: animal cells such as cheek cells have no cell wall. B, D, and E list structures that both cells have.
+
+<a id="s2-q25-solution"></a>
+### S2-Q25 solution
+
+**Answer B.** The gene is present and its instructions are unused.
+
+1. Separate the presence of the gene from whether it is used.
+2. Omar predicts that skin cells have the gene without using its instructions.
+3. Finding both supports Omar and contradicts Lea's prediction of absence.
+
+**Closest distractor.** C would contradict Lea, but it would also contradict Omar's prediction that the instructions are unused.
+
+<a id="s2-q26-solution"></a>
+### S2-Q26 solution
+
+**Answer E.** Records 1 and 2, because both pairs can produce only green young.
+
+1. Records 1 and 2 have a GG parent, so every offspring in those records gets G.
+2. Record 3 can produce either Gg or gg and therefore both colours.
+3. Records 1 and 2 share the same possible colours.
+
+**Closest distractor.** C checks that green is possible but overlooks the additional gold outcome in record 3.
+
+<a id="s2-q27-solution"></a>
+### S2-Q27 solution
+
+**Answer A.** Add 5 to include bean cells that had a wall without chloroplasts.
+
+1. Use the wall to identify bean cells.
+2. Add the 6 wall-bearing cells with chloroplasts to the 5 without.
+3. The total is 11.
+
+**Closest distractor.** C overlooks the five cells in the middle row. Those have the wall that identifies bean cells in these samples.
+
+<a id="s2-q28-solution"></a>
+### S2-Q28 solution
+
+**Answer D.** The results support an effect of soil on colour in plants with the same DNA.
+
+1. The plants have the same DNA, so compare where each colour occurs.
+2. A cutting from the blue plant turns pink in Soil B.
+3. Across the trials colour follows the soil, supporting an environmental effect.
+
+**Closest distractor.** B: if Soil A had permanently changed the DNA, the Step 3 cutting would have stayed blue in Soil B; it turned pink.
+
+<a id="s2-q29-solution"></a>
+### S2-Q29 solution
+
+**Answer B.** 6 from the egg and 6 from the sperm
+
+1. There are two complete equal-sized sets among the 12 chromosomes.
+2. Divide by 2 to get 6 per set.
+3. Two groups of 6 account for all 12.
+
+**Closest distractor.** C counts all 12 chromosomes as one set and would give the first cell 24 chromosomes.
+
+<a id="s2-q30-solution"></a>
+### S2-Q30 solution
+
+**Answer C.** One in two, because the fifth hatchling follows the same independent rule
+
+1. The passage gives the probability for each independent hatchling.
+2. The earlier colours do not affect the next draw.
+3. Its chance remains 1 in 2.
+
+**Closest distractor.** E treats equal chances as a guarantee that a short run must balance out.
