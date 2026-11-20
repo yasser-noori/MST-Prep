@@ -10,7 +10,7 @@ Closes #<!-- issue number -->
 
 | Check | Count |
 |---|---|
-| Drill questions in `2. Doing.md` (must be 30) | |
+| Drill questions in `2. Practice.md` (must be 30) | |
 | Medium (must be 18) | |
 | Challenge (must be 12) | |
 | Blocks with exactly 3 Medium + 2 Challenge (must be 6) | |
@@ -26,7 +26,7 @@ Closes #<!-- issue number -->
 - [ ] Q26–Q30 are fresh (no near-duplicates in Q01–Q25)
 - [ ] Every question has an `<a id="…"></a>` anchor matching its ID
 - [ ] **Visual-render check** (if diagrams are used): viewed in GitHub's rendered preview; all dimensions, units, legends, switch states, junctions, or pivot positions are legible. N/A if no diagrams:
-- [ ] Only this category's files (and `Grade 9/assets/<ID>/`) changed
+- [ ] Only this category's files (and `Settings/assets/<ID>/`) changed
 - [ ] Scaffold-status notes removed from both files
 
 ## Notes for the reviewer

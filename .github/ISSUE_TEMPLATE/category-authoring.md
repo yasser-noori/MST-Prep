@@ -8,9 +8,9 @@ assignees: []
 
 ## Owned files
 
-- `Grade 9/<subject>/<ID>-<name>/1. Learning.md`
-- `Grade 9/<subject>/<ID>-<name>/2. Doing.md`
-- Optional: `Grade 9/assets/<ID>/` for labelled diagrams
+- `Grade 9/<subject>/<number>. <Topic Name>/1. Learning.md`
+- `Grade 9/<subject>/<number>. <Topic Name>/2. Practice.md`
+- Optional: `Settings/assets/<ID>/` for labelled diagrams
 
 Do not edit any other file. The integration agent owns the README.
 
@@ -31,8 +31,8 @@ Do not edit any other file. The integration agent owns the README.
 
 ## Contract
 
-- `1. Learning.md`: 3–4 core patterns (clue, decision, check), exactly one worked A–E example with the decisive step and the most tempting wrong answer, link to `2. Doing.md`.
-- `2. Doing.md`: exactly 30 original A–E drills, `<ID>-Q01`–`<ID>-Q30`, with `<a id="<id>-qNN"></a>` anchors.
+- `1. Learning.md`: 3–4 core patterns (clue, decision, check), exactly one worked A–E example with the decisive step and the most tempting wrong answer, link to `2. Practice.md`.
+- `2. Practice.md`: exactly 30 original A–E drills, `<ID>-Q01`–`<ID>-Q30`, with `<a id="<id>-qNN"></a>` anchors.
 - 18 Medium + 12 Challenge; six blocks of five, each 3 Medium + 2 Challenge in varied order.
 - Tier labels only in the answer key at the bottom.
 - Q26–Q30 are fresh, final-weekend items with no near-duplicates earlier.
