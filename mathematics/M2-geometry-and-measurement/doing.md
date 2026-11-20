@@ -16,16 +16,16 @@ All questions are original practice, not real test questions. Diagrams are sketc
 <a id="m2-q01"></a>
 ### M2-Q01
 
-Segment AB passes through the centre O of the circle.
+A and B lie on the circle. Segment AB passes through its centre O.
 
 ```
-            * * * * *
-         *             *
-       *                 *
+            *  *  *
+         *           *
+       *               *
       A--------O--------B
-       *                 *
-         *             *
-            * * * * *
+       *               *
+         *           *
+            *  *  *
 
       AB = 14 cm
 ```
@@ -87,17 +87,13 @@ E. 21 L
 A cylindrical cup has an inside radius of 4 cm and an inside height of 10 cm.
 
 ```
-           r
-          |<-->|
-     +---------+   ---
-     |    O----|    ^
-     |         |    |
-     |         |    |  inside height 10 cm
-     |         |    |
-     |         |    v
-     +---------+   ---
-     inside radius r = 4 cm
-     (O is the centre of the circular base)
+      Inside base (top view)       Side view
+             .---.                  +---------+ ---
+          .-'     '-.               |         |  ^
+         (     O-----*              |         |  | 10 cm
+          '-.     .-'               |         |  v
+             '---'                  +---------+ ---
+           O to * = 4 cm
 ```
 
 Using π = 3.14, what is the capacity of the cup?
@@ -325,7 +321,7 @@ C. 50
 
 D. 500
 
-E. 6
+E. 1080
 
 <a id="m2-q14"></a>
 ### M2-Q14
@@ -437,7 +433,7 @@ C. 3 cm
 
 D. 12 cm
 
-E. 6 cm
+E. 0.75 cm
 
 <a id="m2-q19"></a>
 ### M2-Q19
@@ -469,7 +465,7 @@ C. 46 m²
 
 D. 180 m²
 
-E. 156 m²
+E. 144 m²
 
 <a id="m2-q20"></a>
 ### M2-Q20
@@ -558,18 +554,20 @@ E. 1413 L
 A circle fits exactly inside a square, touching all four sides. The four corner regions outside the circle (marked #) are shaded.
 
 ```
-   +-------------------+
-   |####  * * * *  ####|
-   |##  *         *  ##|
-   |#  *           *  #|
-   |  *             *  |
-   |  *             *  | 10 cm
-   |  *             *  |
-   |#  *           *  #|
-   |##  *         *  ##|
-   |####  * * * *  ####|
-   +-------------------+
-          10 cm
+   +---------*---------+
+   |####  .-' '-.  ####|
+   |##  .'       '.  ##|
+   |# .'           '. #|
+   | /               \ |
+   *                   *  10 cm
+   | \               / |
+   |# '.           .' #|
+   |##  '.       .'  ##|
+   |####  '-. .-'  ####|
+   +---------*---------+
+           10 cm
+
+   * = point where the circle touches the square
 ```
 
 Using π = 3.14, what is the total shaded area?
@@ -610,8 +608,8 @@ A circular pond has a radius of 6 m. A path 1 m wide runs all the way around the
         .       . - - - - .       .
        .      .             .      .
        .      .    pond     .      .
-       .      .  O--------->.<---->.
-       .      .     6 m     .  1 m .
+       .      .      O----->.<---->.
+       .      .        6 m  .  1 m .
         .       . - - - - .       .
           .                     .
               . - - - - - - .
@@ -664,17 +662,20 @@ E. 48 minutes
 <a id="m2-q30"></a>
 ### M2-Q30
 
-A model of a storage box is built so that every length of the model is one third of the matching length of the real box. The model holds 40 mL. How much does the real box hold?
+Two students each have an 18 cm by 12 cm sheet of thin card. Each cuts an identical square from all four corners of their own sheet, then folds the four sides straight up to make an open tray. Ignore the thickness of the card. Ada uses 2 cm corner squares and Nico uses 3 cm corner squares.
 
-A. 1.08 L
+Which tray holds more when full, and by how much?
 
-B. 0.12 L
+A. Ada’s, by 8 cm³
 
-C. 0.36 L
+B. Nico’s, by 8 cm³
 
-D. 3.24 L
+C. Ada’s, by 40 cm³
 
-E. 10.8 L
+D. Nico’s, by 85 cm³
+
+E. Nico’s, by 216 cm³
+
 
 ## Answer key
 
@@ -692,13 +693,13 @@ E. 10.8 L
 | M2-Q10 | D | Medium | Water depth = 30 − 4 = 26 cm; 40 × 25 × 26 = 26 000 cm³ = 26 L. | A (4 L) is the empty space above the water. B (30 L) is the full capacity. |
 | M2-Q11 | D | Medium | Curved edge = ¼ × 2 × 3.14 × 10 = 15.7 cm; add both radii: 15.7 + 10 + 10 = 35.7 cm. | A (15.7) is only the curved edge. E (25.7) adds only one straight edge. B (78.5) is the area. |
 | M2-Q12 | B | Challenge | Work backward: d = 31.4 ÷ 3.14 = 10 cm, so r = 5 cm; area = 3.14 × 5 × 5 = 78.5 cm². | C (314) uses 10 cm (the diameter) as the radius. A (31.4) repeats the circumference. |
-| M2-Q13 | A | Medium | One carton = 6 × 9 × 20 = 1080 cm³; 5.4 L = 5400 cm³; 5400 ÷ 1080 = 5 cartons exactly. | E (6) rounds up; there is no juice left for a sixth carton. B (0.5) and C (50) come from converting litres wrongly (540 or 54 000). |
+| M2-Q13 | A | Medium | One carton = 6 × 9 × 20 = 1080 cm³; 5.4 L = 5400 cm³; 5400 ÷ 1080 = 5 cartons exactly. | E (1080) gives the capacity of one carton in mL. The question asks how many cartons the entire supply fills. B (0.5) and C (50) come from converting litres wrongly (540 or 54 000). |
 | M2-Q14 | E | Challenge | Rectangle 14 × 10 = 140 cm². Semicircle radius = 10 ÷ 2 = 5 cm, area = ½ × 3.14 × 5 × 5 = 39.25 cm². Left: 140 − 39.25 = 100.75 cm². | A (61.5) subtracts a whole circle. B (124.3) subtracts half the circumference (a length) instead of half the area. |
 | M2-Q15 | C | Medium | Empty height = 20 − 12 = 8 cm; r = 4 cm; 3.14 × 4 × 4 × 8 = 401.92 cm³ = 401.92 mL. | A (602.88) is the water already present (12 cm). B (1004.8) is the full capacity. D uses 8 cm as the radius. |
 | M2-Q16 | E | Challenge | Doubling the radius multiplies volume by 2 × 2 = 4; halving the height multiplies by ½. 300 × 4 × ½ = 600 mL. | B (300) treats doubling the radius as ×2, which the halved height then cancels. C (1200) ignores the height change. |
 | M2-Q17 | A | Medium | r = 10 ÷ 2 = 5 cm; area = π × 5 × 5 = 25π cm². | C (100π) uses the diameter as the radius. B (10π) is the circumference. |
-| M2-Q18 | C | Challenge | Bottle volume = 3.14 × 6 × 6 × 10 = 1130.4 cm³. Tray base = 24 × 15.7 = 376.8 cm². Depth = 1130.4 ÷ 376.8 = 3 cm. | B (10 cm) assumes the water keeps the bottle's height. D (12 cm) uses 12 cm (the diameter) as the radius. A (1 cm) uses the bottle's side area 2 × π × r × h instead of its volume. |
-| M2-Q19 | B | Medium | Rectangle 12 × 7 = 84 m²; triangle ½ × 12 × 8 = 48 m²; total 132 m². | D (180) is the whole 12 m × 15 m rectangle around the shape, counting the empty corners beside the roof. E (156) uses 6 × 12 = 72 for the triangle instead of ½ × 12 × 8. C (46) is the perimeter. |
+| M2-Q18 | C | Challenge | Bottle volume = 3.14 × 6 × 6 × 10 = 1130.4 cm³. Tray base = 24 × 15.7 = 376.8 cm². Depth = 1130.4 ÷ 376.8 = 3 cm. | B (10 cm) assumes the water keeps the bottle's height. D (12 cm) uses 12 cm (the diameter) as the radius. E (0.75 cm) halves the stated radius as if it were a diameter, giving a quarter of the correct volume and depth. |
+| M2-Q19 | B | Medium | Rectangle 12 × 7 = 84 m²; triangle ½ × 12 × 8 = 48 m²; total 132 m². | D (180) is the whole 12 m × 15 m rectangle around the shape, counting the empty corners beside the roof. E (144) uses the 10 m sloping side as the triangle’s height. The perpendicular height is 8 m. C (46) is the perimeter. |
 | M2-Q20 | D | Medium | 2 m = 200 cm and 1.5 m = 150 cm; 200 × 150 = 30 000 cm². | B (300) multiplies 3 m² by 100, but 1 m² = 100 × 100 = 10 000 cm². E (350) adds 200 + 150. |
 | M2-Q21 | C | Medium | One turn = circumference = 2 × 3.14 × 35 = 219.8 cm. Ten turns = 2198 cm = 21.98 m. | D (2198 m) forgets to convert cm to m. B (10.99 m) uses π × r for one turn (half the circumference). |
 | M2-Q22 | E | Medium | Area is multiplied by 3 × 3 = 9: 24 × 9 = 216 cm². | A (72) multiplies the area by only 3. B (60) is the new perimeter, not the area. |
@@ -709,4 +710,4 @@ E. 10.8 L
 | M2-Q27 | B | Medium | Outer radius = 6 + 1 = 7 m. Path = π × 7 × 7 − π × 6 × 6 = 49π − 36π = 13π m². | A (12π) is the pond's circumference times the 1 m width, which ignores that the outer edge is longer. E (49π) includes the pond. |
 | M2-Q28 | E | Medium | Fence = perimeter = 2 × (15 + 8) = 46 m; 46 × $12 = $552. | B ($1440) uses the area 120 m² instead of the perimeter. A ($276) counts only one length and one width. |
 | M2-Q29 | D | Medium | Water needed = 50 × 40 × 24 = 48 000 cm³ = 48 L; 48 ÷ 2 = 24 minutes. | A (30 minutes) fills the whole 30 cm height. E (48) forgets to divide by the 2 L per minute rate. |
-| M2-Q30 | A | Challenge | Each length of the real box is 3 times the model's, so volume is 3 × 3 × 3 = 27 times: 40 × 27 = 1080 mL = 1.08 L. | C (0.36 L) uses the area factor 9. B (0.12 L) uses only ×3. E (10.8 L) misplaces the decimal when converting mL to L. |
+| M2-Q30 | A | Challenge | Each base loses two cut widths along both dimensions. Ada’s tray holds 14 × 8 × 2 = 224 cm³. Nico’s holds 12 × 6 × 3 = 216 cm³. Ada’s holds 8 cm³ more. | D (85 cm³) subtracts only one cut width per dimension, giving 16 × 10 × 2 = 320 and 15 × 9 × 3 = 405. Each dimension loses a strip at both ends. |
