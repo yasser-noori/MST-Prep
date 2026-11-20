@@ -75,6 +75,8 @@ E. Row 5
 
 Mira needs two consecutive free half-hour slots for a call. The listed times are starts of half-hour slots. Her only free slots start at 9:00, 10:00, 10:30 and 11:30. When can the full call start?
 
+![Free slots start at 9:00, 10:00, 10:30 and 11:30. The 9:30 and 11:00 slots are busy.](../../assets/M5/q04-calendar.svg)
+
 A. 10:00
 
 B. 9:30
@@ -342,6 +344,8 @@ E. Trial 3
 
 Four teams each played every other team once, with one winner per game. Ash won all its games. Birch beat Cedar, and Cedar beat Dune. Which result would give Birch, Cedar and Dune exactly one win each?
 
+![Ash beat Birch, Cedar and Dune. Birch beat Cedar and Cedar beat Dune. The Birch–Dune game has no result shown.](../../assets/M5/q20-matches.svg)
+
 A. Dune beats Birch.
 
 B. Birch beats Dune.
@@ -464,6 +468,8 @@ E. 16
 ### M5-Q27
 
 A stencil presses onto a strip of six white squares numbered 1 to 6. One press paints exactly two neighbouring squares black. After exactly two presses, squares 2, 3 and 4 are black and all others are white. No paint is ever removed. Which square must have been painted twice?
+
+![The strip has six squares. Squares 2, 3 and 4 are black and squares 1, 5 and 6 are white.](../../assets/M5/q27-strip.svg)
 
 A. 2
 
@@ -596,10 +602,12 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 **Answer A.** Row 3
 
 1. The dot stays dark only when Y and Z match. That keeps rows 3 and 4.
-2. Among those two, check whether X differs from Y to light the dash.
+2. Among those two, check whether X differs from Y to light the square.
 3. Only row 3 meets this second condition.
 
 **Closest distractor.** E. Here Y and Z differ, so the dot would also light.
+
+![The dark dot narrows rows 1 through 5 to rows 3 and 4. The lit square narrows those to row 3.](../../assets/M5/sol03-filters.svg)
 
 <a id="m5-q04-solution"></a>
 ### M5-Q04 solution
@@ -808,9 +816,11 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 1. List X's edge neighbours: a, b and d.
 2. Eliminate b because it is in the rightmost column. Eliminate a because it shares a column with Y.
-3. Only d remains.
+3. Cell d remains. It is in the centre row, so it also avoids Y’s bottom row.
 
 **Closest distractor.** B. Cell a touches X but shares the left column with Y.
+
+![X has edge neighbours a, b and d. Cell a shares Y’s column, b is rightmost, and d avoids both columns and Y’s row.](../../assets/M5/sol22-neighbours.svg)
 
 <a id="m5-q23-solution"></a>
 ### M5-Q23 solution
@@ -856,6 +866,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** E. Simply adding the two group sizes counts the overlap twice.
 
+![Six metal-only objects, three in both groups and four from the 1800s only give 13 distinct objects.](../../assets/M5/sol26-overlap.svg)
+
 <a id="m5-q27-solution"></a>
 ### M5-Q27 solution
 
@@ -867,6 +879,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** A. Repeating a pair that contains 2 would leave square 4 white.
 
+![The press over 2 and 3 and the press over 3 and 4 both cover square 3.](../../assets/M5/sol27-stencil.svg)
+
 <a id="m5-q28-solution"></a>
 ### M5-Q28 solution
 
@@ -874,7 +888,7 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 1. Follow the stated operations in order, updating which end is exposed after each move.
 2. The new end is 2 after the first move, 6 after the second, and 1 after the third.
-3. Only the range 1–3 includes the final 1.
+3. Only tile 1–3 can join the exposed 1.
 
 **Closest distractor.** A. The 6 on the last tile was used to make the join.
 
@@ -889,6 +903,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** E. A gold result on its own fits two fabrics.
 
+![Lamp blue identifies L and pink identifies M. Lamp gold requires a drop test, which identifies J on fast and K on slow.](../../assets/M5/sol29-test-tree.svg)
+
 <a id="m5-q30-solution"></a>
 ### M5-Q30 solution
 
@@ -899,3 +915,5 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 3. The first READ has already added 4. Add 2 and 1 to finish at 7.
 
 **Closest distractor.** A. A total of 5 would execute the skipped SKIP and lose the 2.
+
+![Read 4, skip the next SKIP card, read 2 and read 1. The running totals after the reads are 4, 6 and 7.](../../assets/M5/sol30-card-trace.svg)
