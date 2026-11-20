@@ -579,7 +579,7 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 1. The known entries are six gaps apart and the total change is −18. Divide to find −3 per gap.
 2. Continue from 13: 10, 7, 4, 1, −2.
-3. The last of these is the first negative value.
+3. The first negative value is −2, five steps after entry 10, so it occurs at entry 15.
 
 **Closest distractor.** B. The fourth step after entry 10 still leaves a positive 1.
 
@@ -835,7 +835,7 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 **Answer E.** 1 and 1
 
 1. Reverse 1234 to get 4321 and append it, producing 12344321.
-2. The second append starts with the reversal of the final 1.
+2. The second mirror copy starts with the last digit of the eight-digit strip, which is 1.
 3. At that new join the old final digit and new first digit are both 1.
 
 ![The mirrored strip has a 1 on both sides of the join, at positions 8 and 9.](../../assets/M4/sol29-mirror-join.svg)
