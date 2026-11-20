@@ -2,7 +2,7 @@
 
 A two-week practice plan for the Grade 9 entrance test, covering mathematics and science equally.
 
-> **Current state (scaffold):** all **300 original drill questions** (150 math, 150 science) and the 10 worked examples are written, and the study calendar links to each day's first question. Subject review is still in progress. This notice will be removed once every category is reviewed and audited.
+> **Ready to use.** The bank has **300 original practice questions** (150 math, 150 science; 180 Medium, 120 Challenge) and 10 worked examples. Each question was solved independently by a reviewer before the answer key was checked. All questions are original practice, not real test questions. If you think an answer is wrong, note the question ID (for example `M2-Q14`) and ask a parent to check it.
 
 ## Start here
 
