@@ -126,7 +126,7 @@ graph LR
     Rabbit --> Fox[Fox]
 ```
 
-All the foxes leave the meadow. What is the most likely effect on the grasshoppers over the next few seasons?
+Grass is already in short supply for grasshoppers. All the foxes leave the meadow. What is the most likely effect on the grasshoppers over the next few seasons?
 
 A. Grasshoppers increase, because one of their predators is gone.
 
@@ -264,7 +264,7 @@ graph LR
     Sparrow --> Weasel[Weasel]
 ```
 
-A disease kills almost all the mice. Which organism **directly** loses a food source **and** has no other food shown in the diagram?
+A disease kills all the mice in this community. Which organism **directly** loses a food source **and** has no other food shown in the diagram?
 
 A. Owl
 
@@ -351,7 +351,7 @@ E. Ground beetle
 <a id="s1-q17"></a>
 ### S1-Q17
 
-Five lake organisms form a single straight food chain: each organism eats only the organism directly before it in the chain. You are told:
+Five lake organisms form a single straight food chain: each consumer eats only the organism directly before it in the chain. You are told:
 
 - Algae is the producer.
 - The pike is not eaten by any of the others.
@@ -429,7 +429,7 @@ E. The water it drinks
 <a id="s1-q21"></a>
 ### S1-Q21
 
-Red beetles and grey beetles both eat the same kind of leaf. Neither beetle eats the other. A scientist sets up three identical tanks, each given the same amount of leaves every day, and counts the beetles after two months.
+Red beetles and grey beetles both eat the same kind of leaf. Neither beetle eats the other. A scientist sets up three identical tanks, each given the same amount of leaves every day, and counts the beetles after two months. Every tank containing red beetles starts with 50 red beetles. Every tank containing grey beetles starts with 50 grey beetles. All tanks have ample space, water and shelter.
 
 | Tank | Beetles started in the tank | Red beetles after two months | Grey beetles after two months |
 |---|---|---|---|
@@ -456,7 +456,7 @@ Which list contains **only** non-living resources that organisms need from their
 
 A. Water, insects, sunlight
 
-B. Seeds, space, water
+B. Living seedlings, space, water
 
 C. Grass, light, soil nutrients
 
@@ -492,7 +492,7 @@ E. Nothing is wrong; the diagram is correct.
 <a id="s1-q24"></a>
 ### S1-Q24
 
-On an imaginary planet:
+On an imaginary planet, glims, zarks, and vexes are animals.
 
 - Floots make their own food from light.
 - Glims eat floots.
@@ -528,7 +528,7 @@ B. The perch fell because perch eat pike.
 
 C. The drop cannot be linked to the plants, because perch do not eat the water plants.
 
-D. Losing their hiding places likely left young perch easier for pike to catch, since the number of pike did not increase.
+D. Losing hiding places could have made young perch easier for the same number of pike to catch.
 
 E. The perch fell because the pike population fell.
 
@@ -561,17 +561,17 @@ graph LR
     Small --> Large[Large fish]
 ```
 
-Heavy fishing removes most of the large fish. What is the most likely effect on the phytoplankton?
+Researchers mark exactly one of these four populations with a harmless dye. The dye spreads only when an animal eats marked food. It stays detectable, and each population has had time to eat its usual food. Tests show dye in small fish and large fish, and none in phytoplankton. Which further test would tell the researchers which population they marked first?
 
-A. Phytoplankton increase, because small fish increase, zooplankton then decrease, and fewer zooplankton eat phytoplankton.
+A. Test zooplankton. A positive result identifies zooplankton as the starting population, and a negative result identifies small fish.
 
-B. Phytoplankton decrease, because the extra small fish eat them.
+B. Test another large fish. A positive result identifies large fish as the starting population.
 
-C. Phytoplankton are unaffected, because large fish do not eat phytoplankton.
+C. Test another small fish. A positive result identifies small fish as the starting population.
 
-D. Phytoplankton decrease, because zooplankton increase when the large fish are gone.
+D. Test more phytoplankton. A negative result identifies zooplankton as the starting population.
 
-E. Phytoplankton increase, because the large fish were eating phytoplankton.
+E. Test lake water. Detecting dye there would identify the first marked population.
 
 <a id="s1-q28"></a>
 ### S1-Q28
@@ -659,13 +659,13 @@ E. The dead wood
 | S1-Q18 | C | Medium | Same soil grows ferns well in a sunny clearing, and the soil under the trees is moist and rich; the difference is light blocked by the trees. | A/B: the stem says water and nutrients are already good. |
 | S1-Q19 | E | Challenge | Direct: zooplankton (lose a predator), tuna and seabird (lose food). Indirect: phytoplankton (through zooplankton) and shark (through tuna). | C/D each contain one directly affected organism (zooplankton / seabird). |
 | S1-Q20 | A | Medium | A habitat is the place where an organism lives and meets its needs: the reed marsh. | D describes the wren's feeding role, not the place it lives. |
-| S1-Q21 | A | Challenge | Together, red fall 200 → 120 and grey fall 180 → 40; both drop with the same food supply, and grey drop more. | B: the stem says neither beetle eats the other. D: the red beetles also fell. |
+| S1-Q21 | A | Challenge | Compare each species with its own single-species tank. The mixed tank ends with 80 fewer red beetles (200 − 120) and 140 fewer grey beetles (180 − 40). With matched starting counts, this fits competition for leaves. | B: the stem says neither beetle eats the other. D: red beetles also finished below their single-species count. |
 | S1-Q22 | E | Medium | Water, light, and space are all non-living. | D: shelter can be non-living, but mice are living. |
 | S1-Q23 | B | Medium | The order is right but each arrow points toward the food instead of toward the eater. | A: the order (leaf, insect, frog, snake, hawk) is already correct; only the direction is wrong. |
 | S1-Q24 | C | Medium | Nothing eats vexes, and vexes eat zarks and glims (two animals). | D: zarks are eaten by vexes and eat only one kind of animal. |
-| S1-Q25 | D | Challenge | Pike stayed constant, so more predators cannot explain it; the change was the loss of hiding plants (shelter). | C: the plants matter as shelter, an indirect link, even though perch do not eat them. A: pike did not grow. |
+| S1-Q25 | D | Challenge | Young perch use the plants for cover. Clearing the plants could increase the catch per pike even with a steady pike count. The observations support this explanation without establishing the cause. | C: the plants matter as shelter, an indirect link, even though perch do not eat them. A: the pike count stayed near 40. |
 | S1-Q26 | D | Medium | Bacteria make food (from chemicals), so they are the producers, like plants. | E: chemicals are an energy source, not an organism. A: tubeworms get food from bacteria, so they are consumers. |
-| S1-Q27 | A | Challenge | Fewer large fish → small fish increase → zooplankton decrease → phytoplankton increase. | D skips a step: zooplankton are eaten by the extra small fish, so they decrease, not increase. |
+| S1-Q27 | A | Challenge | The marker moves toward eaters. Starting at small fish or at zooplankton would mark both fish populations and leave phytoplankton unmarked. Only the zooplankton test separates these two cases. | C: small fish test positive in both surviving cases, either from the original dose or from eating marked zooplankton. |
 | S1-Q28 | E | Medium | Fertilizer adds nutrients; growth jumped only once nutrients arrived. | A: the stem says the lake was already well lit. |
 | S1-Q29 | C | Challenge | Lizards were steady (50–52) until toads arrived; then toads rose, beetles fell, and lizards fell. | D: lizards were stable in Years 1–3 and fell only after toads arrived. A: toads do not eat lizards. |
 | S1-Q30 | B | Medium | Fungi break down dead wood, so they are the decomposer; springtails eat the fungi. | D: centipedes eat mites and springtails, not fungi. |
