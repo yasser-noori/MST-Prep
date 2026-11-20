@@ -44,20 +44,7 @@ An open-top glass tank has walls 1 cm thick and a base 1 cm thick. Its measureme
 
 The water inside is 18 cm deep.
 
-```
-                              inside     water
-                              height     depth
-      +--------------------+   ---
-      |                    |    ^
-      |      (empty)       |    |
-      |~~~~~~~~~~~~~~~~~~~~|    |         ---
-      |                    |    | 25 cm    ^
-      |       water        |    |          | 18 cm
-      |                    |    v          v
-      +--------------------+   ---        ---
-         inside length 20 cm
-         inside width 15 cm (into the page)
-```
+![Glass tank with 1 cm walls and base, inside length 20 cm, width 15 cm, height 25 cm, and water depth 18 cm.](../../assets/M2/q02-glass-tank.svg)
 
 How much more water can be poured in before the tank is full?
 
@@ -76,15 +63,7 @@ E. 21 L
 
 A cylindrical cup has an inside radius of 4 cm and an inside height of 10 cm.
 
-```
-      Inside base (top view)       Side view
-             .---.                  +---------+ ---
-          .-'     '-.               |         |  ^
-         (     O-----*              |         |  | 10 cm
-          '-.     .-'               |         |  v
-             '---'                  +---------+ ---
-           O to * = 4 cm
-```
+![Top and side views showing the cup’s inside radius of 4 cm and inside height of 10 cm.](../../assets/M2/q03-cylindrical-cup.svg)
 
 Using π = 3.14, what is the capacity of the cup?
 
@@ -103,18 +82,7 @@ E. 5024 mL
 
 The L-shaped garden below has square corners. Only four of its six sides are labelled.
 
-```
-                    12 m
-       +-----------------------------+
-       |                             |
-       |                             | 5 m
-       |                             |
-  8 m  |                +------------+
-       |                |
-       |                |
-       +----------------+
-              7 m
-```
+![L-shaped garden with top 12 m, right 5 m, bottom 7 m and left 8 m. Both edges of the inside step are unlabelled.](../../assets/M2/q04-garden.svg)
 
 What is the perimeter of the garden?
 
@@ -154,19 +122,7 @@ E. 1.2 L
 
 A window is made of a rectangle with a semicircle on top. The diameter of the semicircle is the whole top side of the rectangle. A metal frame goes around the **outside edge** of the window only.
 
-```
-              .  -  -  .
-          .               .
-        .     semicircle    .
-       +---------------------+
-       |                     |
-       |                     |
-       |                     | 10 cm
-       |                     |
-       |                     |
-       +---------------------+
-                8 cm
-```
+![A semicircle sits on an 8 cm wide and 10 cm high rectangle. The dashed line shows their shared edge.](../../assets/M2/q06-window.svg)
 
 Using π = 3.14, how long is the frame?
 
@@ -230,17 +186,7 @@ E. 18 cm
 
 An aquarium has inside length 40 cm, inside width 25 cm, and inside height 30 cm. The water level is 4 cm below the top edge.
 
-```
-      +-----------------------------+   ---
-      |                             |    ^   4 cm gap
-      |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|   ---
-      |                             |
-      |           water             |       inside height 30 cm
-      |                             |
-      +-----------------------------+   ---
-            inside length 40 cm
-            inside width 25 cm (into the page)
-```
+![Aquarium with inside dimensions 40 cm by 25 cm by 30 cm and a 4 cm gap above the water.](../../assets/M2/q10-aquarium.svg)
 
 How much water is in the aquarium?
 
@@ -259,17 +205,7 @@ E. 26 000 L
 
 The shape below is a quarter of a circle. O is the centre of the circle, and OA = OB = 10 cm.
 
-```
-      A
-      | *
-      |    *
-      |      *
- 10 cm|       *
-      |        *
-      |         *
-      O----------B
-         10 cm
-```
+![Quarter circle with centre O and two perpendicular 10 cm radii, OA and OB.](../../assets/M2/q11-quarter-circle.svg)
 
 Using π = 3.14, what is the perimeter of the whole shape (the curved edge and both straight edges)?
 
@@ -318,16 +254,7 @@ E. 1080
 
 A semicircle is cut out of a rectangular sheet of card. The diameter of the semicircle is the whole 10 cm right-hand side of the rectangle.
 
-```
-   +----------------------------+
-   |                       . .  |
-   |                    .       |
-   |      card        (   cut   | 10 cm
-   |                    .  out  |
-   |                       . .  |
-   +----------------------------+
-                14 cm
-```
+![A 14 cm by 10 cm sheet with a semicircle removed along the whole 10 cm side.](../../assets/M2/q14-cut-card.svg)
 
 Using π = 3.14, what is the area of the card that is left?
 
@@ -346,20 +273,7 @@ E. 100.75 cm²
 
 A cylindrical water bottle has the inside measurements shown.
 
-```
-                    inside     water
-                    height     depth
-      |<-- d -->|
-      +---------+    ---
-      |         |     ^
-      |         |     |
-      |~~~~~~~~~|     |         ---
-      |         |     | 20 cm    ^
-      |  water  |     |          | 12 cm
-      |         |     v          v
-      +---------+    ---        ---
-      inside diameter d = 8 cm
-```
+![Bottle with inside diameter 8 cm, inside height 20 cm and water depth 12 cm.](../../assets/M2/q15-bottle.svg)
 
 Using π = 3.14, how much more water is needed to fill the bottle?
 
@@ -413,6 +327,8 @@ A full cylindrical bottle (inside radius 6 cm, inside height 10 cm) is emptied i
 | Bottle (cylinder, full) | radius 6 cm, height 10 cm |
 | Tray (rectangular, empty) | length 24 cm, width 15.7 cm |
 
+![Water from a full bottle of radius 6 cm and height 10 cm is poured into an empty tray with a 24 cm by 15.7 cm base.](../../assets/M2/q18-transfer.svg)
+
 Using π = 3.14, how deep is the water in the tray?
 
 A. 1 cm
@@ -430,20 +346,7 @@ E. 0.75 cm
 
 The front of a shed is a rectangle with an isosceles triangle on top.
 
-```
-                 /\
-                /| \
-        10 m   / |  \   10 m
-              /  |8 m\
-             /   |    \
-            /    |     \
-           +------------+
-           |            |
-           |            | 7 m
-           |            |
-           +------------+
-               12 m
-```
+![Shed with a 12 m by 7 m rectangular wall and a triangular roof with 10 m slopes and 8 m perpendicular height.](../../assets/M2/q19-shed.svg)
 
 The triangle's base is the whole 12 m top of the rectangle, and its height (the vertical line inside it) is 8 m. What is the area of the front of the shed?
 
@@ -541,24 +444,9 @@ E. 1413 L
 <a id="m2-q25"></a>
 ### M2-Q25
 
-A circle fits exactly inside a square, touching all four sides. The four corner regions outside the circle (marked #) are shaded.
+A circle fits exactly inside a square, touching all four sides. The four corner regions outside the circle are shaded.
 
-```
-   +---------*---------+
-   |####  .-' '-.  ####|
-   |##  .'       '.  ##|
-   |# .'           '. #|
-   | /               \ |
-   *                   *  10 cm
-   | \               / |
-   |# '.           .' #|
-   |##  '.       .'  ##|
-   |####  '-. .-'  ####|
-   +---------*---------+
-           10 cm
-
-   * = point where the circle touches the square
-```
+![Circle touching all four sides of a 10 cm by 10 cm square, with the four corners outside the circle shaded.](../../assets/M2/q25-inscribed-circle.svg)
 
 Using π = 3.14, what is the total shaded area?
 
@@ -592,18 +480,7 @@ E. The inside diameter and the depth of the juice now in the glass
 
 A circular pond has a radius of 6 m. A path 1 m wide runs all the way around the outside of the pond.
 
-```
-              . - - - - - - .            outer circle = outer edge of path
-          .                     .
-        .       . - - - - .       .
-       .      .             .      .
-       .      .    pond     .      .
-       .      .      O----->.<---->.
-       .      .        6 m  .  1 m .
-        .       . - - - - .       .
-          .                     .
-              . - - - - - - .
-```
+![The pond and path share centre O. The pond radius is 6 m and the path is 1 m wide.](../../assets/M2/q27-pond.svg)
 
 O is the centre of both circles. The pond's radius is 6 m and the path is 1 m wide.
 
@@ -653,6 +530,8 @@ E. 48 minutes
 ### M2-Q30
 
 Two students each have an 18 cm by 12 cm sheet of thin card. Each cuts an identical square from all four corners of their own sheet, then folds the four sides straight up to make an open tray. Ignore the thickness of the card. Ada uses 2 cm corner squares and Nico uses 3 cm corner squares.
+
+![Two 18 cm by 12 cm tray nets. Ada removes four 2 cm corner squares, Nico removes four 3 cm corner squares, and dashed lines show where to fold.](../../assets/M2/q30-tray-nets.svg)
 
 Which tray holds more when full, and by how much?
 
@@ -773,6 +652,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 1. Trace the outside and count the three straight edges: 10 + 8 + 10 = 28 cm.
 2. The arc is half a circle with diameter 8 cm, so its length is 3.14 × 8 ÷ 2 = 12.56 cm.
 3. Add 28 + 12.56 = 40.56 cm.
+
+![The outer semicircle contributes 12.56 cm and three straight edges contribute 28 cm, giving 40.56 cm.](../../assets/M2/sol06-window.svg)
 
 **Closest distractor.** A (48.56) also counts the 8 cm top of the rectangle, which is inside the window, not on its edge. C uses a whole circle.
 
@@ -906,6 +787,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 2. Find the tray's base area: 24 × 15.7 = 376.8 cm².
 3. Divide volume by base area: 1130.4 ÷ 376.8 = 3 cm. Multiplying back restores the same volume.
 
+![The same 1130.4 cm³ of water covers a 376.8 cm² tray base and reaches 3 cm deep.](../../assets/M2/sol18-transfer.svg)
+
 **Closest distractor.** B (10 cm) assumes the water keeps the bottle's height. D (12 cm) uses 12 cm (the diameter) as the radius. E (0.75 cm) halves the stated radius as if it were a diameter, giving a quarter of the correct volume and depth.
 
 <a id="m2-q19-solution"></a>
@@ -1037,5 +920,7 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 1. Ada's 2 cm cuts leave a base (18 − 4) × (12 − 4) cm and walls 2 cm high, so her volume is 224 cm³.
 2. Nico's 3 cm cuts leave a base (18 − 6) × (12 − 6) cm and walls 3 cm high, so his volume is 216 cm³.
 3. Compare the actual volumes: 224 − 216 = 8 cm³ more for Ada.
+
+![Ada’s 14 cm by 8 cm by 2 cm tray holds 224 cm³, and Nico’s 12 cm by 6 cm by 3 cm tray holds 216 cm³.](../../assets/M2/sol30-trays.svg)
 
 **Closest distractor.** D (85 cm³) subtracts only one cut width per dimension, giving 16 × 10 × 2 = 320 and 15 × 9 × 3 = 405. Each dimension loses a strip at both ends.
