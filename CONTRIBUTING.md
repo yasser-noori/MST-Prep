@@ -6,7 +6,7 @@ This file is the single shared reference for everyone writing, reviewing, or int
 
 1. **Claim one issue.** Pick one unassigned issue labelled `ready-to-claim`. Self-assign where supported, post a short claim comment (for example "Claiming M2"), replace `ready-to-claim` with `in-progress`, and re-read the issue to verify nobody else claimed it first before editing anything.
 2. **Branch from the published scaffold** (the repository's default branch). Use a category-specific branch such as `content/m1-number-theory`.
-3. **Stay in your lane.** A category author edits only the two files in their category directory (`learning.md`, `doing.md`) and any category-specific diagram assets under `assets/<category-id>/`. The integration agent owns shared README changes.
+3. **Stay in your lane.** A category author edits only the two files in their category directory (`1. Learning.md`, `2. Doing.md`) and any category-specific diagram assets under `Grade 9/assets/<category-id>/`. The integration agent owns shared README changes.
 4. **Open one focused PR** that links the issue with `Closes #<number>` and fills in the PR template: question counts, tier split, independent solution check, and visual-render check.
 5. **Request the subject review** (math or science review issue). Keep fixes inside the owning PR to avoid conflicts. A reviewer who finds a defect after merge opens a focused follow-up PR touching only that category.
 6. **Release.** The release agent marks the bank complete only after all content, review, and integration checks pass.
@@ -15,16 +15,13 @@ If you get stuck on something outside your files, label the issue `blocked` and 
 
 ## Project shape
 
-```
-README.md                 student index, evidence record, study calendar (integration owns)
-CONTRIBUTING.md           this guide
-.github/                  issue and PR templates
-mathematics/M1..M5/       learning.md + doing.md per category
-science/S1..S5/           learning.md + doing.md per category
-assets/<category-id>/     only if an essential diagram cannot be drawn inline
-```
+- `README.md` links to each grade.
+- `Grade 9/README.md` holds the Grade 9 index, evidence record, and study calendar.
+- `Grade 9/1. Math/` and `Grade 9/2. Science/` hold the topic folders. Each topic contains `1. Learning.md` and `2. Doing.md`.
+- `Grade 9/assets/<category-id>/` holds figures. `Grade 9/tools/figures/` holds their generators.
+- `.github/` contains issue and pull request templates.
 
-Keep everything Markdown-first. Use inline ASCII diagrams in fenced blocks, Mermaid where it renders the idea clearly (for example food chains), or labelled tables. For spatial or circuit questions, choose a representation that really conveys the geometry or connections. Put an image in `assets/<category-id>/` only if it cannot be drawn clearly inline. Students still see only two files per category.
+Use labelled graphics for diagrams and tables for tabular data. Keep each topic to two student-facing pages.
 
 ## Who the student is
 
@@ -40,7 +37,7 @@ Keep these three levels distinct on every page and in every issue:
 2. **Follow-up recognition** — topics the student recognized when suggested.
 3. **Extension / practice design** — material added for coverage and transfer.
 
-The evidence record for each category is already in its `learning.md` section 1. Do not upgrade an extension to a recollection. Preserve item-level uncertainty: for example, the container-volume recollection and the later recognition of displacement may refer to different questions.
+The evidence record for each category is already in its `1. Learning.md` section 1. Do not upgrade an extension to a recollection. Preserve item-level uncertainty: for example, the container-volume recollection and the later recognition of displacement may refer to different questions.
 
 Practice design facts:
 - All questions are original practice. Never present an item as a real test question.
@@ -52,8 +49,8 @@ Practice design facts:
 
 Each category issue delivers:
 
-- One complete `learning.md` with **exactly one** worked A–E question.
-- One complete `doing.md` with **exactly 30** original A–E drills, `<ID>-Q01` to `<ID>-Q30`.
+- One complete `1. Learning.md` with **exactly one** worked A–E question.
+- One complete `2. Doing.md` with **exactly 30** original A–E drills, `<ID>-Q01` to `<ID>-Q30`.
 - **Exactly 18 Medium and 12 Challenge** drills.
 - **Six consecutive five-question blocks** (Q01–05, Q06–10, Q11–15, Q16–20, Q21–25, Q26–30). Each block contains **3 Medium + 2 Challenge** in varied order.
 - A separate answer key at the bottom. **Tier labels appear only in the key.**
@@ -69,16 +66,16 @@ Repository totals when finished: 300 drills (150 math, 150 science), 180 Medium 
 
 Tiers are separate from **question styles**. Across the 30 items, cover all four styles: direct items, close variants, reverse problems, and unfamiliar transfer problems.
 
-## learning.md format
+## 1. Learning.md format
 
 1. **What the student remembers** — already scaffolded; keep it accurate.
 2. **Three or four core patterns.** For each: the clue to notice, the decision to make, and how to check it.
 3. **One worked A–E question** with the decisive step and an explanation of the most tempting wrong answer.
-4. **A direct link to `doing.md`.**
+4. **A direct link to `2. Doing.md`.**
 
 Remove the scaffold-status note when the page is complete.
 
-## doing.md format
+## 2. Doing.md format
 
 - Stable visible IDs `M2-Q01` … `M2-Q30`, each preceded by an explicit lowercase anchor: `<a id="m2-q01"></a>`. Calendar links depend on these anchors.
 - Neutral headings: just the ID. Never a hint such as "Use LCM here."
@@ -147,9 +144,9 @@ From S3, showing the expected finished form:
 | Category ID | Subject letter + number | `M2`, `S4` |
 | Question ID | `<category>-Q<two digits>` | `M2-Q07` |
 | Anchor | lowercase question ID | `<a id="m2-q07"></a>` |
-| Deep link | `<path>/doing.md#<anchor>` | `mathematics/M2-geometry-and-measurement/doing.md#m2-q07` |
+| Deep link | `<path>/2. Doing.md#<anchor>` | `Grade 9/1. Math/M2-geometry-and-measurement/2. Doing.md#m2-q07` |
 | Branch | `content/<lowercase dir name>` | `content/m2-geometry-and-measurement` |
-| Asset folder | `assets/<category-id>/` | `assets/S4/` |
+| Asset folder | `Grade 9/assets/<category-id>/` | `Grade 9/assets/S4/` |
 
 ## Verification requirements (before opening a PR)
 
@@ -164,7 +161,7 @@ From S3, showing the expected finished form:
 - [ ] Each question is independently solvable.
 - [ ] Every diagram renders correctly in GitHub's Markdown preview and contains the information needed (dimensions, units, switch states, junctions, pivot positions).
 - [ ] Q26–Q30 are fresh and not near-duplicates of Q01–Q25.
-- [ ] `learning.md` has 3–4 patterns, exactly one worked A–E example, and a link to `doing.md`.
+- [ ] `1. Learning.md` has 3–4 patterns, exactly one worked A–E example, and a link to `2. Doing.md`.
 - [ ] Only your category's files (and its asset folder) are changed.
 
 ## Review, integration, and release roles
@@ -177,7 +174,7 @@ From S3, showing the expected finished form:
 
 ### M1 — Number theory
 
-Directory: `mathematics/M1-number-theory/`
+Directory: `Grade 9/1. Math/M1-number-theory/`
 
 **Original recollection:**
 - LCM and GCF appeared on the test. Exact wording unknown.
@@ -214,7 +211,7 @@ Directory: `mathematics/M1-number-theory/`
 
 ### M2 — Geometry and measurement
 
-Directory: `mathematics/M2-geometry-and-measurement/`
+Directory: `Grade 9/1. Math/M2-geometry-and-measurement/`
 
 **Original recollection:**
 - Radius and circumference appeared.
@@ -254,7 +251,7 @@ Directory: `mathematics/M2-geometry-and-measurement/`
 
 ### M3 — Algebra
 
-Directory: `mathematics/M3-algebra/`
+Directory: `Grade 9/1. Math/M3-algebra/`
 
 **Original recollection:**
 - Algebra appeared. No specific equation or scenario was remembered.
@@ -291,7 +288,7 @@ Directory: `mathematics/M3-algebra/`
 
 ### M4 — Patterns and sequences
 
-Directory: `mathematics/M4-patterns-and-sequences/`
+Directory: `Grade 9/1. Math/M4-patterns-and-sequences/`
 
 **Original recollection:**
 - Number patterns appeared, including less obvious patterns.
@@ -328,7 +325,7 @@ Directory: `mathematics/M4-patterns-and-sequences/`
 
 ### M5 — Logic and constraints
 
-Directory: `mathematics/M5-logic-and-constraints/`
+Directory: `Grade 9/1. Math/M5-logic-and-constraints/`
 
 **Original recollection:**
 - A visual on/off problem asked which arrangement would make two bulbs light. The student described it as binary-style. Its mechanism is unknown.
@@ -365,7 +362,7 @@ Directory: `mathematics/M5-logic-and-constraints/`
 
 ### S1 — Ecology and ecosystems
 
-Directory: `science/S1-ecology-and-ecosystems/`
+Directory: `Grade 9/2. Science/S1-ecology-and-ecosystems/`
 
 **Original recollection:**
 - Identify predator and prey.
@@ -404,7 +401,7 @@ Directory: `science/S1-ecology-and-ecosystems/`
 
 ### S2 — Cells, DNA, and inheritance
 
-Directory: `science/S2-cells-dna-and-inheritance/`
+Directory: `Grade 9/2. Science/S2-cells-dna-and-inheritance/`
 
 **Original recollection:**
 - A question involving DNA appeared.
@@ -440,7 +437,7 @@ Directory: `science/S2-cells-dna-and-inheritance/`
 
 ### S3 — Matter, fluids, and temperature
 
-Directory: `science/S3-matter-fluids-and-temperature/`
+Directory: `Grade 9/2. Science/S3-matter-fluids-and-temperature/`
 
 **Original recollection:**
 - None for this category.
@@ -478,7 +475,7 @@ Directory: `science/S3-matter-fluids-and-temperature/`
 
 ### S4 — Circuits and switches
 
-Directory: `science/S4-circuits-and-switches/`
+Directory: `Grade 9/2. Science/S4-circuits-and-switches/`
 
 **Original recollection:**
 - None for this category.
@@ -515,7 +512,7 @@ Directory: `science/S4-circuits-and-switches/`
 
 ### S5 — Forces and balance
 
-Directory: `science/S5-forces-and-balance/`
+Directory: `Grade 9/2. Science/S5-forces-and-balance/`
 
 **Original recollection:**
 - None for this category.
