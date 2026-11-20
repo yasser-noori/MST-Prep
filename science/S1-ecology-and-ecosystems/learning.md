@@ -49,11 +49,15 @@ All questions here are original practice. They are not copies of real test quest
 - **Decision to make:** relative to *which* other organism? List what the organism eats (it is a predator of those animals) and what eats it (it is prey of those). One animal can be both at once.
 - **How to check:** say the pair out loud as a sentence: "The ___ eats the ___." If the sentence is not stated in the question or shown by an arrow, the relationship does not exist in this question. Use only the feeding relationships given; never add diets from memory.
 
+![A frog eats a grasshopper and is eaten by a heron. The frog is both predator and prey.](../../assets/S1/learn-relative-roles.svg)
+
 ### Pattern 2 — Arrows point from the eaten to the eater
 
 - **Clue to notice:** a food chain or web drawn with arrows, or a choice written as `A → B → C`.
 - **Decision to make:** an arrow shows where the **energy goes**, so it points *toward the organism that does the eating*. `Grass → Rabbit` means the rabbit eats the grass. To trace a chain that begins with a producer, start at the organism that makes its own food.
 - **How to check:** read each arrow as "is eaten by". `Grass → Rabbit → Fox` reads "grass is eaten by rabbit, rabbit is eaten by fox." If any link reads backwards ("fox is eaten by rabbit"), the arrows are reversed.
+
+![Energy flows from grass, the producer, to a rabbit, and then to a fox.](../../assets/S1/learn-energy-flow.svg)
 
 ### Pattern 3 — Find the resource that is actually in short supply
 
@@ -61,11 +65,15 @@ All questions here are original practice. They are not copies of real test quest
 - **Decision to make:** which resource is missing or shared? Name it from the list (water, light, shelter, space, nutrients, food). Ignore resources the question says are plentiful. If two setups differ in **more than one** resource, you cannot tell which one caused the difference.
 - **How to check:** ask "If I supplied more of this one resource, would the problem go away?" Then check that nothing else in the stem was also changed.
 
+![If both light and water differ, their effects cannot be separated. If only light differs, the comparison tests light.](../../assets/S1/learn-change-one-resource.svg)
+
 ### Pattern 4 — Direct versus indirect effects
 
 - **Clue to notice:** an organism is removed, added, or changes in number, and the question asks about a different organism.
 - **Decision to make:** is the organism asked about joined to the changed one by a single arrow (a **direct** effect: it loses food or loses a predator), or only through a middle organism (an **indirect** effect)? For indirect effects, follow the chain one link at a time.
 - **How to check:** write each step as "X goes down, so Y (which eats X / is eaten by X) goes ___." Never write "unaffected" just because there is no arrow between two organisms.
+
+![Grass is two links from foxes and rabbits are one link away. Rabbits are directly affected by a change in foxes.](../../assets/S1/learn-direct-indirect.svg)
 
 ## 4. Worked example
 
