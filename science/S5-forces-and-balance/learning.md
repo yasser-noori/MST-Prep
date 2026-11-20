@@ -21,17 +21,25 @@ All questions here are original practice. They are not copies of real test quest
 
 Watch a pair of scissors open. The blades and handles turn around the screw. That screw is the **pivot**. Your fingers supply the **effort** at the handles, and the material being cut supplies resistance at the blades. To check the labels, imagine moving just one handle. Which point does it turn around?
 
+![Blades and handles turn about the screw, with effort applied at the handles](../../assets/S5/learn-scissors.svg)
+
 ### Compare the turns
 
 On a level beam, a hanging load to the left of the pivot tends to lower the left end. A load to the right tends to lower the right end. The turning effect of a vertical force is its size multiplied by its horizontal distance from the pivot. Measure from the pivot, even when the ruler starts somewhere else. A weight hung directly at the pivot has zero turning effect.
+
+![The 4 N load at mark 2 is three marks from pivot 5, and the 3 N load at mark 7 is two marks from it](../../assets/S5/learn-measure-from-pivot.svg)
 
 ### Add before you compare
 
 If two weights hang on one side, find the turning effect of **each** weight, then add those effects. For a level beam to balance, the totals on opposite sides must match. When a load moves, cross out its old contribution and enter the new one. As a check, moving the same load farther out on the same side must increase that side’s turning effect.
 
+![Left turns of 9 and 3 N-marks total 12 N-marks and match the 12 N-mark right turn](../../assets/S5/learn-turn-totals.svg)
+
 ### Read force arrows along one line
 
 For a cart pushed directly along a straight track, add the forces pointing right and add the forces pointing left. Equal totals give zero net horizontal force. A larger total to the left means the velocity changes toward the left. A cart already travelling right can therefore slow down while still moving right. Check whether the question asks about its motion now or how that motion changes.
+
+![Right-moving cart with a 6 N leftward force and a 3 N rightward force, shown separately from the motion arrow](../../assets/S5/learn-cart-motion.svg)
 
 ## 3. Worked example
 

@@ -47,12 +47,7 @@ E. Soil, handles, axle
 
 A level, weightless beam has equally spaced marks and a pivot at mark 0. A 5 N load hangs at L2 and a 3 N load at R4.
 
-```text
-                5 N                                             3 N
-                v                                               v
-L4------L3------L2------L1------0-------R1------R2------R3------R4
-                                ^ pivot
-```
+![Level beam with pivot at 0, 5 N at L2 and 3 N at R4](../../assets/S5/q03-beam.svg)
 
 Which single change would balance the beam?
 
@@ -71,9 +66,7 @@ E. Hang a 2 N load at the pivot.
 
 Two children pull a sled along the same straight rope line. The arrows give all horizontal forces. What is the net horizontal force?
 
-```text
-8 N left  <-- [sled] --> 5 N right
-```
+![Horizontal pulls on the sled are 8 N left and 5 N right](../../assets/S5/q04-sled-pulls.svg)
 
 A. 3 N right
 
@@ -90,12 +83,7 @@ E. 13 N left
 
 A level, weightless beam has equally spaced marks and a pivot at mark 0. A bag hangs at L3. Two identical small weights hang together at R2. The beam balances.
 
-```text
-bag                                     2 wts
-v                                       v
-L3------L2------L1------0-------R1------R2------R3
-                        ^ pivot
-```
+![Balanced beam with the bag at L3 and two weights together at R2, with pivot at 0](../../assets/S5/q05-beam.svg)
 
 One small weight is removed. Where should the bag be hung to restore balance if it may hang between marks?
 
@@ -116,12 +104,7 @@ E. L2
 
 A level, weightless beam has equally spaced marks and a pivot at mark 0. A 4 N load hangs at L3 and a mystery load hangs at R2. The beam balances.
 
-```text
-4 N                                     ? N
-v                                       v
-L3------L2------L1------0-------R1------R2
-                        ^ pivot
-```
+![Balanced beam with 4 N at L3, an unknown load at R2 and pivot at 0](../../assets/S5/q06-beam.svg)
 
 How heavy is the mystery load?
 
@@ -139,6 +122,8 @@ E. 8 N
 ### S5-Q07
 
 A puck is sliding east along a straight track. At this instant the only horizontal forces are 3 N east and 7 N west, both through its centre. Which description fits the next instant, before the puck can stop?
+
+![East-moving puck with forces of 7 N west and 3 N east](../../assets/S5/q07-puck-forces.svg)
 
 A. It moves east at constant speed.
 
@@ -170,12 +155,7 @@ E. 12 cm from the nut
 
 A level, weightless beam has equally spaced marks and a pivot at mark 0. Two identical stones hang at L1 and R3, one stone per mark.
 
-```text
-                stone                           stone
-                v                               v
-L3------L2------L1------0-------R1------R2------R3
-                        ^ pivot
-```
+![Identical stones at L1 and R3, with pivot at 0](../../assets/S5/q09-beam.svg)
 
 Which description fits the instant after release from rest?
 
@@ -194,12 +174,7 @@ E. The pivot starts to rise.
 
 A level, weightless beam has equally spaced marks and a pivot at mark 0. Loads of 3 N at L4 and 2 N at L1 are balanced by a single load at R2.
 
-```text
-3 N                     2 N                     ? N
-v                       v                       v
-L4------L3------L2------L1------0-------R1------R2------R3------R4
-                                ^ pivot
-```
+![Beam with 3 N at L4, 2 N at L1, an unknown load at R2 and pivot at 0](../../assets/S5/q10-beam.svg)
 
 The right load is moved to R1. How much extra weight must be hung at R1 with it to restore balance?
 
@@ -220,12 +195,7 @@ E. 7 N
 
 A level, weightless beam has equally spaced marks and a pivot at mark 4. A 2 N load hangs at mark 1 and a 3 N load at mark 6.
 
-```text
-        2 N                                     3 N
-        v                                       v
-0-------1-------2-------3-------4-------5-------6-------7-------8
-                                ^ pivot
-```
+![Beam marked from 0 through 8 with 2 N at mark 1, pivot at mark 4 and 3 N at mark 6](../../assets/S5/q11-numbered-beam.svg)
 
 Which statement describes the initial turn?
 
@@ -244,10 +214,7 @@ E. Both ends rise.
 
 Two horizontal pushes and one horizontal pull act on a crate along the same line. All three are shown. Which force would bring their total to zero?
 
-```text
-4 N left <-- [crate] --> 6 N right
-                     --> 3 N right
-```
+![Forces on the crate are 4 N left and two rightward forces of 6 N and 3 N](../../assets/S5/q12-crate-forces.svg)
 
 A. 5 N right
 
@@ -264,12 +231,7 @@ E. 13 N left
 
 A level, weightless beam has equally spaced marks and a pivot at mark 0. A load hangs at L2 and an identical load hangs at R2.
 
-```text
-        load                            load
-        v                               v
-L3------L2------L1------0-------R1------R2------R3
-                        ^ pivot
-```
+![Identical loads at L2 and R2 with pivot at 0](../../assets/S5/q13-beam.svg)
 
 A third load is now hung at mark 0. What happens on release?
 
@@ -320,12 +282,7 @@ E. A 38 N horizontal pull from the handle
 
 A level, weightless beam has equally spaced marks and a pivot at mark 0. A 2 N load hangs at L4 and another 2 N load hangs at L2.
 
-```text
-2 N             2 N
-v               v
-L4------L3------L2------L1------0-------R1------R2------R3------R4
-                                ^ pivot
-```
+![2 N at L4 and 2 N at L2, with pivot at 0](../../assets/S5/q16-beam.svg)
 
 What turning effect must a right-side load produce to balance the beam?
 
@@ -359,12 +316,7 @@ E. The height of the warmer above the floor
 
 A level, weightless beam has equally spaced marks and a pivot at mark 0. A 6 N load hangs at L2 and a 4 N load hangs at R3.
 
-```text
-        6 N                                     4 N
-        v                                       v
-L3------L2------L1------0-------R1------R2------R3
-                        ^ pivot
-```
+![Before the move, the beam has 6 N at L2 and 4 N at R3, with pivot at 0](../../assets/S5/q18-beam.svg)
 
 Both loads move one mark toward the pivot. What happens when the beam is released?
 
@@ -398,12 +350,7 @@ E. It slows to a stop.
 
 A level, weightless beam has equally spaced marks and a pivot at mark 0. An unknown weight hangs at L4 and a second unknown weight hangs at R2. The beam is balanced.
 
-```text
-? N                                             ? N
-v                                               v
-L4------L3------L2------L1------0-------R1------R2------R3------R4
-                                ^ pivot
-```
+![Unknown weights at L4 and R2, with pivot at 0](../../assets/S5/q20-beam.svg)
 
 What can you determine without knowing either weight in newtons?
 
@@ -439,12 +386,7 @@ E. The contact between the bar and the small block
 
 A level, weightless beam has equally spaced marks and a pivot at mark 0. A 6 N load hangs at L2. A 3 N load may hang at any of R1, R2, R3 or R4.
 
-```text
-        6 N
-        v
-L3------L2------L1------0-------R1------R2------R3------R4
-                        ^ pivot
-```
+![Beam from L3 through R4 with 6 N at L2 and pivot at 0](../../assets/S5/q22-beam.svg)
 
 At how many of those four settings will the left end start to drop?
 
@@ -478,6 +420,8 @@ E. 4 N
 
 A horizontal gate pivots in plan view around a hinge, like a clock hand turning on a table. Two students stand equally far from the hinge. One pushes straight toward the hinge along the gate. The other pushes at a right angle to the gate. Both push with 10 N. Which explanation fits?
 
+![Each push is 10 N at the same distance from the hinge. One is toward the hinge along the gate and one is perpendicular to the gate.](../../assets/S5/q24-gate-pushes.svg)
+
 A. Both pushes turn it equally because their force and distance are equal.
 
 B. Only the perpendicular push has a turning effect.
@@ -493,12 +437,7 @@ E. Only the inward push has a turning effect.
 
 A level, weightless beam has equally spaced marks and a pivot at mark 0. An 8 N load hangs at L2. A hook at R4 holds two identical bags and balances the beam.
 
-```text
-        8 N                                             2 bags
-        v                                               v
-L3------L2------L1------0-------R1------R2------R3------R4
-                        ^ pivot
-```
+![Beam with 8 N at L2, two bags at R4 and pivot at 0](../../assets/S5/q25-beam.svg)
 
 How heavy is each bag?
 
@@ -519,12 +458,7 @@ E. 1 N
 
 A level, weightless beam has equally spaced marks and a pivot at mark 3. A 2 N sign hangs at mark 0 and a 4 N sign hangs at mark 6. A builder can relocate the pivot to any other numbered mark.
 
-```text
-2 N                                             4 N
-v                                               v
-0-------1-------2-------3-------4-------5-------6
-                        ^ pivot
-```
+![Beam with 2 N at mark 0, 4 N at mark 6 and movable pivot starting at mark 3](../../assets/S5/q26-movable-pivot.svg)
 
 At which mark should the pivot be placed to balance the signs?
 
@@ -588,13 +522,7 @@ E. 25 N
 
 In a top view of a square sign, each marked point is the same distance from the central pivot O. A short push points upward on the page at the right-edge point R. Which second push of the same size would give an equal turn in the opposite direction?
 
-```text
-      T
-      |
-L-----O-----R   (first push at R points up the page)
-      |
-      B
-```
+![Top view of the sign with T, R, B and L equally spaced from pivot O, and the first push pointing up at R](../../assets/S5/q30-sign-pivot.svg)
 
 A. Down the page at B
 
@@ -846,6 +774,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** E. The move removes 6 N-marks from the left and 4 from the right.
 
+![After moving inward, 6 N acts one mark from the pivot on the left and 4 N acts two marks away on the right, giving turns of 6 and 8 N-marks](../../assets/S5/sol18-new-arms.svg)
+
 <a id="s5-q19-solution"></a>
 ### S5-Q19 solution
 
@@ -934,6 +864,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** D. That placement gives the heavier sign a longer arm.
 
+![Pivot at mark 4 leaves four marks to the 2 N load and two marks to the 4 N load. Each side turns with 8 N-marks.](../../assets/S5/sol26-new-pivot.svg)
+
 <a id="s5-q27-solution"></a>
 ### S5-Q27 solution
 
@@ -944,6 +876,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 3. That is the net force.
 
 **Closest distractor.** B. Once the shelf slides clear, it exerts no force on the parcel.
+
+![On the shelf, 12 N upward and 12 N downward balance. Once the shelf is gone, only the 12 N downward force acts.](../../assets/S5/sol27-contact-force.svg)
 
 <a id="s5-q28-solution"></a>
 ### S5-Q28 solution
@@ -976,3 +910,5 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 3. That opposite turn cancels the first.
 
 **Closest distractor.** E. Pushing down at L helps push R upward.
+
+![Upward arrows of equal size at L and R turn the sign in opposite directions about O](../../assets/S5/sol30-opposite-turns.svg)
