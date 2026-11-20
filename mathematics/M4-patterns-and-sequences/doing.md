@@ -58,6 +58,8 @@ E. 55
 
 The printed border repeats leaf, star, wave, heart, dot in that order. The very first mark is a leaf. Which mark is in position 100?
 
+![The border repeats leaf, star, wave, heart and dot in that order.](../../assets/M4/q04-border-repeat.svg)
+
 A. Leaf
 
 B. Star
@@ -199,12 +201,7 @@ E. Position 33
 
 A frame has two straight rows of pegs and one handle peg. Figure n has n pegs in its top row and n + 1 in its bottom row. The handle peg is separate. How many pegs does figure 9 have?
 
-```text
-             Figure 1    Figure 2    Figure 3
-Top row         o           oo          ooo
-Bottom row      oo          ooo         oooo
-Handle          *           *           *
-```
+![Figures 1, 2 and 3 have top rows of one, two and three pegs, bottom rows of two, three and four pegs, and one separate handle peg each.](../../assets/M4/q13-peg-frames.svg)
 
 A. 17
 
@@ -389,6 +386,8 @@ E. Term 8
 ### M4-Q25
 
 A mosaic contains a straight row of n touching hexagons. Each new hexagon shares exactly one whole side with the previous one and touches no earlier hexagon. Lou counts every side of every hexagon, including a shared side twice. Which expression gives the amount she must subtract to get the number of distinct sides for every row length n?
+
+![Three hexagons arranged in a straight row, touching side to side.](../../assets/M4/q25-hexagons.svg)
 
 A. 1
 
@@ -592,6 +591,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 1. Draw the first square with 4 sticks. Each next square borrows one side from its neighbour and needs 3 new sticks.
 2. Seven attachments give 4 + 7 × 3 = 25 sticks.
 
+![The first square uses four sticks. Each added square reuses one side and adds three sticks, so eight squares need 25 sticks.](../../assets/M4/sol07-shared-stick.svg)
+
 **Closest distractor.** C. Counting three per square misses the left edge of the first one.
 
 <a id="m4-q08-solution"></a>
@@ -730,9 +731,9 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Answer A.** 12
 
-1. Compare the last two terms: 48 ÷ 12 = 4.
+1. Compare the last two supplied terms: 192 ÷ 48 = 4.
 2. Test the same multiplier on the previous pair: 3 × 4 = 12.
-3. Both gaps fit multiplication by 4.
+3. Check the middle step: 12 × 4 = 48.
 
 **Closest distractor.** E. Doubling 24 reaches 48 but fails to reproduce the last step.
 
@@ -785,9 +786,11 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Answer E.** n − 1
 
-1. Counting every square separately counts both copies of each shared side.
-2. A row of n squares has n − 1 joins, each of which needs one copy removed.
-3. The expression is 4n − (n − 1). For two squares it gives 7 sticks.
+1. Counting each hexagon separately gives 6n sides and counts both copies of each shared side.
+2. Each hexagon after the first creates one join. A row of n hexagons therefore has n − 1 joins.
+3. Subtract one extra count per join. The amount to subtract is n − 1, so the distinct-side count is 6n − (n − 1).
+
+![Three hexagons have two shared sides. Count 18 sides separately, then remove the two extra counts to get 16 distinct sides.](../../assets/M4/sol25-hexagon-joins.svg)
 
 **Closest distractor.** D. Subtracting twice per join would remove that side entirely.
 
@@ -811,6 +814,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 2. The last term exceeds the first by 54 − 38 = 16.
 3. There are four equal gaps from first to last, so the increase is 16 ÷ 4 = 4.
 
+![The first four terms sum to 38 and the last four to 54. Terms 2 through 4 cancel, leaving a difference of 16 over four gaps.](../../assets/M4/sol27-matching-sums.svg)
+
 **Closest distractor.** D. Sixteen measures the whole change from the first number to the fifth.
 
 <a id="m4-q28-solution"></a>
@@ -832,6 +837,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 1. Reverse 1234 to get 4321 and append it, producing 12344321.
 2. The second append starts with the reversal of the final 1.
 3. At that new join the old final digit and new first digit are both 1.
+
+![The mirrored strip has a 1 on both sides of the join, at positions 8 and 9.](../../assets/M4/sol29-mirror-join.svg)
 
 **Closest distractor.** B. The last digit is copied at the join.
 
