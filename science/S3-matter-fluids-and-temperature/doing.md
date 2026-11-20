@@ -28,6 +28,8 @@ E. 13 cm³
 
 Two solid blocks each occupy 12 cm³. Block H has a mass of 42 g and block J a mass of 30 g. How much greater is H's density?
 
+![Both blocks occupy 12 cm³. H has mass 42 g and J has mass 30 g](../../assets/S3/q02-blocks.svg)
+
 A. 12 g/cm³
 
 B. 6 g/cm³
@@ -193,6 +195,8 @@ E. Toward the object with greater density
 
 A cylinder reads 22 mL initially and 38 mL with a bead fully underwater. A large air bubble is stuck to the bead. Mia uses the 16 mL rise as the bead's volume and divides its measured mass by that volume. Compared with the bead's true density, what does she get?
 
+![The cylinder reads 22 mL before and 38 mL with the bead and its attached air bubble underwater](../../assets/S3/q12-bubble.svg)
+
 A. Too low because the measured volume includes the bubble
 
 B. Correct because air has little mass
@@ -270,6 +274,8 @@ E. 2.0 g/mL
 
 Three separate cups hold water at 8 °C, 18 °C and 32 °C. The same thermometer is moved directly from the 8 °C cup to the 32 °C cup. It reaches the cup's temperature at each stop. It is then moved to the 18 °C cup. Which way does heat initially flow at each move?
 
+![The thermometer moves from the 8 °C cup to the 32 °C cup, then to the 18 °C cup](../../assets/S3/q17-cup-order.svg)
+
 A. Into the thermometer, then out of it
 
 B. Into the thermometer both times
@@ -288,6 +294,8 @@ A cooling sample is measured every two minutes. In which interval is the tempera
 | Time (min) | 0 | 2 | 4 | 6 | 8 | 10 |
 |---|---:|---:|---:|---:|---:|---:|
 | Temperature (°C) | 76 | 70 | 58 | 50 | 45 | 42 |
+
+![Temperature readings at 0, 2, 4, 6, 8 and 10 minutes are 76, 70, 58, 50, 45 and 42 °C](../../assets/S3/q18-cooling-readings.svg)
 
 A. 4–6 min
 
@@ -318,6 +326,8 @@ E. 1.8 cm³
 ### S3-Q20
 
 A chain is gradually lowered into a full overflow vessel. All the chain ends up submerged, and exactly 12 mL of water runs into the empty collecting cup. What chain volume is below the surface? Use 1 mL = 1 cm³.
+
+![A submerged chain in a full vessel with 12 mL of overflow collected in a cup](../../assets/S3/q20-overflow.svg)
 
 A. 24 cm³
 
@@ -413,6 +423,8 @@ E. 13 g
 
 Four equal solid marbles are small enough to pass through a cylinder opening. The cylinder reads 41 mL with one marble submerged and 56 mL with all four submerged in the same water. No water spills. What is the water reading with no marbles? Use 1 mL = 1 cm³.
 
+![The same cylinder reads 41 mL with one marble submerged and 56 mL with four equal marbles submerged](../../assets/S3/q26-marbles.svg)
+
 A. 21 mL
 
 B. 26 mL
@@ -457,6 +469,8 @@ E. 15 mL
 ### S3-Q29
 
 A sealed two-part float has a 30 cm³ compartment of mass 36 g and a 70 cm³ compartment of mass 49 g. These volumes add to the whole outside volume. The float is released beneath a liquid of density 0.90 g/cm³. What happens?
+
+![Float compartments of 30 cm³ and 36 g, and 70 cm³ and 49 g, in a liquid of density 0.90 g/cm³](../../assets/S3/q29-float-compartments.svg)
 
 A. It sinks because the two compartment densities average to 0.95 g/cm³.
 
@@ -599,6 +613,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** C. Equal density in Y would allow suspension rather than rising.
 
+![Open endpoint circles at 0.80 and 1.20 g/cm³ enclose the possible density, 0.95 g/cm³](../../assets/S3/sol07-density-range.svg)
+
 <a id="s3-q08-solution"></a>
 ### S3-Q08 solution
 
@@ -618,6 +634,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 2. The increase is 35 − 21 = 14 °C. The equal correction cancels in the difference.
 
 **Closest distractor.** D. The same offset cancels when the two readings are subtracted.
+
+![Displayed readings 24 and 38 °C become 21 and 35 °C after subtracting 3 °C, with a rise of 14 °C either way](../../assets/S3/sol09-offset.svg)
 
 <a id="s3-q10-solution"></a>
 ### S3-Q10 solution
@@ -714,6 +732,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** C. The highest starting temperature does not guarantee the largest measured drop.
 
+![Drops by interval are 6, 12, 8, 5 and 3 °C. The greatest is 12 °C from 2 to 4 minutes](../../assets/S3/sol18-temperature-drops.svg)
+
 <a id="s3-q19-solution"></a>
 ### S3-Q19 solution
 
@@ -801,6 +821,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** B. Subtracting all 15 mL from 41 removes three marbles when only one is present.
 
+![Subtract 41 from 56 and divide by three to find 5 mL per marble, then subtract 5 from 41 to get 36 mL of water](../../assets/S3/sol26-marble-steps.svg)
+
 <a id="s3-q27-solution"></a>
 ### S3-Q27 solution
 
@@ -834,6 +856,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** A. A simple average weights unequal-volume compartments equally.
 
+![The whole float has mass 85 g and volume 100 cm³. Its density of 0.85 g/cm³ is below the liquid’s 0.90 g/cm³](../../assets/S3/sol29-float-total.svg)
+
 <a id="s3-q30-solution"></a>
 ### S3-Q30 solution
 
@@ -844,3 +868,5 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 3. The rate within the interval cannot be determined without more measurements.
 
 **Closest distractor.** E. The midpoint value 22 °C assumes a steady rate that was never stated.
+
+![Two possible paths pass through 19 °C at minute 2 and 25 °C at minute 6, but give different results at minute 4](../../assets/S3/sol30-two-paths.svg)
