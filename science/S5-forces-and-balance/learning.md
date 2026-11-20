@@ -37,13 +37,7 @@ For a cart pushed directly along a straight track, add the forces pointing right
 
 A weightless beam rests level on a pivot at mark 0. The marks are equally spaced. A 6 N load hangs at L2 and a 2 N load hangs at R3. Where should you hang one additional 3 N load to keep the beam level when released?
 
-```text
-      6 N                          2 N
-      v                            v
-L3----L2----L1----0----R1----R2----R3
-                  ^
-                pivot
-```
+![Beam with 6 N at L2, 2 N at R3 and the pivot at mark 0](../../assets/S5/learn-beam.svg)
 
 A. L2
 

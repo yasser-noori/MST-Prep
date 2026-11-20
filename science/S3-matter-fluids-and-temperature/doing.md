@@ -11,6 +11,8 @@ These are original practice questions. Answer each on paper and mark it correct,
 
 A cylinder holds 26 mL of water. With a solid pebble fully submerged it reads 39 mL. No water spills. What is the pebble's volume? Use 1 mL = 1 cm³.
 
+![The cylinder reads 26 mL with water alone and 39 mL with the submerged pebble](../../assets/S3/q01-pebble.svg)
+
 A. 65 cm³
 
 B. 26 cm³
@@ -483,6 +485,8 @@ E. It must have been 22 °C.
 
 ## Answer key
 
+[Go to the full solutions](#full-solutions)
+
 | ID | Answer | Tier | Reasoning | Closest distractor ruled out by |
 |---|---|---|---|---|
 | S3-Q01 | E | Medium | The pebble raises the reading by 39 − 26 = 13 mL. | C. 39 mL includes the starting water. |
@@ -515,3 +519,328 @@ E. It must have been 22 °C.
 | S3-Q28 | E | Medium | The added liquid fills the space vacated by the solid, equal to 15 cm³. | B. 85 mL describes the water originally sharing the volume under the line. |
 | S3-Q29 | B | Challenge | The float has mass 85 g and volume 100 cm³. Its overall density is below the liquid's. | A. A simple average weights unequal-volume compartments equally. |
 | S3-Q30 | D | Medium | The readings give no record of how fast the temperature changed within the interval. | E. The midpoint value 22 °C assumes a steady rate that was never stated. |
+
+## Full solutions
+
+Solve and mark each question before opening its solution. For a guess or miss, try the steps again on paper before comparing.
+
+<a id="s3-q01-solution"></a>
+### S3-Q01 solution
+
+**Answer E.** 13 cm³
+
+1. Read the start and end: 26 and 39 mL.
+2. Subtract 26 from 39 to get 13 mL displaced, or 13 cm³ of pebble volume.
+
+**Closest distractor.** C. 39 mL includes the starting water.
+
+<a id="s3-q02-solution"></a>
+### S3-Q02 solution
+
+**Answer C.** 1 g/cm³
+
+1. Compare the masses over the same volume: the difference is 12 g for 12 cm³.
+2. Divide 12 by 12 to get a density difference of 1 g/cm³.
+
+**Closest distractor.** A. 12 g is the mass difference before dividing by volume.
+
+<a id="s3-q03-solution"></a>
+### S3-Q03 solution
+
+**Answer B.** 16 cm³
+
+1. Use 46 mL as the baseline because the sinker is already submerged.
+2. The cork raises the reading to 62 mL.
+3. The cork alone displaces 62 − 46 = 16 mL.
+
+**Closest distractor.** E. The 27 mL total rise includes both objects.
+
+![Water reads 46 mL with the sinker and 62 mL with the cork added, a rise of 16 mL](../../assets/S3/sol03-cork.svg)
+
+<a id="s3-q04-solution"></a>
+### S3-Q04 solution
+
+**Answer D.** From tile to clip
+
+1. Compare measured temperatures: the tile is warmer.
+2. Net heat flows from warmer to cooler, so the tile initially transfers energy to the clip.
+
+**Closest distractor.** C. Metal can feel cold, but the measured temperatures determine the direction.
+
+<a id="s3-q05-solution"></a>
+### S3-Q05 solution
+
+**Answer D.** L ends lower and K drops more.
+
+1. Compute the drop for K to get 23 °C.
+2. Use L's 31 °C finish to find its drop of 13 °C.
+3. K's drop is greater by 10 °C.
+
+**Closest distractor.** B. The colder ending reading alone cannot identify the larger drop.
+
+<a id="s3-q06-solution"></a>
+### S3-Q06 solution
+
+**Answer C.** 21 g
+
+1. Find the density: 60 ÷ 20 = 3 g/cm³.
+2. Multiply by the desired volume: 3 × 7 = 21 g.
+
+**Closest distractor.** A. 3 g is the mass of just one cubic centimetre.
+
+<a id="s3-q07-solution"></a>
+### S3-Q07 solution
+
+**Answer E.** 0.95 g/cm³
+
+1. Sinking in X requires density above X's.
+2. Rising in Y requires density below Y's.
+3. The option strictly between them is 0.95.
+
+**Closest distractor.** C. Equal density in Y would allow suspension rather than rising.
+
+<a id="s3-q08-solution"></a>
+### S3-Q08 solution
+
+**Answer C.** 55 mL
+
+1. The final reading includes the original water and 18 mL displaced by the object.
+2. Undo that rise: 73 − 18 = 55 mL.
+
+**Closest distractor.** D. Adding 18 would count the object twice.
+
+<a id="s3-q09-solution"></a>
+### S3-Q09 solution
+
+**Answer B.** 35 °C final, 14 °C rise
+
+1. Subtract the 3 °C error from each reading, obtaining 21 and 35 °C.
+2. The increase is 35 − 21 = 14 °C. The equal correction cancels in the difference.
+
+**Closest distractor.** D. The same offset cancels when the two readings are subtracted.
+
+<a id="s3-q10-solution"></a>
+### S3-Q10 solution
+
+**Answer E.** The glass bead
+
+1. The objects have equal masses.
+2. The glass bead packs that mass into less volume.
+3. Dividing the same mass by a smaller volume gives higher density.
+
+**Closest distractor.** C. Matching mass alone cannot establish matching density.
+
+<a id="s3-q11-solution"></a>
+### S3-Q11 solution
+
+**Answer A.** Zero
+
+1. Check the temperatures at contact. They are equal.
+2. Without a difference in temperature there is no net heat transfer.
+
+**Closest distractor.** B. The initial temperature difference has disappeared.
+
+<a id="s3-q12-solution"></a>
+### S3-Q12 solution
+
+**Answer A.** Too low because the measured volume includes the bubble
+
+1. The bubble raises the water reading along with the bead.
+2. This inflates the calculated volume while the measured bead mass stays the same.
+3. Dividing by too large a volume makes the calculated density too low.
+
+**Closest distractor.** E. Increasing the denominator lowers the quotient.
+
+<a id="s3-q13-solution"></a>
+### S3-Q13 solution
+
+**Answer C.** 5 °C
+
+1. Start at −6 °C and add 6 degrees to reach zero.
+2. Use the remaining 5 of the 11 degrees gained to reach 5 °C.
+
+**Closest distractor.** D. Adding the magnitudes ignores the below-zero start.
+
+<a id="s3-q14-solution"></a>
+### S3-Q14 solution
+
+**Answer A.** A liquid of density 0.9 g/cm³
+
+1. A submerged block sinks if its density exceeds the liquid's density in this situation.
+2. Look for the liquid whose density is lower than the block's.
+
+**Closest distractor.** C. With equal densities the block can stay suspended.
+
+<a id="s3-q15-solution"></a>
+### S3-Q15 solution
+
+**Answer A.** 2 mL
+
+1. Calculate the solid volume: 60 ÷ 2.5 = 24 cm³.
+2. Add 24 mL to the initial 28 mL to predict 52 mL.
+3. The predicted reading is 2 mL above the limit. Remove exactly 2 mL first to end at 50 mL.
+
+**Closest distractor.** E. 24 mL is the entire solid volume. The cylinder already has 22 mL of headroom.
+
+<a id="s3-q16-solution"></a>
+### S3-Q16 solution
+
+**Answer B.** 1.5 g/mL
+
+1. Subtract the empty container's mass to find 105 g of liquid.
+2. Divide by its volume, 70 mL, to get 1.5 g/mL.
+
+**Closest distractor.** E. The full bottle mass includes the container.
+
+<a id="s3-q17-solution"></a>
+### S3-Q17 solution
+
+**Answer A.** Into the thermometer, then out of it
+
+1. Initially the thermometer at 8 °C is cooler than the 32 °C water and gains heat.
+2. In the next contact the thermometer is at 32 °C and the water is at 18 °C.
+3. Heat now transfers from the thermometer to the water.
+
+**Closest distractor.** B. The thermometer enters the last cup at 32 °C, even though the first cup was colder than 18 °C.
+
+<a id="s3-q18-solution"></a>
+### S3-Q18 solution
+
+**Answer B.** 2–4 min
+
+1. Subtract each later reading from its preceding reading.
+2. The successive drops are 6, 12, 8, 5 and 3 °C.
+3. The second drop is largest, at 12 °C.
+
+**Closest distractor.** C. The highest starting temperature does not guarantee the largest measured drop.
+
+<a id="s3-q19-solution"></a>
+### S3-Q19 solution
+
+**Answer D.** 45 cm³
+
+1. The metal mass is 4 × 9 = 36 g.
+2. The wood has that same mass and a density of 0.8 g/cm³.
+3. Its volume is 36 ÷ 0.8 = 45 cm³.
+
+**Closest distractor.** A. Multiplying the wooden density by the metal volume compares equal volumes, not equal masses.
+
+<a id="s3-q20-solution"></a>
+### S3-Q20 solution
+
+**Answer C.** 12 cm³
+
+1. The vessel began full, leaving no spare room.
+2. Each cubic centimetre of submerged chain pushes out the same volume of water.
+3. Use the overflow to find the chain's submerged volume.
+
+**Closest distractor.** D. The capacity includes the water that remained behind.
+
+<a id="s3-q21-solution"></a>
+### S3-Q21 solution
+
+**Answer D.** B's starting temperature
+
+1. Subtract B's starting temperature from its final 34 °C.
+2. Compare this change with the 8 °C rise for A.
+3. The higher final temperature alone cannot tell which rise was larger.
+
+**Closest distractor.** C. Volume alone gives no starting temperature.
+
+<a id="s3-q22-solution"></a>
+### S3-Q22 solution
+
+**Answer C.** 1.8 g/cm³
+
+1. A third of the uniform sample has one third of the mass and one third of the volume.
+2. In mass divided by volume, the factors of one third cancel.
+3. The density is unchanged.
+
+**Closest distractor.** B. Dividing only density by three treats volume as unchanged.
+
+<a id="s3-q23-solution"></a>
+### S3-Q23 solution
+
+**Answer A.** The spoon is at 29 °C and the plate is at 26 °C.
+
+1. Find the first reading when the plate is strictly cooler than the spoon.
+2. Net heat then flows from the warmer spoon to the cooler plate.
+3. Equal temperatures give no net transfer.
+
+**Closest distractor.** D. Equal readings mean zero net transfer, not a reversal.
+
+<a id="s3-q24-solution"></a>
+### S3-Q24 solution
+
+**Answer E.** Energy is going into the change of state.
+
+1. The substance still receives energy during the flat portion.
+2. While it melts, that energy changes its state while the temperature stays steady.
+
+**Closest distractor.** C. A level temperature reading does not imply zero energy input.
+
+<a id="s3-q25-solution"></a>
+### S3-Q25 solution
+
+**Answer B.** 18 g
+
+1. Find the target total mass: 25 × 1.2 = 30 g.
+2. The empty object contributes 12 g.
+3. Add the difference, 18 g.
+
+**Closest distractor.** D. 30 g is the loaded capsule's total mass.
+
+<a id="s3-q26-solution"></a>
+### S3-Q26 solution
+
+**Answer D.** 36 mL
+
+1. Three extra marbles raise the reading by 15 mL.
+2. One marble accounts for 5 mL.
+3. Subtract that from the 41 mL reading to recover 36 mL of original water.
+
+**Closest distractor.** B. Subtracting all 15 mL from 41 removes three marbles when only one is present.
+
+<a id="s3-q27-solution"></a>
+### S3-Q27 solution
+
+**Answer E.** The promise failed at the 9 °C check.
+
+1. Apply the limit to each reading individually.
+2. The 9 °C reading exceeds the limit.
+3. A lower average cannot erase that violation.
+
+**Closest distractor.** C. Ending below the limit cannot erase an earlier exceedance.
+
+<a id="s3-q28-solution"></a>
+### S3-Q28 solution
+
+**Answer E.** 15 mL
+
+1. The water level must be restored after the solid is removed.
+2. The added liquid fills the 15 cm³ the object used to occupy.
+3. That is 15 mL.
+
+**Closest distractor.** B. 85 mL describes the water originally sharing the volume under the line.
+
+<a id="s3-q29-solution"></a>
+### S3-Q29 solution
+
+**Answer B.** It rises because its overall density is 0.85 g/cm³.
+
+1. Use total mass and volume: 85 g ÷ 100 cm³ = 0.85 g/cm³.
+2. Compare this overall density to the liquid's.
+3. The float is less dense, so it floats.
+
+**Closest distractor.** A. A simple average weights unequal-volume compartments equally.
+
+<a id="s3-q30-solution"></a>
+### S3-Q30 solution
+
+**Answer D.** The exact temperature at minute 4 cannot be determined.
+
+1. The endpoints give just the total change.
+2. Several paths with different rates can join those two readings.
+3. The rate within the interval cannot be determined without more measurements.
+
+**Closest distractor.** E. The midpoint value 22 °C assumes a steady rate that was never stated.

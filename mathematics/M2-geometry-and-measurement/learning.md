@@ -70,20 +70,7 @@ This example is original practice. It does not count toward the 30 drills.
 
 > A rectangular fish tank has the inside measurements shown. It holds water to a depth of 5 cm.
 >
-> ```
->                                   inside     water
->                                   height     depth
->      +------------------------+    ---
->      |                        |     ^
->      |        (empty)         |     |
->      |                        |     | 12 cm
->      |~~~~~~~~~~~~~~~~~~~~~~~~|     |         ---
->      |         water          |     |          ^ 5 cm
->      |                        |     v          v
->      +------------------------+    ---        ---
->         inside length 10 cm
->         inside width 8 cm (into the page)
-> ```
+> ![Tank with inside base 10 cm by 8 cm, inside height 12 cm and water depth 5 cm](../../assets/M2/learn-tank.svg)
 >
 > How much more water, in mL, can be added before the tank is full?
 >

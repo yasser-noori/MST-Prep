@@ -225,6 +225,8 @@ E. Q only is forced ON.
 
 A shuttle must follow these one-way links, one link per move. Hub leads to North or South. North leads directly to Hall. South leads to Park, which leads to Hall. What is the fewest moves from Hub to Hall?
 
+![Directed shuttle links: Hub to North to Hall, and Hub to South to Park to Hall](../../assets/M5/q13-shuttle.svg)
+
 A. 2
 
 B. 1
@@ -527,6 +529,8 @@ E. 7
 
 ## Answer key
 
+[Go to the full solutions](#full-solutions)
+
 | ID | Answer | Tier | Reasoning | Closest distractor ruled out by |
 |---|---|---|---|---|
 | M5-Q01 | D | Medium | One ON input meets the moon rule. The star needs two ON inputs. | B. One ON input falls short of the star's requirement. |
@@ -559,3 +563,339 @@ E. 7
 | M5-Q28 | D | Medium | The exposed ends after the three moves are 2, then 6, then 1. Only 1–3 contains 1. | A. The 6 on the last tile was used to make the join. |
 | M5-Q29 | C | Challenge | Gold leaves J and K, which differ on the drop test. Blue and pink identify L and M at once. Neither single test always separates all four. | E. A gold result on its own fits two fabrics. |
 | M5-Q30 | E | Medium | The first SKIP ignores the second SKIP. Both remaining READ cards count, giving 4 + 2 + 1. | A. A total of 5 would execute the skipped SKIP and lose the 2. |
+
+## Full solutions
+
+Solve and mark each question before opening its solution. For a guess or miss, try the steps again on paper before comparing.
+
+<a id="m5-q01-solution"></a>
+### M5-Q01 solution
+
+**Answer D.** Moon only
+
+1. Count the ON inputs: there is exactly one.
+2. Test each output separately. One ON turns on the moon, and the star requires two ON inputs.
+3. The resulting output is moon only.
+
+**Closest distractor.** B. One ON input falls short of the star's requirement.
+
+<a id="m5-q02-solution"></a>
+### M5-Q02 solution
+
+**Answer B.** Ali, Jo, Paz, Ren
+
+1. Reserve fourth place for Ren.
+2. Jo and Paz must form the consecutive Jo–Paz pair. Ali has to come before Jo.
+3. Place Ali first and the pair second and third to satisfy both clues.
+
+**Closest distractor.** A. Keeping Jo and Paz together still leaves the requirement that Ali goes before Jo.
+
+<a id="m5-q03-solution"></a>
+### M5-Q03 solution
+
+**Answer A.** Row 3
+
+1. The dot stays dark only when Y and Z match. That keeps rows 3 and 4.
+2. Among those two, check whether X differs from Y to light the dash.
+3. Only row 3 meets this second condition.
+
+**Closest distractor.** E. Here Y and Z differ, so the dot would also light.
+
+<a id="m5-q04-solution"></a>
+### M5-Q04 solution
+
+**Answer A.** 10:00
+
+1. A booking needs two free consecutive half-hour slots.
+2. Starting at 10:00 uses 10:00 and 10:30, both free.
+3. Check the next slot before accepting any later start.
+
+**Closest distractor.** D. A 10:30 start would also require the 11:00 slot.
+
+<a id="m5-q05-solution"></a>
+### M5-Q05 solution
+
+**Answer B.** Its number is a multiple of 3.
+
+1. The even locker numbers from 1 through 6 are 2, 4 and 6. Greater than 2 leaves 4 and 6.
+2. Test the additional multiple-of-3 clue on each.
+3. Only 6 is a multiple of 3, so this one additional clue identifies a unique locker.
+
+**Closest distractor.** C. Both remaining numbers are multiples of 2.
+
+<a id="m5-q06-solution"></a>
+### M5-Q06 solution
+
+**Answer D.** P precedes T.
+
+1. Follow an ordering chain from P through R to T. This forces P before T.
+2. The chain via S forces the same result.
+3. Items outside these chains can move, so their relative positions are not fixed by this reasoning.
+
+**Closest distractor.** A. U can open the program, as in U, P, S, R, T.
+
+<a id="m5-q07-solution"></a>
+### M5-Q07 solution
+
+**Answer C.** Elm
+
+1. Look for a directed link that ends at Tower.
+2. Elm is the only station with a link entering it.
+3. Regardless of earlier stops, the final step must be Elm → Tower.
+
+**Closest distractor.** D. The Oak branch takes you through Elm before Tower.
+
+<a id="m5-q08-solution"></a>
+### M5-Q08 solution
+
+**Answer B.** 5
+
+1. List the values of the ON tiles: 4 and 1.
+2. Add only those contributions to get 4 + 1 = 5.
+3. The OFF tiles contribute zero.
+
+**Closest distractor.** C. Adding the OFF tiles would give 8 + 2.
+
+<a id="m5-q09-solution"></a>
+### M5-Q09 solution
+
+**Answer C.** 4 and 1
+
+1. Place Bea in 4 and Val in 5, keeping their required order.
+2. Try Noor in 1 and Ivo in 2. Kai occupies the middle place 3.
+3. Check each condition against the completed line-up to see that Bea can take place 4.
+
+**Closest distractor.** A. Bea in 2 would put Val in Kai's chair.
+
+![Chairs 1 through 5 hold Noor, Ivo, Kai, Bea and Val](../../assets/M5/sol09-chairs.svg)
+
+<a id="m5-q10-solution"></a>
+### M5-Q10 solution
+
+**Answer B.** Monday and Tuesday
+
+1. Start with a day on which the first class is offered. Monday is available.
+2. The very next day is Tuesday, which offers the second class.
+3. Check both the order of the classes and the one-day gap.
+
+**Closest distractor.** D. Two sessions on Thursday would be on the same day.
+
+<a id="m5-q11-solution"></a>
+### M5-Q11 solution
+
+**Answer D.** Lin has completed orientation.
+
+1. Read the two conditions separately: being a volunteer and having a blue badge.
+2. Lin satisfies the volunteer condition and the badge condition.
+3. Apply the rule to Lin because both conditions hold.
+
+**Closest distractor.** A. The clue gives a requirement for blue-badged volunteers. It leaves other badge colours open to people who completed orientation.
+
+<a id="m5-q12-solution"></a>
+### M5-Q12 solution
+
+**Answer B.** R only is forced ON.
+
+1. Eliminate setting 1 because it lights the ring and setting 4 because it lights the bar.
+2. Compare the assignments in surviving settings 2 and 3.
+3. R is ON in both, so that switch state is forced.
+
+**Closest distractor.** E. Q is OFF in setting 3, which gives the observed display.
+
+<a id="m5-q13-solution"></a>
+### M5-Q13 solution
+
+**Answer A.** 2
+
+1. There is no direct link from Hub to Hall, so one step is impossible.
+2. Find an intermediate point that Hub can reach and that connects onward to Hall: North.
+3. Hub → North → Hall uses two links and meets the lower bound.
+
+**Closest distractor.** E. The South route works but takes three moves.
+
+<a id="m5-q14-solution"></a>
+### M5-Q14 solution
+
+**Answer E.** Tray watered, humidity missing
+
+1. The rule applies whenever watering happens.
+2. Inspect the record for the watered entry and check its humidity field.
+3. The missing humidity violates the requirement because the triggering event occurred.
+
+**Closest distractor.** D. A reading is allowed even when a tray stays dry.
+
+<a id="m5-q15-solution"></a>
+### M5-Q15 solution
+
+**Answer B.** Is the parcel in Drama or Gym?
+
+1. Split the four possibilities into the two pairs: Art or Band, and Drama or Gym.
+2. A yes to Drama-or-Gym excludes Art and Band.
+3. A no excludes Drama and Gym, leaving Art or Band. Either reply answers the original question.
+
+**Closest distractor.** A. After a no to Art, Band, Drama and Gym would all remain possible.
+
+<a id="m5-q16-solution"></a>
+### M5-Q16 solution
+
+**Answer E.** Dance
+
+1. Assign Film to 2, its required slot.
+2. Place Dance in 1 and Choir in 3.
+3. Check the resulting order Dance → Film → Choir against the remaining clues.
+
+**Closest distractor.** A. Putting Film in 1 contradicts its only available slot.
+
+<a id="m5-q17-solution"></a>
+### M5-Q17 solution
+
+**Answer D.** 5
+
+1. Pair each of the three shapes with each of the two borders: 3 × 2 = 6 possibilities.
+2. Remove the one forbidden pair, the dotted star.
+3. There are 6 − 1 = 5 allowed pairs.
+
+**Closest distractor.** A. Counting all six shape–border pairs includes the forbidden badge.
+
+<a id="m5-q18-solution"></a>
+### M5-Q18 solution
+
+**Answer C.** Oats alone
+
+1. Claims 1 and 3 are opposites, so exactly one of them is true wherever the note is.
+2. The total must be exactly one true claim, so claim 2 must be false.
+3. The location that makes claim 2 false is Oats.
+
+**Closest distractor.** E. Rice would make both claims 2 and 3 true.
+
+<a id="m5-q19-solution"></a>
+### M5-Q19 solution
+
+**Answer E.** Trial 3
+
+1. In each trial compare the two switches for equality.
+2. Trials 1 and 2 have different states, so they fail.
+3. Trial 3 has OFF and OFF, meeting the same-state rule.
+
+**Closest distractor.** A. Trial 4 also flashes, but there was already a match in trial 3.
+
+<a id="m5-q20-solution"></a>
+### M5-Q20 solution
+
+**Answer A.** Dune beats Birch.
+
+1. Record Ash's wins: each of the other three has already lost to Ash.
+2. Birch and Cedar already have their required wins.
+3. Dune still needs its win and must get it in the remaining Birch–Dune game.
+
+**Closest distractor.** B. A Birch win over Dune would give Birch two wins.
+
+<a id="m5-q21-solution"></a>
+### M5-Q21 solution
+
+**Answer E.** R71
+
+1. Read the first and final characters of R71. They are R and 1.
+2. Compare them separately with the two permitted conditions.
+3. Neither condition holds, so this is the code that fails both tests.
+
+**Closest distractor.** D. P17 passes both conditions, which the folder explicitly permits.
+
+<a id="m5-q22-solution"></a>
+### M5-Q22 solution
+
+**Answer C.** d
+
+1. List X's edge neighbours: a, b and d.
+2. Eliminate b because it is in the rightmost column. Eliminate a because it shares a column with Y.
+3. Only d remains.
+
+**Closest distractor.** B. Cell a touches X but shares the left column with Y.
+
+<a id="m5-q23-solution"></a>
+### M5-Q23 solution
+
+**Answer C.** Bin 3
+
+1. Compare 3 kg with the strict cutoff: 3 kg is equal to the cutoff.
+2. The branch for weight above 3 kg does not apply.
+3. Follow the remaining rule to bin 3.
+
+**Closest distractor.** A. Bin 2 requires a weight above 3 kg.
+
+<a id="m5-q24-solution"></a>
+### M5-Q24 solution
+
+**Answer D.** 3
+
+1. Compare adjacent flag states one pair at a time.
+2. The changes occur from 1 to 2, 3 to 4, and 4 to 5.
+3. Count those transitions to get three flips.
+
+**Closest distractor.** A. There are four comparisons, but one has identical settings.
+
+<a id="m5-q25-solution"></a>
+### M5-Q25 solution
+
+**Answer A.** The sum of its digits is 7.
+
+1. Find the allowed pair of digits with sum 7: 4 + 3 = 7.
+2. The larger digit has to go first, so 4 is the tens digit.
+3. Read the result as 43.
+
+**Closest distractor.** E. A sum of 5 leaves both 41 and 32.
+
+<a id="m5-q26-solution"></a>
+### M5-Q26 solution
+
+**Answer A.** 13
+
+1. Add the two group counts to get 16 memberships.
+2. The three objects in the overlap each contribute twice to that sum.
+3. Subtract one duplicate membership per shared object: 16 − 3 = 13 distinct objects.
+
+**Closest distractor.** E. Simply adding the two group sizes counts the overlap twice.
+
+<a id="m5-q27-solution"></a>
+### M5-Q27 solution
+
+**Answer E.** 3
+
+1. Both adjacent pairs must sit inside the black region. The allowed pairs are 2–3 and 3–4.
+2. Reaching both ends, 2 and 4, requires using both of those pairs.
+3. The common position is 3.
+
+**Closest distractor.** A. Repeating a pair that contains 2 would leave square 4 white.
+
+<a id="m5-q28-solution"></a>
+### M5-Q28 solution
+
+**Answer D.** 1–3
+
+1. Follow the stated operations in order, updating which end is exposed after each move.
+2. The new end is 2 after the first move, 6 after the second, and 1 after the third.
+3. Only the range 1–3 includes the final 1.
+
+**Closest distractor.** A. The 6 on the last tile was used to make the join.
+
+<a id="m5-q29-solution"></a>
+### M5-Q29 solution
+
+**Answer C.** Use the lamp first. If gold, use the drop test. At most two tests are needed.
+
+1. Use the colour result first. Blue singles out L, and pink singles out M.
+2. Gold leaves J or K, so use the drop test where those two have different results.
+3. This separates all four. Colour alone leaves J and K tied.
+
+**Closest distractor.** E. A gold result on its own fits two fabrics.
+
+<a id="m5-q30-solution"></a>
+### M5-Q30 solution
+
+**Answer E.** 7
+
+1. Execute the first SKIP, passing over the second SKIP without executing it.
+2. Both remaining READ cards still run.
+3. The first READ has already added 4. Add 2 and 1 to finish at 7.
+
+**Closest distractor.** A. A total of 5 would execute the skipped SKIP and lose the 2.

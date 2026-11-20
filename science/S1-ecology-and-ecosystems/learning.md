@@ -71,11 +71,7 @@ All questions here are original practice. They are not copies of real test quest
 
 **Question.** In a coastal kelp forest, the only feeding relationships are shown below. Arrows point from the organism eaten to the eater.
 
-```mermaid
-graph LR
-    Kelp[Kelp] --> Urchin[Sea urchin]
-    Urchin --> Otter[Sea otter]
-```
+![Food-to-eater arrows from kelp to sea urchin to sea otter](../../assets/S1/learn-kelp-chain.svg)
 
 Hunters remove most of the sea otters. What is the most likely effect on the kelp?
 

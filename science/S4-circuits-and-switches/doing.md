@@ -22,9 +22,7 @@ The marks `(+)` and `(-)` are the two terminals of one battery. Lines are wires 
 
 Switch P is closed and Q is open. Which change alone would light the lamp?
 
-```text
-(+)--[P]--(Lamp)--[Q]--(-)
-```
+![A series path from positive terminal through closed P, the lamp and open Q to the negative terminal](../../assets/S4/q01-series-break.svg)
 
 A. Close Q
 
@@ -644,6 +642,8 @@ E. Pins 2 and 3
 
 ## Answer key
 
+[Go to the full solutions](#full-solutions)
+
 | ID | Answer | Tier | Reasoning | Clue that rules out the closest distractor |
 |---|---|---|---|---|
 | S4-Q01 | A | Medium | Closing Q completes the only path through the lamp. | Exchanging the switches moves the break but leaves it in the path. |
@@ -676,3 +676,339 @@ E. Pins 2 and 3
 | S4-Q28 | A | Medium | Only the branch containing R avoids the crease entirely. | The break after Q prevents it lighting just as a break before P prevents P lighting. |
 | S4-Q29 | D | Challenge | One selector on each track leaves no path. Moving the second to lower joins both ends of the lower track. | Choice B swaps which selector uses each track, so its second snapshot still leaves a break. |
 | S4-Q30 | A | Medium | The two dark tests eliminate two of the three possible connections. Only the 1–3 pair remains. | Darkness on both tests involving pin 2 shows it is the isolated pin. |
+
+## Full solutions
+
+Solve and mark each question before opening its solution. For a guess or miss, try the steps again on paper before comparing.
+
+<a id="s4-q01-solution"></a>
+### S4-Q01 solution
+
+**Answer A.** Close Q
+
+1. Trace the only route through the lamp between the battery terminals.
+2. It stops at Q.
+3. Closing Q restores a complete route.
+
+**Closest distractor.** Exchanging the switches moves the break but leaves it in the path.
+
+<a id="s4-q02-solution"></a>
+### S4-Q02 solution
+
+**Answer E.** Only M stays lit
+
+1. Trace M's route independently from L's.
+2. M still connects both terminals along its own branch.
+3. The break confined to L leaves M's loop complete.
+
+**Closest distractor.** A break in L would darken M only if they shared the broken path.
+
+<a id="s4-q03-solution"></a>
+### S4-Q03 solution
+
+**Answer D.** T
+
+1. Lit B confirms that U and the shared R and S all conduct.
+2. A also uses the shared switches, so their states cannot explain its darkness.
+3. The only remaining break on A's path is T.
+
+**Closest distractor.** An open R would interrupt B too.
+
+<a id="s4-q04-solution"></a>
+### S4-Q04 solution
+
+**Answer B.** One bare copper strip touches both contacts
+
+1. Trace from one contact through the object to the other.
+2. Both connections and the entire path between them must conduct.
+3. Touching just one contact leaves a gap.
+
+**Closest distractor.** The plastic in the two-strip chain interrupts the route.
+
+<a id="s4-q05-solution"></a>
+### S4-Q05 solution
+
+**Answer B.** M is closed and at least one of X and Y is open
+
+1. Lit red confirms M is closed.
+2. Trace white's own route through its two switches.
+3. At least one must be open, and either alone would break the route.
+
+**Closest distractor.** Both X and Y open also fits, so exactly one open is too strong.
+
+<a id="s4-q06-solution"></a>
+### S4-Q06 solution
+
+**Answer A.** C
+
+1. Trace each branch back to the battery.
+2. All possible returns use C.
+3. Opening C breaks every loop.
+
+**Closest distractor.** Opening A only interrupts L.
+
+<a id="s4-q07-solution"></a>
+### S4-Q07 solution
+
+**Answer C.** Keep X in gap 1 and put the original metal in gap 2
+
+1. Bridge the other gap with known conducting metal.
+2. Now the route has only one unknown connection, X.
+3. Whether the lamp lights can then test X rather than two samples at once.
+
+**Closest distractor.** Replacing X while keeping Y tests Y.
+
+<a id="s4-q08-solution"></a>
+### S4-Q08 solution
+
+**Answer B.** Q and R
+
+1. Trace the lower route through Q and R.
+2. They are both closed, so the lower route is complete.
+3. The incomplete upper route does not disconnect the lower route.
+
+**Closest distractor.** Q and R share one path, so Q cannot light alone here.
+
+<a id="s4-q09-solution"></a>
+### S4-Q09 solution
+
+**Answer E.** W only
+
+1. Locate W on the common wire shared by the two branches.
+2. Both closed loops would need that same connection.
+3. Opening W breaks them both.
+
+**Closest distractor.** A switch at U leaves West connected.
+
+<a id="s4-q10-solution"></a>
+### S4-Q10 solution
+
+**Answer C.** P closed, Q closed
+
+1. Trace through Q and lamp L to find a complete route.
+2. Opening P interrupts the route through P only.
+3. Q's route still conducts through L.
+
+**Closest distractor.** With Q open, opening P breaks the last route.
+
+<a id="s4-q11-solution"></a>
+### S4-Q11 solution
+
+**Answer C.** L and M
+
+1. Follow the D route through L and then M.
+2. There is no split between the two lamps along that route.
+3. Components one after the other on the same route are in series.
+
+**Closest distractor.** There is no route through M that skips L.
+
+<a id="s4-q12-solution"></a>
+### S4-Q12 solution
+
+**Answer D.** Either 1 or 2
+
+1. Locate positions 1 and 2 on the branch used by P and Q.
+2. Breaking either location cuts that shared path.
+3. R bypasses both places on its own branch.
+
+**Closest distractor.** A break after Q at 2 interrupts current through P as well.
+
+<a id="s4-q13-solution"></a>
+### S4-Q13 solution
+
+**Answer A.** Light because the wire bridges P
+
+1. Q already conducts.
+2. The added wire bridges the gap across P.
+3. Trace the loop through the bridge and Q to confirm it is complete.
+
+**Closest distractor.** An open switch can be bypassed by a conducting wire across its contacts.
+
+<a id="s4-q14-solution"></a>
+### S4-Q14 solution
+
+**Answer D.** Hall goes dark because its path passes through the empty socket
+
+1. Trace the only path supplying Hall.
+2. The empty socket leaves a gap in that path.
+3. There is no bypass around it.
+
+**Closest distractor.** Giving each lamp a switch does not give it a separate branch.
+
+<a id="s4-q15-solution"></a>
+### S4-Q15 solution
+
+**Answer C.** X and Z only
+
+1. Blue lights, so its own X and shared Z both conduct.
+2. Since Z also serves amber, the shared part works.
+3. Amber's dark route therefore identifies Y as insulating.
+
+**Closest distractor.** Z alone cannot complete the blue branch.
+
+<a id="s4-q16-solution"></a>
+### S4-Q16 solution
+
+**Answer D.** J and K
+
+1. Locate J and K on the same unbranched segment.
+2. A complete route through the segment requires passage through both.
+3. Their order along it does not change their effect on the loop.
+
+**Closest distractor.** L and M have separate routes even though they connect to the same junctions.
+
+<a id="s4-q17-solution"></a>
+### S4-Q17 solution
+
+**Answer C.** Rewire D and F side by side between the same two junctions, feeding the lamp
+
+1. Put the switches on two separate routes between the same split and join.
+2. Either closed switch then supplies a path through the lamp.
+3. With both open there is no such route.
+
+**Closest distractor.** Exchanging two switches in series still requires both to close.
+
+<a id="s4-q18-solution"></a>
+### S4-Q18 solution
+
+**Answer E.** Two
+
+1. Trace branches A and B independently from terminal to terminal.
+2. Both routes are complete.
+3. The break in C belongs only to C, so it leaves the other routes working.
+
+**Closest distractor.** One open switch does not interrupt the other two branches.
+
+<a id="s4-q19-solution"></a>
+### S4-Q19 solution
+
+**Answer E.** B was open and C was closed
+
+1. The lamp after the change proves the shared C conducts.
+2. If B had been closed before, B and C would already have completed the loop.
+3. Beforehand L was dark, so B had to be open.
+
+**Closest distractor.** A closed B would have provided the earlier route even with A open.
+
+<a id="s4-q20-solution"></a>
+### S4-Q20 solution
+
+**Answer E.** The lamp lights through the continuous copper
+
+1. Start at one bare end of the copper wire.
+2. Follow the uninterrupted copper core to the other bare end.
+3. The insulating coating does not interrupt the core between these contacts.
+
+**Closest distractor.** The sleeve surrounds the middle of the conductor without interrupting it.
+
+<a id="s4-q21-solution"></a>
+### S4-Q21 solution
+
+**Answer B.** C is closed and at least one of A and B is closed
+
+1. Every route passes through C, so C must close.
+2. At the split there are two possible paths.
+3. One or both must close to finish the loop through C.
+
+**Closest distractor.** A alone can bridge the split, so B is optional.
+
+<a id="s4-q22-solution"></a>
+### S4-Q22 solution
+
+**Answer C.** Both lights come on
+
+1. Both branch routes stop at the same gap on the return.
+2. Closing that gap makes the common path conduct.
+3. Each branch then has a complete loop through the battery.
+
+**Closest distractor.** The drawing gives neither branch priority.
+
+<a id="s4-q23-solution"></a>
+### S4-Q23 solution
+
+**Answer E.** 0 or 3
+
+1. Opening A or C cuts the common path and leaves zero bulbs lit.
+2. Closing B instead finishes the missing path and keeps the working paths intact.
+3. That produces three lit bulbs.
+
+**Closest distractor.** Opening A removes both bulbs on its branch together.
+
+<a id="s4-q24-solution"></a>
+### S4-Q24 solution
+
+**Answer D.** Both clips grip the bare shaft of the same metal key
+
+1. Both clips contact the same continuous metal shaft.
+2. Follow the shaft from one clip to the other.
+3. This conducting path bridges the gap.
+
+**Closest distractor.** One contact on rubber leaves a break even when the other touches metal.
+
+<a id="s4-q25-solution"></a>
+### S4-Q25 solution
+
+**Answer A.** B is open
+
+1. The two bulbs share a single loop.
+2. An open B breaks that loop.
+3. With no alternative path, both bulbs go out.
+
+**Closest distractor.** A closed B would leave an uninterrupted path.
+
+<a id="s4-q26-solution"></a>
+### S4-Q26 solution
+
+**Answer B.** Two
+
+1. Check each row for S and T both conducting at the same time.
+2. The simultaneous states occur at seconds 3 and 6.
+3. One closed switch by itself is insufficient.
+
+**Closest distractor.** Counting all four contact seconds includes seconds when T is open.
+
+![S closes at seconds 2, 3, 6 and 8. T closes from 3 to 7. Both close at 3 and 6](../../assets/S4/sol26-contact-timing.svg)
+
+<a id="s4-q27-solution"></a>
+### S4-Q27 solution
+
+**Answer B.** Clip (+) only to U and record which lamp flashes
+
+1. Select only U to isolate its route.
+2. Trace the wire all the way to its far end.
+3. It ends at Map on the diagram, so Map is predicted if the labels are correct.
+
+**Closest distractor.** Both lamps light when both wires are selected, even if the labels were exchanged.
+
+<a id="s4-q28-solution"></a>
+### S4-Q28 solution
+
+**Answer A.** R only
+
+1. A branch is broken if it crosses the crease.
+2. Trace the routes through the drawing to compare their crossings.
+3. Only R's route avoids the crease throughout.
+
+**Closest distractor.** The break after Q prevents it lighting just as a break before P prevents P lighting.
+
+<a id="s4-q29-solution"></a>
+### S4-Q29 solution
+
+**Answer D.** Lower/upper, then lower/lower
+
+1. One selector is on each track, so neither track is linked at both ends.
+2. Move the second selector to the lower track.
+3. The selectors now join both ends of that track.
+
+**Closest distractor.** Choice B swaps which selector uses each track, so its second snapshot still leaves a break.
+
+<a id="s4-q30-solution"></a>
+### S4-Q30 solution
+
+**Answer A.** Pins 1 and 3
+
+1. List the three possible pairs: 1–2, 1–3 and 2–3.
+2. Each of the two dark tests rules out the pair it tests.
+3. Both eliminations leave 1–3.
+
+**Closest distractor.** Darkness on both tests involving pin 2 shows it is the isolated pin.

@@ -89,6 +89,8 @@ As you zoom in, distinguish where a structure sits from what it is made of.
 >       - Highlighted stretch "K1" — carries the instructions for a protein that affects fur colour
 >       - Highlighted stretch "K2" — carries the instructions for a protein that affects claw length
 >
+> ![Chromosome 3 inside a nucleus, enlarged to show segments K1 for fur colour and K2 for claw length](../../assets/S2/learn-gene-segments.svg)
+>
 > Which statement about these structures is correct?
 >
 > A. K1 and K2 are chromosomes, and each one contains many genes.

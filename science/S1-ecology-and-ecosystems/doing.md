@@ -23,6 +23,8 @@ All questions are original practice. They are not copies of real test questions.
 
 In a field, mice eat seeds, snakes eat mice, and hawks eat snakes. Which statement correctly describes the snake?
 
+![Food-to-eater arrows from seeds to mouse to snake to hawk](../../assets/S1/q01-field-chain.svg)
+
 A. It is prey of the mouse.
 
 B. It is a predator of the hawk.
@@ -637,6 +639,8 @@ E. The dead wood
 
 ## Answer key
 
+[Go to the full solutions](#full-solutions)
+
 | ID | Answer | Tier | Reasoning | Closest distractor ruled out by |
 |---|---|---|---|---|
 | S1-Q01 | C | Medium | Snakes eat mice (predator of the mouse) and hawks eat snakes (prey of the hawk). | E: seeds are eaten by mice, not snakes, and the snake does not eat the hawk. |
@@ -669,3 +673,333 @@ E. The dead wood
 | S1-Q28 | E | Medium | Fertilizer adds nutrients; growth jumped only once nutrients arrived. | A: the stem says the lake was already well lit. |
 | S1-Q29 | C | Challenge | Lizards were steady (50–52) until toads arrived; then toads rose, beetles fell, and lizards fell. | D: lizards were stable in Years 1–3 and fell only after toads arrived. A: toads do not eat lizards. |
 | S1-Q30 | B | Medium | Fungi break down dead wood, so they are the decomposer; springtails eat the fungi. | D: centipedes eat mites and springtails, not fungi. |
+
+## Full solutions
+
+Solve and mark each question before opening its solution. For a guess or miss, try the steps again on paper before comparing.
+
+<a id="s1-q01-solution"></a>
+### S1-Q01 solution
+
+**Answer C.** It is a predator of the mouse and prey of the hawk.
+
+1. Follow the arrow from mouse to snake: the snake eats the mouse.
+2. Follow the arrow from snake to hawk: the hawk eats the snake.
+3. The same snake is a predator relative to the mouse and prey relative to the hawk.
+
+**Closest distractor.** E: seeds are eaten by mice, not snakes, and the snake does not eat the hawk.
+
+<a id="s1-q02-solution"></a>
+### S1-Q02 solution
+
+**Answer E.** Dragonfly
+
+1. Look for a candidate with two outgoing arrows to its predators. The dragonfly has links to frog and bat.
+2. Now count its incoming links from animal prey. The only one is fly → dragonfly.
+3. The two counts are two predators and one animal prey species.
+
+**Closest distractor.** A: the fly is eaten by two predators but eats nectar, not an animal. Spider has one predator; frog eats two kinds of animal.
+
+<a id="s1-q03-solution"></a>
+### S1-Q03 solution
+
+**Answer A.** Grass → Cricket → Shrew → Owl
+
+1. Start with grass, the food source in the chain.
+2. Build links from food to eater: grass → cricket → shrew → owl.
+3. Read the chain left to right to check that each organism is eaten by the next one.
+
+**Closest distractor.** B lists the right order with every arrow reversed (pointing to the food, not the eater).
+
+<a id="s1-q04-solution"></a>
+### S1-Q04 solution
+
+**Answer D.** Herring eat krill, so energy passes from krill to herring.
+
+1. Find the krill-to-herring arrow.
+2. Its tail is the food and its head is the eater.
+3. It says herring eat krill and receive energy from them.
+
+**Closest distractor.** A reads the arrow backwards.
+
+<a id="s1-q05-solution"></a>
+### S1-Q05 solution
+
+**Answer B.** The difference could be caused by light, by water, or by both; this comparison cannot tell which, because two resources were changed.
+
+1. Compare the two groups. Both light and water differed.
+2. Either factor could account for some or all of the difference.
+3. A test of light alone would keep water the same across groups.
+
+**Closest distractor.** A: shade is a likely cause, but P also got less water, so light alone cannot be concluded. D: pots and seed numbers were identical.
+
+<a id="s1-q06-solution"></a>
+### S1-Q06 solution
+
+**Answer D.** Grasshoppers decrease, because rabbits increase and eat more of the grass that grasshoppers also need.
+
+1. Removing foxes reduces predation on rabbits, so rabbits can increase.
+2. More rabbits can eat more of the shared grass.
+3. That leaves less food for grasshoppers, an effect that travels indirectly through grass.
+
+**Closest distractor.** B: no arrow joins foxes and grasshoppers, but the effect travels indirectly through rabbits and the shared grass. A: foxes never ate grasshoppers.
+
+![Fewer foxes let rabbits increase, leaving less grass and less food for grasshoppers](../../assets/S1/sol06-shared-grass.svg)
+
+<a id="s1-q07-solution"></a>
+### S1-Q07 solution
+
+**Answer B.** Decomposers
+
+1. The mushrooms act on dead material.
+2. They break it down and return nutrients to the surroundings.
+3. This combination identifies a decomposer.
+
+**Closest distractor.** A: mushrooms do not make their own food from sunlight in this description.
+
+<a id="s1-q08-solution"></a>
+### S1-Q08 solution
+
+**Answer E.** Ducks and carp
+
+1. Find a resource used by both species: the aquatic plants.
+2. The plants are scarce, so more use by one population leaves less for the other.
+3. That is competition for food.
+
+**Closest distractor.** A: herons eat carp; that is predator and prey, not competition.
+
+<a id="s1-q09-solution"></a>
+### S1-Q09 solution
+
+**Answer A.** Lynx rose to their highest number in Year 4 while hares dropped; then, with fewer hares to eat, lynx dropped in Year 5.
+
+1. Compare the lynx counts across the years to locate the peak: 14 in Year 4.
+2. The hares had already gone from 80 to 50 at that point.
+3. The following year the lynx count drops to 9, after the hare decline began.
+
+**Closest distractor.** C: lynx rose from Year 3 to Year 4 while hares were already falling, so lynx did not drop first.
+
+<a id="s1-q10-solution"></a>
+### S1-Q10 solution
+
+**Answer C.** Shelter
+
+1. Identify what the site provides: protection from weather and predators.
+2. Match that function to the habitat need called shelter.
+
+**Closest distractor.** A and B: food and water come from the river, not the barn.
+
+<a id="s1-q11-solution"></a>
+### S1-Q11 solution
+
+**Answer E.** Tadpole
+
+1. Find the arrow entering the dragonfly larva.
+2. Trace it backwards to its source, the tadpole.
+3. Since food points to eater, the larva eats tadpoles.
+
+**Closest distractor.** B: algae energy reaches the larva only through the tadpole (an indirect source).
+
+<a id="s1-q12-solution"></a>
+### S1-Q12 solution
+
+**Answer A.** Space
+
+1. Identify what both mussels and barnacles need to settle: an exposed rock surface.
+2. When mussels cover the rock they leave less surface available for barnacles.
+3. The limiting resource is space.
+
+**Closest distractor.** C: the stem says food is plentiful, so it is not the limiting resource.
+
+<a id="s1-q13-solution"></a>
+### S1-Q13 solution
+
+**Answer C.** Snake
+
+1. Find both arrows leaving mice: one goes to owls and one goes to snakes.
+2. Both predators lose a food source when mice disappear.
+3. Only the snake loses its sole food source. Owls also lose mice directly, but they have other prey in the web.
+
+**Closest distractor.** A: the owl loses mice directly but still has sparrows and snakes.
+
+<a id="s1-q14-solution"></a>
+### S1-Q14 solution
+
+**Answer B.** Fox
+
+1. Classify the fox's foods: berries are plant material, while voles are animals.
+2. An organism eating both plant and animal foods is an omnivore.
+3. The berries alone are insufficient to classify the fox as a herbivore.
+
+**Closest distractor.** C: the deer eats only grass, so it is a herbivore and fits the claim.
+
+<a id="s1-q15-solution"></a>
+### S1-Q15 solution
+
+**Answer D.** Week 3 to Week 4
+
+1. Compare differences between consecutive weeks rather than finding the lowest reading.
+2. Week 3 to 4 loses 300 − 180 = 120, while week 4 to 5 loses 180 − 90 = 90.
+3. The larger drop is the 120 in week 3 to 4.
+
+**Closest distractor.** C: Week 4→5 is a fall of only 90, though the count there is lowest.
+
+<a id="s1-q16-solution"></a>
+### S1-Q16 solution
+
+**Answer B.** Snail
+
+1. Locate the snail in the web.
+2. Follow its food-to-eater arrows to thrushes and ground beetles.
+3. These are the two predators that eat snails.
+
+**Closest distractor.** E/C: the ground beetle has no predator; the thrush has only the hawk.
+
+<a id="s1-q17-solution"></a>
+### S1-Q17 solution
+
+**Answer D.** Algae → Water flea → Minnow → Perch → Pike
+
+1. Write the forced middle links: water flea → minnow → perch.
+2. Add algae before the flea and pike after perch.
+3. Read the second position in this chain: water flea.
+
+**Closest distractor.** C: it puts perch before minnow, but the perch eats the minnow.
+
+<a id="s1-q18-solution"></a>
+### S1-Q18 solution
+
+**Answer C.** Light
+
+1. Compare the shady area with the sunny clearing. The same soil supports fern growth in the clearing.
+2. The soil under the trees is still moist and rich, so the study gives stronger evidence for a light difference.
+3. The trees block light that the ferns would otherwise receive.
+
+**Closest distractor.** A/B: the stem says water and nutrients are already good.
+
+<a id="s1-q19-solution"></a>
+### S1-Q19 solution
+
+**Answer E.** Phytoplankton and shark
+
+1. List the organisms one arrow away from the removed small fish: zooplankton, tuna and seabird.
+2. Follow the next links to phytoplankton via zooplankton and to shark via tuna.
+3. One link gives a direct effect; a longer path gives an indirect effect.
+
+**Closest distractor.** C/D each contain one directly affected organism (zooplankton / seabird).
+
+<a id="s1-q20-solution"></a>
+### S1-Q20 solution
+
+**Answer A.** The reed marsh where it lives and finds its food, water, and shelter
+
+1. A habitat is the place where an organism lives and meets its needs.
+2. The named place is the reed marsh, which is the habitat.
+
+**Closest distractor.** D describes the wren's feeding role, not the place it lives.
+
+<a id="s1-q21-solution"></a>
+### S1-Q21 solution
+
+**Answer A.** Both populations are smaller when kept together, which fits competition for leaves, and the grey beetles are affected more.
+
+1. Compare red beetles in the mixed tank with red beetles alone: 200 − 120 = 80 fewer.
+2. Compare grey beetles the same way: 180 − 40 = 140 fewer.
+3. With matched starting counts, the reductions are consistent with both species competing for the available leaves.
+
+**Closest distractor.** B: the stem says neither beetle eats the other. D: red beetles also finished below their single-species count.
+
+<a id="s1-q22-solution"></a>
+### S1-Q22 solution
+
+**Answer E.** Water, light, space
+
+1. Check each member of the proposed group. Water, light and space are all non-living resources or conditions.
+2. A group containing an organism would include a living factor, so this is the abiotic set.
+
+**Closest distractor.** D: shelter can be non-living, but mice are living.
+
+<a id="s1-q23-solution"></a>
+### S1-Q23 solution
+
+**Answer B.** Every arrow points the wrong way; it should be Leaf → Insect → Frog → Snake → Hawk.
+
+1. Check each pair in the stated feeding chain. The organism order follows who eats whom.
+2. Each drawn arrow points from eater to food. Reverse the arrows to show energy passing from food to eater.
+
+**Closest distractor.** A: the order (leaf, insect, frog, snake, hawk) is already correct; only the direction is wrong.
+
+<a id="s1-q24-solution"></a>
+### S1-Q24 solution
+
+**Answer C.** Vex
+
+1. Follow arrows from zarks and glims to vexes to identify the two foods.
+2. Check outgoing arrows from vexes and find none to a predator.
+3. Vexes meet both conditions in the displayed web.
+
+**Closest distractor.** D: zarks are eaten by vexes and eat only one kind of animal.
+
+<a id="s1-q25-solution"></a>
+### S1-Q25 solution
+
+**Answer D.** Losing hiding places could have made young perch easier for the same number of pike to catch.
+
+1. Plants provide cover for young perch. Clearing the plants can expose perch to hunting pike.
+2. A steady pike count is compatible with each pike catching more perch.
+3. The pattern supports this explanation, but the observations alone cannot establish it as the cause.
+
+**Closest distractor.** C: the plants matter as shelter, an indirect link, even though perch do not eat them. A: the pike count stayed near 40.
+
+<a id="s1-q26-solution"></a>
+### S1-Q26 solution
+
+**Answer D.** Bacteria
+
+1. Ask which organisms make their own food. The bacteria use energy from chemicals to do so.
+2. Place the bacteria at the producer step even though sunlight is absent.
+
+**Closest distractor.** E: chemicals are an energy source, not an organism. A: tubeworms get food from bacteria, so they are consumers.
+
+<a id="s1-q27-solution"></a>
+### S1-Q27 solution
+
+**Answer A.** Test zooplankton. A positive result identifies zooplankton as the starting population, and a negative result identifies small fish.
+
+1. Move the marker one arrow at a time toward eaters. Starting with small fish or with zooplankton can both reach the fish populations without moving backward to phytoplankton.
+2. A zooplankton sample differs between the two starts: it is marked only when the marker started there.
+3. Testing zooplankton therefore separates the explanations.
+
+**Closest distractor.** C: small fish test positive in both surviving cases, either from the original dose or from eating marked zooplankton.
+
+<a id="s1-q28-solution"></a>
+### S1-Q28 solution
+
+**Answer E.** Nutrients
+
+1. Compare the observations before and after adding fertilizer. The increase occurred once fertilizer supplied nutrients.
+2. This response supports nutrients as the resource that had been limiting growth.
+
+**Closest distractor.** A: the stem says the lake was already well lit.
+
+<a id="s1-q29-solution"></a>
+### S1-Q29 solution
+
+**Answer C.** Toads and lizards compete for beetles; as the toads increased, the beetles fell and the lizards had less food.
+
+1. Establish the baseline: lizards stayed around 50–52 before the toads arrived.
+2. After arrival, toads increased while beetles and lizards decreased.
+3. That pattern is consistent with competition for beetles; it does not by itself prove a cause.
+
+**Closest distractor.** D: lizards were stable in Years 1–3 and fell only after toads arrived. A: toads do not eat lizards.
+
+<a id="s1-q30-solution"></a>
+### S1-Q30 solution
+
+**Answer B.** Springtail
+
+1. The fungi break down dead wood, meeting the decomposer role.
+2. Springtails feed on the fungi, so they are consumers in this link.
+3. The same fungi can be decomposers and a food source.
+
+**Closest distractor.** D: centipedes eat mites and springtails, not fungi.

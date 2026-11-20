@@ -49,6 +49,8 @@ E. It rises because its density is 0.27 g/cm³.
 
 **Answer B.** The counter occupies 66 − 42 = 24 mL, or 24 cm³. Its density is 18 ÷ 24 = 0.75 g/cm³, below the density of water. Choice E predicts the motion correctly but divides by all 66 mL, including the original water.
 
+![Cylinder reading of 42 mL before and 66 mL with the counter fully submerged](../../assets/S3/learn-counter.svg)
+
 ## 4. Practise
 
 [Open the S3 practice questions](doing.md). Mark each attempt before checking the answer key.

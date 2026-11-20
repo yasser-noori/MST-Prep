@@ -13,12 +13,7 @@ Work on paper. Mark each attempt correct, guessed, wrong or skipped before check
 
 A level, weightless beam has equally spaced marks and a pivot at mark 0. A 4 N load hangs at L3.
 
-```text
-4 N
-v
-L3------L2------L1------0-------R1------R2------R3------R4
-                        ^ pivot
-```
+![Beam with pivot at 0 and one 4 N load at L3](../../assets/S5/q01-beam.svg)
 
 Where should a 6 N load hang to balance it?
 
@@ -613,6 +608,8 @@ E. Down the page at L
 
 ## Answer key
 
+[Go to the full solutions](#full-solutions)
+
 | ID | Answer | Tier | Reasoning | Closest distractor ruled out by |
 |---|---|---|---|---|
 | S5-Q01 | D | Medium | The left turn is 4 × 3 = 12. A 6 N load needs two marks on the opposite side. | B. Equal distances would give the heavier right load the larger turn. |
@@ -645,3 +642,337 @@ E. Down the page at L
 | S5-Q28 | D | Medium | The distance is 24 N·cm ÷ 6 N = 4 cm. Divide centimetres by 100 to get metres. | E. Four centimetres is four hundredths of a metre. |
 | S5-Q29 | B | Challenge | Vertical balance gives 25 N for the loaded tray. Subtract the apple’s 7 N to get the weight of the tray alone. | E. The two cords together support both the tray and the apple. |
 | S5-Q30 | B | Medium | The right-side upward push turns the sign counterclockwise. Pushing upward on the left turns it clockwise with the same arm length. | E. Pushing down at L helps push R upward. |
+
+## Full solutions
+
+Solve and mark each question before opening its solution. For a guess or miss, try the steps again on paper before comparing.
+
+<a id="s5-q01-solution"></a>
+### S5-Q01 solution
+
+**Answer D.** R2
+
+1. The left turn is 4 × 3 = 12 N-marks.
+2. The opposite 6 N load must match it, so place it 12 ÷ 6 = 2 marks away.
+
+**Closest distractor.** B. Equal distances would give the heavier right load the larger turn.
+
+![4 N at L3 and 6 N at R2 each produce an opposite turn of 12 N-marks](../../assets/S5/sol01-balanced-beam.svg)
+
+<a id="s5-q02-solution"></a>
+### S5-Q02 solution
+
+**Answer C.** Axle, soil, handles
+
+1. Find the fixed axis around which the frame turns: the wheel's axle.
+2. The gardener applies an upward force at the handles.
+3. Together this gives the pivot and direction of effort.
+
+**Closest distractor.** B. The gardener supplies effort at the handles.
+
+<a id="s5-q03-solution"></a>
+### S5-Q03 solution
+
+**Answer C.** Add a 2 N load at L1.
+
+1. Compare 10 N-marks left with 12 right.
+2. The left side needs exactly 2 N-marks more.
+3. Find the option whose left-side force times distance supplies that amount.
+
+**Closest distractor.** B. Adding on the right enlarges the existing right-side advantage.
+
+<a id="s5-q04-solution"></a>
+### S5-Q04 solution
+
+**Answer C.** 3 N left
+
+1. The 8 N leftward pull opposes the 5 N rightward pull.
+2. Subtract the smaller magnitude from the larger: 8 − 5 = 3 N.
+3. The net direction is left.
+
+**Closest distractor.** A. The larger pull points left.
+
+<a id="s5-q05-solution"></a>
+### S5-Q05 solution
+
+**Answer B.** Halfway between L1 and L2
+
+1. One of two identical right loads remains, halving the right turn.
+2. The left force remains the same, so halve its lever arm.
+3. Half of 3 marks is 1.5 marks.
+
+**Closest distractor.** A. One full mark is less than half the original three-mark distance.
+
+<a id="s5-q06-solution"></a>
+### S5-Q06 solution
+
+**Answer D.** 6 N
+
+1. Add the left turns to find 12 N-marks.
+2. On the right this must be 2 marks times the unknown force.
+3. Divide 12 by 2 to get 6 N.
+
+**Closest distractor.** E. Multiplying 4 by the right distance does not match the turns.
+
+<a id="s5-q07-solution"></a>
+### S5-Q07 solution
+
+**Answer B.** It moves east and slows down.
+
+1. The puck continues moving east at that instant.
+2. The net force is 4 N west and produces westward acceleration.
+3. This reduces the eastward speed.
+
+**Closest distractor.** D. A westward net force changes velocity gradually.
+
+<a id="s5-q08-solution"></a>
+### S5-Q08 solution
+
+**Answer E.** 12 cm from the nut
+
+1. Take the nut as the pivot.
+2. All compared pushes are perpendicular.
+3. The longest distance gives the greatest product of force and distance.
+
+**Closest distractor.** D. Bringing the effort closer reduces its turning effect.
+
+<a id="s5-q09-solution"></a>
+### S5-Q09 solution
+
+**Answer D.** Right end starts to drop.
+
+1. The stones have equal weight.
+2. The right stone hangs farther from the fixed pivot.
+3. With equal force and greater distance its turn is larger.
+
+**Closest distractor.** B. Identical weights produce equal turns only at equal distances.
+
+<a id="s5-q10-solution"></a>
+### S5-Q10 solution
+
+**Answer E.** 7 N
+
+1. Add left turns to get 14 N-marks.
+2. The old right load at R2 was 14 ÷ 2 = 7 N.
+3. At R1 the total must be 14 N, so add 7 N.
+
+**Closest distractor.** B. The original 7 N load still acts at R1.
+
+<a id="s5-q11-solution"></a>
+### S5-Q11 solution
+
+**Answer A.** The beam stays level.
+
+1. Measure both arms from mark 4: 3 marks left and 2 marks right.
+2. Multiply the loads by those distances. Each turn is 6 N-marks.
+3. Their opposite directions give balance.
+
+**Closest distractor.** D. The 3 N load is closer to the pivot.
+
+<a id="s5-q12-solution"></a>
+### S5-Q12 solution
+
+**Answer C.** 5 N left
+
+1. Sum the right forces to 9 N.
+2. There are already 4 N leftward.
+3. An additional 9 − 4 = 5 N to the left cancels the rightward total.
+
+**Closest distractor.** A. An extra rightward force would increase the existing net force.
+
+<a id="s5-q13-solution"></a>
+### S5-Q13 solution
+
+**Answer E.** The beam stays level.
+
+1. The original turns match.
+2. The third load acts at the pivot, where distance is zero.
+3. Its turn is weight × 0 = 0, independent of its unknown weight.
+
+**Closest distractor.** C. The added load acts directly at the pivot.
+
+<a id="s5-q14-solution"></a>
+### S5-Q14 solution
+
+**Answer E.** 5 N at 9 cm
+
+1. Find force times distance for each option.
+2. The 5 N force at 9 cm gives 45 N·cm.
+3. The other choices give 40 or 36 N·cm, so 45 is greatest.
+
+**Closest distractor.** C. The largest push gives 40 N·cm, less than 45 N·cm.
+
+<a id="s5-q15-solution"></a>
+### S5-Q15 solution
+
+**Answer B.** A 38 N upward pull from the scale
+
+1. The suitcase stays at rest, so the net vertical force is zero.
+2. Its weight pulls down and the scale supports it upward.
+3. The scale force equals the weight in magnitude.
+
+**Closest distractor.** C. That force acts on the scale.
+
+<a id="s5-q16-solution"></a>
+### S5-Q16 solution
+
+**Answer D.** 12 N-marks
+
+1. The two left loads turn in the same direction.
+2. The products are 2 × 4 = 8 and 2 × 2 = 4 N-marks.
+3. Add them for a combined 12 N-marks.
+
+**Closest distractor.** E. The load at L2 contributes another 4 N-marks.
+
+<a id="s5-q17-solution"></a>
+### S5-Q17 solution
+
+**Answer A.** The position of the hinge pin
+
+1. Watch the part of the lid that stays along the fixed turning axis.
+2. This axis runs through the hinge pin.
+3. Measure distances for the turning effect from there.
+
+**Closest distractor.** D. The hook locates the applied force.
+
+<a id="s5-q18-solution"></a>
+### S5-Q18 solution
+
+**Answer A.** Right drops because the right turn is now 8 and the left turn is 6.
+
+1. Use the new positions, L1 and R2.
+2. The turns are 6 × 1 = 6 and 4 × 2 = 8 N-marks.
+3. The right turn exceeds the left by 2.
+
+**Closest distractor.** E. The move removes 6 N-marks from the left and 4 from the right.
+
+<a id="s5-q19-solution"></a>
+### S5-Q19 solution
+
+**Answer C.** It continues downward at constant speed.
+
+1. The forces cancel so acceleration is zero.
+2. The object already has downward velocity.
+3. With no acceleration that velocity is constant.
+
+**Closest distractor.** D. Equal forces give zero change in velocity.
+
+<a id="s5-q20-solution"></a>
+### S5-Q20 solution
+
+**Answer D.** The right weight is twice the left weight.
+
+1. Equal turns give left weight × left distance = right weight × right distance.
+2. The left arm is twice the right arm, so right weight must be twice left weight.
+3. Doubling both weights preserves that ratio, so the individual values are not fixed.
+
+**Closest distractor.** B. The left weight already has twice the distance.
+
+<a id="s5-q21-solution"></a>
+### S5-Q21 solution
+
+**Answer E.** The contact between the bar and the small block
+
+1. Find the point where the bar stays supported as it rotates.
+2. This is the contact with the block.
+3. That support is the pivot.
+
+**Closest distractor.** C. The slab pushes back where the load acts.
+
+<a id="s5-q22-solution"></a>
+### S5-Q22 solution
+
+**Answer A.** 3 settings
+
+1. The left turn is 12 N-marks.
+2. The right turns at the listed distances are 3, 6, 9 and 12.
+3. Three are strictly smaller; the last one balances.
+
+**Closest distractor.** B. At R4 the turns match and neither end drops.
+
+<a id="s5-q23-solution"></a>
+### S5-Q23 solution
+
+**Answer A.** 10 N
+
+1. Constant velocity means zero acceleration and therefore zero net force.
+2. The eastward forces total 10 N.
+3. The cancelling force must be 10 N west.
+
+**Closest distractor.** D. The two eastward forces act together.
+
+<a id="s5-q24-solution"></a>
+### S5-Q24 solution
+
+**Answer B.** Only the perpendicular push has a turning effect.
+
+1. The sideways perpendicular push has a nonzero turning arm from the hinge.
+2. The inward push acts along a line through the hinge, making its perpendicular turning arm zero.
+3. Only the sideways push turns the gate in this comparison.
+
+**Closest distractor.** A. The line of the inward push goes straight through the pivot.
+
+<a id="s5-q25-solution"></a>
+### S5-Q25 solution
+
+**Answer C.** 2 N
+
+1. The left turn is 16 N-marks.
+2. A hook 4 marks away needs 16 ÷ 4 = 4 N in all.
+3. Each of the two identical bags contributes half, or 2 N.
+
+**Closest distractor.** A. The 4 N at the right hook is shared by two bags.
+
+<a id="s5-q26-solution"></a>
+### S5-Q26 solution
+
+**Answer A.** Mark 4
+
+1. At pivot mark 4 the distances are 4 marks and 2 marks.
+2. Multiply each load by its distance to get 8 N-marks on both sides.
+3. The opposite turns cancel at that location.
+
+**Closest distractor.** D. That placement gives the heavier sign a longer arm.
+
+<a id="s5-q27-solution"></a>
+### S5-Q27 solution
+
+**Answer E.** 12 N downward
+
+1. The shelf's upward contact force disappears once the object is unsupported.
+2. Gravity still acts at 12 N downward.
+3. That is the net force.
+
+**Closest distractor.** B. Once the shelf slides clear, it exerts no force on the parcel.
+
+<a id="s5-q28-solution"></a>
+### S5-Q28 solution
+
+**Answer D.** 0.04 m
+
+1. Distance = turning effect ÷ force, so 24 ÷ 6 = 4 cm.
+2. Divide by 100 to convert the length to 0.04 m.
+
+**Closest distractor.** E. Four centimetres is four hundredths of a metre.
+
+<a id="s5-q29-solution"></a>
+### S5-Q29 solution
+
+**Answer B.** 18 N
+
+1. The loaded tray is balanced vertically, so its total downward weight equals the 25 N support.
+2. Remove the apple's 7 N from the total.
+3. The tray alone weighs 18 N.
+
+**Closest distractor.** E. The two cords together support both the tray and the apple.
+
+<a id="s5-q30-solution"></a>
+### S5-Q30 solution
+
+**Answer B.** Up the page at L
+
+1. An upward push on the right turns the sign counterclockwise.
+2. An equal upward push the same distance to the left has the same magnitude and turns clockwise.
+3. That opposite turn cancels the first.
+
+**Closest distractor.** E. Pushing down at L helps push R upward.

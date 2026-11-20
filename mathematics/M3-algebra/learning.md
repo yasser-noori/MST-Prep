@@ -49,6 +49,8 @@ E. 130
 
 **Answer D.** Let `b` be the starting number. The clue is “left after giving,” so `b − 4 × 9 = 58`. Add the 36 bookmarks that left the library back to the 58 on hand to get 94. Choice B subtracts the 36 a second time. Check by handing out the bookmarks from your proposed starting pile. Only 94 leaves 58.
 
+![Bar for the 58 bookmarks left and the 36 given away, adding to 94 at the start](../../assets/M3/learn-bookmarks.svg)
+
 ## 4. Practise
 
 [Go to the M3 algebra drills](doing.md).
