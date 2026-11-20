@@ -713,7 +713,7 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Answer A.** 18
 
-1. The riders are 33 km apart, and together they close 11 km each hour.
+1. The walkers start 39 − 6 = 33 km apart. Walking toward each other, they close 4 + 7 = 11 km each hour.
 2. Divide to get a meeting time of 3 hours.
 3. Isha travels 4 × 3 = 12 km from marker 6 and reaches marker 18.
 
@@ -794,7 +794,7 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Answer C.** 4
 
-1. Equate the expressions and collect the variable terms on one side and the constants on the other.
+1. Write 5u − 3 = 2u + 9. Subtract 2u from both sides, then add 3 to both sides.
 2. The equality reduces to 3u = 12, giving u = 4.
 3. At u = 4, both original expressions evaluate to 17.
 
@@ -862,7 +862,7 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Answer A.** 0 through 8
 
-1. A mean of 9.5 across two marks requires a kept total of 19.
+1. Divide the final score of 38 by 2 to find that the two kept marks must total 19.
 2. The two known marks already total 19. A third mark at most 8 is a lowest mark and can be dropped, including a tie at 8.
 3. Any third mark above 8 replaces the 8 and pushes the kept total above 19.
 
