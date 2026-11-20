@@ -117,6 +117,8 @@ A student collects 60 seeds from one parent plant and **randomly** splits them i
 | 1 | Bright | 12 cm |
 | 2 | Dim | 7 cm |
 
+![Sixty seeds are randomly split. Under the same soil, water, and temperature, the 30 bright-light seedlings average 12 cm and the 30 dim-light seedlings average 7 cm after three weeks.](../../assets/S2/q07-seedling-groups.svg)
+
 What does this experiment best support?
 
 A. The Group 1 seedlings inherited genes for tallness that the Group 2 seedlings did not.
@@ -385,6 +387,8 @@ A student labels a sketch of an animal cell. Exactly **one** label describes the
 | Cell membrane | the thin outer boundary of the cell |
 | DNA | the material that the chromosomes are made of |
 
+![The student points Gene at all the chromosomes, Nucleus at the round enclosure, Chromosome at one thread, Cell membrane at the outer boundary, and DNA at an enlarged strand.](../../assets/S2/q22-student-labels.svg)
+
 Which label is wrong?
 
 A. Gene
@@ -511,6 +515,8 @@ A gardener cuts two pieces from one plant and grows each into a new plant. Plant
 | 1 | Cutting 1 from the original plant | Soil A | blue |
 | 2 | Cutting 2 from the original plant | Soil B | pink |
 | 3 | A cutting taken from the **blue** plant in Step 1 | Soil B | pink |
+
+![The original plant supplies two cuttings. In Soil A, the first flowers blue. In Soil B, the second and a cutting from the blue plant both flower pink.](../../assets/S2/q28-cutting-trials.svg)
 
 Which conclusion is best supported?
 
@@ -804,6 +810,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** D (red × white) gives only RW, so every offspring would be pink; E gives pink and white but never red.
 
+![Red offspring need R from each parent and white offspring need W from each parent. Each parent therefore has RW and is pink under the stated rule.](../../assets/S2/sol19-parent-copies.svg)
+
 <a id="s2-q20-solution"></a>
 ### S2-Q20 solution
 
@@ -870,6 +878,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** C would contradict Lea, but it would also contradict Omar's prediction that the instructions are unused.
 
+![The gene is present in both cells. The muscle cell uses its instructions. The predicted skin result shows the same gene with unused instructions.](../../assets/S2/sol25-gene-use.svg)
+
 <a id="s2-q26-solution"></a>
 ### S2-Q26 solution
 
@@ -891,6 +901,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 3. The total is 11.
 
 **Closest distractor.** C overlooks the five cells in the middle row. Those have the wall that identifies bean cells in these samples.
+
+![Six cells have walls and chloroplasts, five have walls only, and nine have neither structure. The two wall-bearing groups give 11 bean cells.](../../assets/S2/sol27-cell-counts.svg)
 
 <a id="s2-q28-solution"></a>
 ### S2-Q28 solution
@@ -924,3 +936,5 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 3. Its chance remains 1 in 2.
 
 **Closest distractor.** E treats equal chances as a guarantee that a short run must balance out.
+
+![Four spotted hatchlings are already recorded. The independent fifth hatchling still has a one-in-two chance each of being spotted or plain.](../../assets/S2/sol30-independent-hatchlings.svg)

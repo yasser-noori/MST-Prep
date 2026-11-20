@@ -35,6 +35,8 @@ As you zoom in, distinguish where a structure sits from what it is made of.
       - **DNA** — the chemical that stores the instructions
         - **Gene** — one short segment of the DNA that carries the instructions for one product (which affects a trait)
 
+![A cell contains a nucleus; the nucleus holds chromosomes; a gene is a short stretch of the DNA packaged in a chromosome.](../../assets/S2/learn-cell-hierarchy.svg)
+
 | | |
 |---|---|
 | **Clue to notice** | A labelled diagram, nested list, or description says "inside", "part of", "a section of", or "made of". |
@@ -50,6 +52,8 @@ As you zoom in, distinguish where a structure sits from what it is made of.
 | Cell wall | Yes | **No** | Rigid outer layer outside the membrane; support and shape |
 | Chloroplast | In photosynthetic cells, usually absent from underground roots | **No** | Uses light energy to make food (photosynthesis) |
 
+![Typical leaf, root, and cheek cells all have a membrane and nucleus. The two plant cells have walls, and the leaf cell has chloroplasts.](../../assets/S2/learn-cell-types.svg)
+
 | | |
 |---|---|
 | **Clue to notice** | A list of parts seen under a microscope, or a question about which part does a job. |
@@ -64,14 +68,18 @@ As you zoom in, distinguish where a structure sits from what it is made of.
 | | |
 |---|---|
 | **Clue to notice** | The trait came from an event, a habit, a lesson, or a condition during the organism's life. |
-| **Decision to make** | Would the offspring have this trait even if raised somewhere completely different? If yes, inherited; if it depended on what happened to the parent, acquired. |
+| **Decision to make** | Is there evidence that genes passed down from parents contribute to the trait, or that the trait developed from a condition or experience during life? The environment can influence how an inherited trait appears. |
 | **How to check** | Ask: did this change the parent's genes? A scar, a haircut, or a learned skill does not. |
 
 ### Pattern 4: Use only the rule the passage gives you, and only the evidence you were shown
 
 **Inheritance rules.** Questions supply the rule, for example: "Each plant has two copies of the colour gene and passes one copy, chosen at random, to each offspring. R is dominant: any plant with at least one R is red; only rr is white." To use it, list every possible pair of copies the offspring could receive. If one parent is Rr and the other is rr, the possible offspring are Rr, Rr, rr, rr: half red, half white. Working backward: a white (rr) offspring had to receive an r from **each** parent.
 
-**Evidence.** A difference between groups only points to inheritance if the groups' environments were the same. Differences between clones or identical twins can point to an environmental influence. Seedlings grown from different seeds may differ genetically. Random assignment makes inherited differences less likely to favour one treatment group systematically. Family members sharing a trait is not enough on its own, because families share homes, food, and habits too.
+![Rr and rr parents give Rr, rr, Rr, and rr when one copy comes from each parent. Two combinations are red and two are white.](../../assets/S2/learn-one-copy-grid.svg)
+
+**Evidence.** To test for an inherited difference, raise comparison groups under similar conditions so that the environment is less likely to explain the result. Differences between clones or identical twins can point to an environmental influence. Seedlings grown from different seeds may differ genetically. Random assignment makes inherited differences less likely to favour one treatment group systematically. Family members sharing a trait is not enough on its own, because families share homes, food, and habits too.
+
+![Given the same light, comparing more and less water tests the effect of water. When light and water both differ, the comparison mixes their effects.](../../assets/S2/learn-fair-comparison.svg)
 
 | | |
 |---|---|
