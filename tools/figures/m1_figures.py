@@ -302,8 +302,8 @@ def q26_stem():
     contact = cxa + ra
     f.circle(contact - 9, cy, 5, "#ffffff", INK, 2)
     f.circle(contact + 9, cy, 5, "#ffffff", INK, 2)
-    f.line(contact, cy - 30, contact, cy - 70, MUTED, 1.2)
-    f.text(contact, cy - 76, "chalk marks", 13, INK, "middle", "bold")
+    f.line(contact - 10, cy - 8, contact - 60, cy - 95, MUTED, 1.2)
+    f.text(contact - 64, cy - 101, "chalk marks", 13, INK, "end", "bold")
     f.text(cxa, cy + ra + 34, "Gear A: 12 teeth", 14, BLUE, "middle", "bold")
     f.text(cxb, cy + rb + 30 if cy + rb + 30 < 320 else 318, "Gear B: 18 teeth", 14, ORANGE, "middle", "bold")
     save(f, "q26-gears.svg")
@@ -342,7 +342,7 @@ def q28_stem():
 
 
 def q29_stem():
-    f = Fig(680, 190, "Chime recording", "A 0 to 60 minute timeline. The chime was heard at minutes 0, 36 and 60. "
+    f = Fig(680, 170, "Chime recording", "A 0 to 60 minute timeline. The chime was heard at minutes 0, 36 and 60. "
             "At minute 18 the recording is clear and there is no chime. Every other minute is unknown.")
     f.text(20, 30, "M1-Q29: what the recording shows", 17, weight="bold")
     x0, x1, y = 40, 640, 90
