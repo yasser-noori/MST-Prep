@@ -35,7 +35,7 @@ As you zoom in, distinguish where a structure sits from what it is made of.
       - **DNA** — the chemical that stores the instructions
         - **Gene** — one short segment of the DNA that carries the instructions for one product (which affects a trait)
 
-![A cell contains a nucleus; the nucleus holds chromosomes; a gene is a short stretch of the DNA packaged in a chromosome.](../../assets/S2/learn-cell-hierarchy.svg)
+![The nucleus inside a cell holds chromosomes. A gene is a short stretch of the DNA packaged in a chromosome.](../../assets/S2/learn-cell-hierarchy.svg)
 
 | | |
 |---|---|
