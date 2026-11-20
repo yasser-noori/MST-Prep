@@ -13,7 +13,7 @@ These original circuits practise a topic recognized in follow-up. The [learning 
 
 ### Diagram guide
 
-The marks `(+)` and `(-)` are the two terminals of one battery. Lines are wires and each `*` in a diagram is a connected junction. Bulbs appear in parentheses, switches in square brackets and test gaps in braces. A closed switch conducts and an open switch breaks its path. Use the switch states in each question. Assume a working battery, intact bulbs and ideal contacts unless a question describes a break. Consider only whether bulbs light. A labelled brace may also mark an intact wire segment when the question says so.
+The marks `(+)` and `(-)` are the two terminals of one battery. Lines are wires and each `*` in a diagram is a connected junction. Bulbs appear in parentheses, switches in square brackets and test gaps in braces. A closed switch conducts and an open switch breaks its path. Use the switch states in each question. Assume a working battery, intact bulbs and ideal contacts unless a question describes a break. Consider only whether bulbs light. A labelled brace may also mark an intact wire segment when the question says so. In the illustrated circuits, a filled dot marks a junction, an angled switch arm leaves a gap, and a dashed outline marks a labelled position on an intact wire.
 
 ## Questions 01–05
 
@@ -60,11 +60,7 @@ E. Only M stays lit
 
 Exactly one switch is open. Only bulb B is lit. Which switch is open?
 
-```text
-(+)--*--[T]--(A)--*--[R]--[S]--(-)
-     |            |
-     *--[U]--(B)--*
-```
+![T and bulb A form one branch, U and bulb B the other. R and S are shared on the return. B is lit.](../../assets/S4/q03-shared-return.svg)
 
 A. There is too little information
 
@@ -100,11 +96,7 @@ E. One copper piece on each contact, with air between the pieces
 
 The red bulb is lit and the white bulb is dark. All switches can move independently. Which claim is forced?
 
-```text
-(+)--[M]--*--(Red)--------------*--(-)
-          |                     |
-          *--[X]--[Y]--(White)--*
-```
+![M feeds the split. Red is lit on one branch. X and Y are on the branch with dark White.](../../assets/S4/q05-red-white.svg)
 
 A. M is open
 
@@ -144,9 +136,7 @@ E. B
 
 A tester contains two sample gaps in series. With metal in both gaps the bulb lights. With sample X in gap 1 and sample Y in gap 2, it goes dark. Which follow-up would test X alone?
 
-```text
-(+)--{1}--(Bulb)--{2}--(-)
-```
+![Gap 1, the bulb and gap 2 lie in that order between positive and negative.](../../assets/S4/q07-sample-gaps.svg)
 
 A. Repeat the same trial
 
@@ -184,11 +174,7 @@ E. P only
 
 The park wants the two lamps always to turn on and off together using a single switch. Both lamps must still have separate branches. U, V and W are intact wire segments. At which labelled position could workers insert the switch?
 
-```text
-(+)--{W}--*--{U}--(East)--*--(-)
-          |               |
-          *--{V}--(West)--*
-```
+![W marks intact wire before the split, U marks wire on the East branch, and V marks wire on the West branch.](../../assets/S4/q09-switch-positions.svg)
 
 A. V only
 
@@ -228,10 +214,7 @@ E. P closed, Q open
 
 Switch S connects to exactly one output, marked U or D. The two lines are separate after the selector. Which bulbs light when it connects to D?
 
-```text
-(+)--[selector S]  U--(K)-------*--(-)
-                   D--(L)--(M)--|
-```
+![Selector S takes the positive lead. U leads through K. D leads through L then M. Both routes rejoin before negative.](../../assets/S4/q11-selector-outputs.svg)
 
 A. M only
 
@@ -248,11 +231,7 @@ E. All three
 
 All bulbs are lit. The numbered braces mark intact wire segments. A wire breaks at one labelled position and now only R is lit. Which location matches?
 
-```text
-(+)--{3}--*--{1}--(P)--(Q)--{2}--*--{4}--(-)
-          |                      |
-          *--(R)-----------------*
-```
+![Position 3 is before the split and 4 is after the rejoin. Positions 1 and 2 bracket P and Q on the upper branch. R is on the lower branch.](../../assets/S4/q12-break-positions.svg)
 
 A. Only 2
 
@@ -307,11 +286,7 @@ E. Hall flashes continuously because the socket is empty
 
 The bulbs show blue lit and amber dark. Choose the complete list of conducting samples consistent with the display. Each gap holds either a conductor or an insulator.
 
-```text
-(+)--{Z}--*--{X}--(Blue)---*--(-)
-          |                |
-          *--{Y}--(Amber)--*
-```
+![Z is shared before the split. X is on the branch with lit Blue and Y is on the branch with dark Amber.](../../assets/S4/q15-three-samples.svg)
 
 A. X and Y only
 
@@ -479,12 +454,7 @@ E. The two lights take turns
 
 The switches start in the states given below. You flip exactly one switch. Which list gives all possible numbers of lit bulbs immediately afterward?
 
-```text
-(+)--[C]--*--[A]--(L)--(M)--*--(-)
-          |                 |
-          *--[B]--(N)-------*
-A closed    B open    C closed
-```
+![Closed C feeds both branches. The upper branch has closed A then L and M. The lower branch has open B then N.](../../assets/S4/q23-three-switches.svg)
 
 A. 1 or 3
 
@@ -560,12 +530,7 @@ E. Seven
 
 A worker can send a pulse down either wire of a two-wire cable by clipping (+) to its near end. The intended connections are U to Map and V to Desk, as shown. Each wire feeds one lamp. A lamp flashes only while its wire is selected. Both wires are intact. Which test reveals whether the far-end labels were exchanged?
 
-```text
-Near ends        Cable wires        Far ends (labels being tested)
-    U o-----------------------------o--(Map)---*--(-)
-    V o-----------------------------o--(Desk)--|
-(+) clips to U or V, or to both for a test.
-```
+![As labelled, near contact U goes to Map and V to Desk. The lamps share the negative return. The movable positive clip can connect to U, V or both.](../../assets/S4/q27-two-wire-cable.svg)
 
 A. Clip (+) to neither and count dark lamps
 
@@ -605,10 +570,7 @@ E. P and Q
 
 A railway model has a two-position selector at each end of two tracks. Each selector touches exactly one track, upper or lower. The battery feeds the left selector and the lamp returns through the right selector. The tracks never touch. Both selectors point upper and the lamp is lit. The control cabin records two later snapshots. In which pair of snapshots is the lamp dark at the first snapshot and lit at the second? Each setting lists the left selector first.
 
-```text
-(+)--[left]  upper o----------------o upper  [right]--(Lamp)--(-)
-             lower o----------------o lower
-```
+![Both selectors touch the upper track, joining positive through the lit lamp to negative. The lower track is separate.](../../assets/S4/q29-track-selectors.svg)
 
 A. Upper/upper, then upper/lower
 
@@ -713,6 +675,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 3. The only remaining break on A's path is T.
 
 **Closest distractor.** An open R would interrupt B too.
+
+![A blue route joins closed U and lit B to the shared closed switches R and S. The A branch contains open T.](../../assets/S4/sol03-trace-b.svg)
 
 <a id="s4-q04-solution"></a>
 ### S4-Q04 solution
@@ -846,6 +810,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** Z alone cannot complete the blue branch.
 
+![The complete highlighted route through lit Blue uses conducting samples X and Z. Y insulates on the dark Amber branch.](../../assets/S4/sol15-trace-blue.svg)
+
 <a id="s4-q16-solution"></a>
 ### S4-Q16 solution
 
@@ -889,6 +855,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 3. Beforehand L was dark, so B had to be open.
 
 **Closest distractor.** A closed B would have provided the earlier route even with A open.
+
+![A and B are both open before the change. After A closes, it makes a complete path through closed C and lit L, while B remains open.](../../assets/S4/sol19-before-after.svg)
 
 <a id="s4-q20-solution"></a>
 ### S4-Q20 solution
@@ -1001,6 +969,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 3. The selectors now join both ends of that track.
 
 **Closest distractor.** Choice B swaps which selector uses each track, so its second snapshot still leaves a break.
+
+![With lower and upper selected, neither track connects both ends. With lower and lower selected, the highlighted lower track completes the loop.](../../assets/S4/sol29-track-snapshots.svg)
 
 <a id="s4-q30-solution"></a>
 ### S4-Q30 solution
