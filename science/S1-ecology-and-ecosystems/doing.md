@@ -47,6 +47,8 @@ In a garden pond community:
 - Bats eat dragonflies.
 - Herons eat frogs.
 
+![Flies eat nectar. Spiders and dragonflies eat flies. Frogs eat spiders and dragonflies, bats eat dragonflies, and herons eat frogs.](../../assets/S1/q02-pond-web.svg)
+
 Which organism is eaten by **two** different predators **and** eats only **one** kind of animal?
 
 A. Fly
@@ -255,16 +257,7 @@ E. Soil nutrients
 
 The diagram shows every feeding relationship in a farmland community.
 
-```mermaid
-graph LR
-    Seeds[Seeds] --> Mouse[Mouse]
-    Seeds --> Sparrow[Sparrow]
-    Mouse --> Owl[Owl]
-    Mouse --> Snake[Snake]
-    Snake --> Owl
-    Sparrow --> Owl
-    Sparrow --> Weasel[Weasel]
-```
+![Mice and sparrows eat seeds. Owls and snakes eat mice. Owls also eat snakes and sparrows. Weasels eat sparrows.](../../assets/S1/q13-farmland-web.svg)
 
 A disease kills all the mice in this community. Which organism **directly** loses a food source **and** has no other food shown in the diagram?
 
@@ -392,14 +385,7 @@ E. Shelter
 
 The diagram shows every feeding relationship in part of an ocean.
 
-```mermaid
-graph LR
-    Phyto[Phytoplankton] --> Zoo[Zooplankton]
-    Zoo --> Sardine[Sardine]
-    Sardine --> Tuna[Tuna]
-    Sardine --> Bird[Seabird]
-    Tuna --> Shark[Shark]
-```
+![Zooplankton eat phytoplankton. Sardines eat zooplankton. Tuna and seabirds eat sardines, and sharks eat tuna.](../../assets/S1/q19-ocean-web.svg)
 
 Overfishing removes almost all the sardines. An organism is **directly** affected if it eats sardines or is eaten by sardines. Which pair lists **only** organisms that are affected **indirectly**?
 
@@ -501,6 +487,8 @@ On an imaginary planet, glims, zarks, and vexes are animals.
 - Zarks eat glims.
 - Vexes eat zarks and glims.
 
+![Glims eat floots, zarks eat glims, and vexes eat both glims and zarks.](../../assets/S1/q24-planet-web.svg)
+
 Which organism is not eaten by any other organism listed, but eats two different kinds of animals?
 
 A. Floot
@@ -556,12 +544,7 @@ E. The chemicals in the water
 
 The diagram shows every feeding relationship in a lake.
 
-```mermaid
-graph LR
-    Phyto[Phytoplankton] --> Zoo[Zooplankton]
-    Zoo --> Small[Small fish]
-    Small --> Large[Large fish]
-```
+![Feeding arrows point from phytoplankton to zooplankton to small fish to large fish.](../../assets/S1/q27-lake-chain.svg)
 
 Researchers mark exactly one of these four populations with a harmless dye. The dye spreads only when an animal eats marked food. It stays detectable, and each population has had time to eat its usual food. Tests show dye in small fish and large fish, and none in phytoplankton. Which further test would tell the researchers which population they marked first?
 
@@ -779,6 +762,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** C: lynx rose from Year 3 to Year 4 while hares were already falling, so lynx did not drop first.
 
+![Hares peak at 80 in Year 3. Lynx peak at 14 in Year 4 and fall to 9 in Year 5.](../../assets/S1/sol09-hare-lynx-trends.svg)
+
 <a id="s1-q10-solution"></a>
 ### S1-Q10 solution
 
@@ -843,6 +828,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 3. The larger drop is the 120 in week 3 to 4.
 
 **Closest distractor.** C: Week 4→5 is a fall of only 90, though the count there is lowest.
+
+![Changes between successive weeks are +60, +40, −120 and −90 aphids. The largest fall is the 120 lost from Week 3 to Week 4.](../../assets/S1/sol15-aphid-change.svg)
 
 <a id="s1-q16-solution"></a>
 ### S1-Q16 solution
@@ -909,6 +896,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** B: the stem says neither beetle eats the other. D: red beetles also finished below their single-species count.
 
+![Red beetles finish 80 lower when kept together, 200 down to 120. Grey beetles finish 140 lower, 180 down to 40.](../../assets/S1/sol21-beetle-competition.svg)
+
 <a id="s1-q22-solution"></a>
 ### S1-Q22 solution
 
@@ -972,6 +961,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 
 **Closest distractor.** C: small fish test positive in both surviving cases, either from the original dose or from eating marked zooplankton.
 
+![A positive zooplankton test means dye started there. A negative test indicates dye started in small fish. The other three test results match in both cases.](../../assets/S1/sol27-dye-test.svg)
+
 <a id="s1-q28-solution"></a>
 ### S1-Q28 solution
 
@@ -992,6 +983,8 @@ Solve and mark each question before opening its solution. For a guess or miss, t
 3. That pattern is consistent with competition for beetles; it does not by itself prove a cause.
 
 **Closest distractor.** D: lizards were stable in Years 1–3 and fell only after toads arrived. A: toads do not eat lizards.
+
+![Following toad arrival in Year 3, toad counts rose while lizard and beetle counts fell.](../../assets/S1/sol29-lizard-beetle-toad-counts.svg)
 
 <a id="s1-q30-solution"></a>
 ### S1-Q30 solution
