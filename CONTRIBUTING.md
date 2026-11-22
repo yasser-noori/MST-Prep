@@ -16,7 +16,7 @@ If you get stuck on something outside your files, label the issue `blocked` and 
 ## Project shape
 
 - `README.md` links to each grade.
-- `Grade 9/README.md` holds the Grade 9 index, evidence record, and study calendar.
+- `Grade 9/README.md` holds the Grade 9 index and study calendar.
 - `Grade 9/1. Math/` and `Grade 9/2. Science/` hold the topic folders. Each topic contains `1. Learning.md` and `2. Doing.md`.
 - `Grade 9/assets/<category-id>/` holds figures. `Grade 9/tools/figures/` holds their generators.
 - `.github/` contains issue and pull request templates.
@@ -29,21 +29,9 @@ A Grade 8 student preparing for Grade 9 entry. They open the README, find today'
 
 Students track first-attempt accuracy on fresh questions, guesses, and recurring mistakes. **Never claim a home practice score predicts an admissions percentile.**
 
-## Evidence levels
+## Practice design
 
-Keep these three levels distinct on every page and in every issue:
-
-1. **Original firsthand recollection** — what the student remembered unprompted.
-2. **Follow-up recognition** — topics the student recognized when suggested.
-3. **Extension / practice design** — material added for coverage and transfer.
-
-The evidence record for each category is already in its `1. Learning.md` section 1. Do not upgrade an extension to a recollection. Preserve item-level uncertainty: for example, the container-volume recollection and the later recognition of displacement may refer to different questions.
-
-Practice design facts:
-- All questions are original practice. Never present an item as a real test question.
-- Four or five choices was uncertain; the family tentatively recalls A–E. Use **exactly A–E** everywhere.
-- The one-hour format was reported by the family. Official layout, weighting, exact wording, diagrams, and question count are unconfirmed.
-- Equal math/science coverage is a study choice.
+Write original questions for any student preparing for Grade 9 entry. Use A–E choices throughout, with equal math and science coverage across the bank. The 60-minute session is a practice setting.
 
 ## The per-category contract
 
@@ -68,8 +56,8 @@ Tiers are separate from **question styles**. Across the 30 items, cover all four
 
 ## 1. Learning.md format
 
-1. **What the student remembers** — already scaffolded; keep it accurate.
-2. **Three or four core patterns.** For each: the clue to notice, the decision to make, and how to check it.
+1. **Key ideas.** Explain terms, symbols, and rules in plain language before the student needs them. Start with a familiar example.
+2. **Three or four core patterns.** Show what to look for, how to decide, and how to check the answer.
 3. **One worked A–E question** with the decisive step and an explanation of the most tempting wrong answer.
 4. **A direct link to `2. Doing.md`.**
 
@@ -80,6 +68,7 @@ Remove the scaffold-status note when the page is complete.
 - Stable visible IDs `M2-Q01` … `M2-Q30`, each preceded by an explicit lowercase anchor: `<a id="m2-q01"></a>`. Calendar links depend on these anchors.
 - Neutral headings: just the ID. Never a hint such as "Use LCM here."
 - Exactly five distinct choices labelled A–E, and exactly one defensible answer.
+- Use a short, familiar setup. Build difficulty through the reasoning and supply unfamiliar facts or rules in the stem.
 - All solutions go after the entire question set, in an answer key with: ID, correct letter, tier, short reasoning, and the clue that rules out the closest distractor.
 - Believable distractors derived from real mistakes. For a volume problem, choices might represent water present, empty capacity, and total capacity.
 - Vary answer positions; avoid any obvious letter pattern. Aim for each letter to be correct roughly 5–7 times out of 30.
@@ -176,15 +165,6 @@ From S3, showing the expected finished form:
 
 Directory: `Grade 9/1. Math/M1-number-theory/`
 
-**Original recollection:**
-- LCM and GCF appeared on the test. Exact wording unknown.
-
-**Follow-up recognition:**
-- None for this category.
-
-**Extension:**
-- Divisibility, remainders, and factor counting are added for transfer; they were not specifically recalled.
-
 **Teach:**
 - Find factors, multiples, and prime factorizations.
 - Use divisibility rules (2, 3, 4, 5, 6, 8, 9, 10, 11) to test numbers and recover missing digits.
@@ -213,17 +193,6 @@ Directory: `Grade 9/1. Math/M1-number-theory/`
 
 Directory: `Grade 9/1. Math/M2-geometry-and-measurement/`
 
-**Original recollection:**
-- Radius and circumference appeared.
-- A pictured cup or bottle involving water and a volume calculation appeared.
-- These are treated as separately recalled items; the circle question and the container question may not be the same question.
-
-**Follow-up recognition:**
-- Water displacement was recognized later. It may refer to a different question from the container-volume recollection, and displacement readings belong to S3.
-
-**Extension:**
-- Composite area/perimeter and scaling are added for transfer.
-
 **Teach:**
 - Read dimensions from a labelled diagram and identify which region is being measured.
 - Distinguish radius from diameter; use circumference and circle area with the stated value of π.
@@ -247,20 +216,11 @@ Directory: `Grade 9/1. Math/M2-geometry-and-measurement/`
 - Displacement measurements from cylinder readings belong to S3; M2 may pour known volumes into containers.
 - Diagrams must label inside dimensions when capacity is asked.
 
-**Diagram approach:** Use labelled ASCII sketches or tables that state every dimension and unit. Mark inside dimensions explicitly.
+**Diagram approach:** Use labelled drawings or tables that state every dimension and unit. Mark inside dimensions explicitly.
 
 ### M3 — Algebra
 
 Directory: `Grade 9/1. Math/M3-algebra/`
-
-**Original recollection:**
-- Algebra appeared. No specific equation or scenario was remembered.
-
-**Follow-up recognition:**
-- None for this category.
-
-**Extension:**
-- All specific scenarios are extensions chosen to cover common Grade 8 algebra.
 
 **Teach:**
 - Translate a situation into an expression or equation.
@@ -290,15 +250,6 @@ Directory: `Grade 9/1. Math/M3-algebra/`
 
 Directory: `Grade 9/1. Math/M4-patterns-and-sequences/`
 
-**Original recollection:**
-- Number patterns appeared, including less obvious patterns.
-
-**Follow-up recognition:**
-- None for this category.
-
-**Extension:**
-- Figure-growth (sticks, tiles) and cyclic patterns are added for transfer.
-
 **Teach:**
 - Find constant differences and write the nth term of an arithmetic sequence.
 - Spot ratios (geometric growth), second differences, and alternating or interleaved rules.
@@ -321,20 +272,11 @@ Directory: `Grade 9/1. Math/M4-patterns-and-sequences/`
 **Boundaries:**
 - Give enough terms or construction information that exactly one rule fits; avoid sequences with several defensible continuations.
 
-**Diagram approach:** Draw the first few figures (ASCII or Mermaid) and state the construction rule in words.
+**Diagram approach:** Draw the first few figures and state the construction rule in words.
 
 ### M5 — Logic and constraints
 
 Directory: `Grade 9/1. Math/M5-logic-and-constraints/`
-
-**Original recollection:**
-- A visual on/off problem asked which arrangement would make two bulbs light. The student described it as binary-style. Its mechanism is unknown.
-
-**Follow-up recognition:**
-- None for this category.
-
-**Extension:**
-- Ordering, route, scheduling, and statement puzzles are extensions. The bulb puzzle is one example in a broad reasoning category.
 
 **Teach:**
 - Trace supplied rules forward from inputs to outputs.
@@ -364,18 +306,6 @@ Directory: `Grade 9/1. Math/M5-logic-and-constraints/`
 
 Directory: `Grade 9/2. Science/S1-ecology-and-ecosystems/`
 
-**Original recollection:**
-- Identify predator and prey.
-- Order organisms in a food chain.
-- Identify ecological resources.
-- Apply biological terminology.
-
-**Follow-up recognition:**
-- None for this category.
-
-**Extension:**
-- Food webs, competition, and population data are extensions.
-
 **Teach:**
 - Identify roles relative to another organism: an animal can be predator to one and prey to another.
 - Read arrow direction in food chains as the direction energy flows.
@@ -403,17 +333,9 @@ Directory: `Grade 9/2. Science/S1-ecology-and-ecosystems/`
 
 Directory: `Grade 9/2. Science/S2-cells-dna-and-inheritance/`
 
-**Original recollection:**
-- A question involving DNA appeared.
-
-**Follow-up recognition:**
-- Cells and inherited traits were recognized in follow-up.
-
-**Extension:**
-- Evidence evaluation (environment versus inheritance) is an extension.
-
 **Teach:**
-- Order cell → nucleus → chromosome → DNA → gene and read labelled diagrams of each.
+- Use a labelled diagram to show where DNA is stored in a typical cell and how a gene is a stretch of DNA.
+- Introduce nucleic acids and the four DNA bases. Apply the A–T and C–G pairing rules.
 - Compare plant and animal cell structures (cell wall, chloroplast, membrane, nucleus).
 - Separate inherited traits from acquired traits.
 - Apply a simple inheritance rule that is supplied in the passage.
@@ -425,29 +347,19 @@ Directory: `Grade 9/2. Science/S2-cells-dna-and-inheritance/`
 - Inherited versus acquired traits.
 - Passage-supplied inheritance rules (dominant/recessive stated in the item).
 - Evidence and experiments: does the observation establish an inherited cause?
-- DNA terminology and function in context.
+- DNA terminology, base pairing, and function in context.
 
-**Model example:** Identify a highlighted segment of DNA in a labelled diagram. Apply a simple inheritance rule explicitly supplied in a passage. Decide whether seedlings raised under different light conditions establish an inherited cause for different heights.
+**Model example:** Use the stated A–T and C–G rules to fill in missing labels on a short DNA ladder. Compare plant and animal cells by identifying a labelled structure and explaining its job.
 
 **Boundaries:**
 - Any inheritance rule must be stated in the item; do not assume prior knowledge of Punnett squares.
-- No meiosis or molecular detail beyond the cell–nucleus–chromosome–DNA–gene relationship.
+- Keep DNA at the level of its role in cells, base names and pairing, and simple traits. Supply any vocabulary or additional rule that an item needs.
 
-**Diagram approach:** Use labelled tables or nested lists for the cell → nucleus → chromosome → DNA → gene hierarchy.
+**Diagram approach:** Use labelled cell drawings or a short DNA ladder when a visual helps the student locate a part or apply a rule.
 
 ### S3 — Matter, fluids, and temperature
 
 Directory: `Grade 9/2. Science/S3-matter-fluids-and-temperature/`
-
-**Original recollection:**
-- None for this category.
-
-**Follow-up recognition:**
-- Water displacement; mass, volume, and density; heat and temperature were recognized in follow-up.
-- Changes of state received a tentative "maybe" and is optional.
-
-**Extension:**
-- Floating/sinking comparisons and cooling-curve reading are extensions.
 
 **Teach:**
 - Find an object's volume by displacement from two readings.
@@ -477,15 +389,6 @@ Directory: `Grade 9/2. Science/S3-matter-fluids-and-temperature/`
 
 Directory: `Grade 9/2. Science/S4-circuits-and-switches/`
 
-**Original recollection:**
-- None for this category.
-
-**Follow-up recognition:**
-- Circuits and switches were recognized in follow-up. The original bulb diagram remains unknown (see the M5 recollection).
-
-**Extension:**
-- Series/parallel comparisons and conductor/insulator items are extensions.
-
 **Teach:**
 - Decide whether a closed path exists from one battery terminal to the other.
 - Read open and closed switches on a shared path and on separate branches.
@@ -508,20 +411,11 @@ Directory: `Grade 9/2. Science/S4-circuits-and-switches/`
 - S4 tests electrical connectivity. Abstract rule puzzles belong to M5.
 - Every circuit must be drawn so each connection and junction is unambiguous; verify every option by tracing.
 
-**Diagram approach:** Draw circuits as fenced ASCII schematics with a legend (switch open/closed, bulb, battery, junction). Mermaid is not reliable for circuits.
+**Diagram approach:** Draw circuits as labelled schematics with a legend for open and closed switches, bulbs, batteries, and junctions.
 
 ### S5 — Forces and balance
 
 Directory: `Grade 9/2. Science/S5-forces-and-balance/`
-
-**Original recollection:**
-- None for this category.
-
-**Follow-up recognition:**
-- Forces and balance were recognized in follow-up.
-
-**Extension:**
-- Levers in everyday tools and balanced/unbalanced force arrows are extensions.
 
 **Teach:**
 - Identify the pivot and the turning direction of each load.
@@ -542,7 +436,7 @@ Directory: `Grade 9/2. Science/S5-forces-and-balance/`
 **Model example:** A 4-unit weight sits three equal marks left of the pivot on a weightless level beam. Where should a 2-unit weight go on the right to balance it? Six marks from the pivot. Move the first weight one mark toward the pivot and ask which side drops with the second weight unchanged (right).
 
 **Boundaries:**
-- State assumptions in each item: weightless beam, equal spacing between marks, loads hung at marks.
+- State the beam assumptions clearly: ignore the beam’s own weight, use equally spaced marks, and hang loads at the marked positions. Put shared assumptions before the questions and state any exceptions in the individual item.
 
-**Diagram approach:** Draw beams as fenced ASCII with numbered marks and a clearly marked pivot.
+**Diagram approach:** Draw beams with numbered marks and a clearly labelled pivot.
 

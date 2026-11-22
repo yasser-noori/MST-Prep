@@ -4,14 +4,14 @@
 
 A two-week practice plan for the Grade 9 entrance test, covering mathematics and science equally.
 
-> **Ready to use.** The bank has **300 original practice questions** (150 math, 150 science; 180 Medium, 120 Challenge) and 10 worked examples. Each question was solved independently by a reviewer before the answer key was checked. All questions are original practice, not real test questions. If you think an answer is wrong, note the question ID (for example `M2-Q14`) and ask a parent to check it.
+The bank has **300 original practice questions** (150 math and 150 science) and 10 worked examples.
 
 ## Start here
 
 1. Find today's date in the [study calendar](#study-calendar-november-20december-6-2026).
 2. If the category is new to you, read its **Learning** page first.
 3. Open its **Doing** page and answer the listed questions on paper.
-4. Mark every attempt (see [How to mark an attempt](#how-to-mark-an-attempt)), then check the answer key.
+4. Follow [How to mark an attempt](#how-to-mark-an-attempt) when you check the answer key.
 
 ## Category index
 
@@ -30,31 +30,8 @@ A two-week practice plan for the Grade 9 entrance test, covering mathematics and
 
 Each category has exactly two pages:
 
-- **Learning** teaches the main patterns, starting from what you remember, and works through one example question.
+- **Learning** introduces the key ideas and works through an example question.
 - **Doing** has 30 five-choice (A–E) practice questions with the answer key at the bottom. Choose your answer before you open the key.
-
-## What we know about the test (evidence record)
-
-We keep three kinds of information separate so that practice is not mistaken for memory.
-
-### 1. What you remembered on your own
-
-- **Mathematics:** LCM, GCF, radius, circumference, a pictured cup or bottle involving water and a volume calculation, algebra, and number patterns.
-- **Reasoning:** a visual on/off problem asking which arrangement would make two bulbs light. You described it as "binary-style." How it actually worked is unknown.
-- **Science:** identifying predator and prey, ordering organisms in a food chain, identifying ecological resources, using biology terms, and a question involving DNA.
-
-### 2. What you recognized later when topics were suggested
-
-- Water displacement; heat and temperature; mass, volume, and density; circuits and switches; cells; inherited traits; forces and balance.
-- Changes of state: a tentative "maybe." It is optional in this plan.
-
-### 3. Choices we made for practice
-
-- Every question here is **original practice**, not a copy of a real test question.
-- You weren't sure whether there were four or five answer choices; the family tentatively recalls A–E. We use **exactly A–E** throughout.
-- The family reported a one-hour test. The official layout, weighting, wording, diagrams, and number of questions are **not confirmed**.
-- Equal math and science coverage is a study choice, not a known test split.
-- Some memories may refer to different questions. For example, the water-container volume question and the later recognition of displacement may not be the same item.
 
 ## Medium and Challenge questions
 
@@ -67,14 +44,14 @@ Each block of five questions has three Medium and two Challenge questions, mixed
 
 ## How to mark an attempt
 
-Write one mark next to each question **before** you check the key:
+Mark each guess or skip **before** opening the key. Then use the key to mark the rest Correct or Wrong.
 
 | Mark | Meaning |
 |---|---|
-| ✅ Correct | You chose the right answer and could explain why. |
-| 🤔 Guessed | You were not sure, even if the answer turned out right. |
-| ❌ Wrong | You committed to an answer and it was wrong. |
-| ⏭️ Skipped | You did not answer. |
+| Correct | You chose the right answer and could explain why. |
+| Guessed | You were not sure, even if the answer turned out right. |
+| Wrong | You committed to an answer and it was wrong. |
+| Skipped | You did not answer. |
 
 **Review guesses as well as misses.** A lucky guess is a question you would probably miss next time. For each guess or miss, write one line: what clue you missed or what mistake you made.
 
@@ -82,7 +59,7 @@ Write one mark next to each question **before** you check the key:
 
 Track first-attempt results on fresh questions only. Redos and worked examples do not count.
 
-| Date | Category / block | ✅ | 🤔 | ❌ | ⏭️ | Mistake to watch |
+| Date | Category / block | Correct | Guessed | Wrong | Skipped | Mistake to watch |
 |---|---|---|---|---|---|---|
 | | | | | | | |
 
@@ -129,10 +106,9 @@ Do the work after school, at whatever time suits you. Plan **45–60 minutes** f
 
 - **Saturday, Dec 5:** the 30 fresh questions as one **60-minute mixed practice session**, then review. Use the mixed order below.
 - **Sunday, Dec 6:** finish the remaining 20 fresh questions early in the day (mixed order below), then a shorter session of targeted redos.
-- The one-hour timing is a practice setting, not a confirmed test format.
 - Questions Q26–Q30 in every category are saved for this weekend. Don't open them early.
 
-Work through each list in order, writing your answer and a mark (✅/🤔/❌/⏭️) for every question on paper. **Open the answer keys only after you finish the whole session.** Each key is at the bottom of that category's Doing page.
+Work through each list in order. Write your answers on paper and mark your guesses and skips. **Open the answer keys only after you finish the whole session.** Each key is at the bottom of that category's Doing page.
 
 #### Saturday Dec 5 mixed session (30 questions, 60 minutes)
 
@@ -192,9 +168,9 @@ Work through each list in order, writing your answer and a mark (✅/🤔/❌/�
 
 #### Final-weekend scoring sheet
 
-After each session, count your marks from paper. Then open the keys, check every answer, and fill in the row. Change a ✅ to ❌ if the key disagrees; keep 🤔 even when the guess was right.
+After each session, open the keys, mark your answers, and count the results. Keep Guessed even if the guess was right.
 
-| Session | Questions | ✅ | 🤔 | ❌ | ⏭️ | Categories to review |
+| Session | Questions | Correct | Guessed | Wrong | Skipped | Categories to review |
 |---|---:|---|---|---|---|---|
 | Sat Dec 5 mixed | 30 | | | | | |
 | Sun Dec 6 | 20 | | | | | |

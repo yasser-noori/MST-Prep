@@ -168,47 +168,6 @@ def ecology():
     save("S1", "sol06-shared-grass", fig)
 
 
-def chromosomes(name, title, labels, nucleus, chromosome, neighbours=()):
-    left_label, right_label = labels
-    fig = card(584, 186, title,
-               f"{nucleus}. The enlarged DNA strand marks two distinct segments: {left_label} and {right_label}.")
-    fig.circle(89, 112, 56, BLUE_FILL, BLUE, 2)
-    chromosome_labels = [(110, chromosome, ORANGE)]
-    chromosome_labels.extend((y, label, MUTED) for y, label in zip((81, 139), neighbours))
-    for y, label, color in chromosome_labels:
-        fig.line(55, y, 105, y, color, 3)
-        fig.text(118, y + 5, label, 14, anchor="middle")
-    fig.text(89, 178, "Nucleus", 13, MUTED, "middle")
-    fig.line(154, 110, 206, 110, MUTED, arrow=True)
-    fig.text(180, 99, "Zoom", 13, MUTED, "middle")
-    fig.line(225, 110, 554, 110, INK, 2)
-    for x, label, fill in [(246, left_label, BLUE_FILL), (411, right_label, ORANGE_FILL)]:
-        fig.rect(x, 100, 85, 20, fill, INK, rx=5)
-        fig.line(x + 42.5, 120, x + 42.5, 136, MUTED)
-        fig.text(x + 42.5, 153, label, 14, anchor="middle")
-    save("S2", name, fig)
-
-
-def cells():
-    chromosomes("learn-gene-segments", "Two stretches on chromosome 3",
-                ("K1: fur colour", "K2: claw length"), "Chromosome 3 inside a nucleus", "3")
-    chromosomes("q02-chromosome-q", "Zoom in on chromosome Q",
-                ("Scale pattern", "Claw protein"), "The nucleus contains chromosomes P, Q and R",
-                "Q", ("P", "R"))
-
-    fig = card(400, 206, "Four equally likely pairs",
-               "A Bb parent contributes B or b. The four pairs are BB, Bb, bB and bb. Only bb gives brown.")
-    for x, text in [(191, "B"), (309, "b")]:
-        fig.text(x, 59, text, 16, anchor="middle", weight="bold")
-    for y, row in [(73, "B"), (119, "b")]:
-        fig.text(98, y + 25, row, 16, anchor="middle", weight="bold")
-        for x, column in [(140, "B"), (258, "b")]:
-            pair = row + column
-            box(fig, x, y, 102, pair, GREEN_FILL if pair == "bb" else GRAY_FILL)
-    fig.text(24, 184, "One brown outcome out of four equally likely pairs.", 14)
-    save("S2", "sol09-pair-grid", fig)
-
-
 def cylinders(name, title, readings, objects, note=None):
     description = "; ".join(f"{label}: {reading} mL" for label, reading in readings)
     fig = card(520, 221, title, description + (f". {note}" if note else "."))
@@ -349,5 +308,5 @@ def forces():
 
 
 if __name__ == "__main__":
-    for draw in (geometry, algebra, sequences, logic, ecology, cells, fluids, circuits, forces):
+    for draw in (geometry, algebra, sequences, logic, ecology, fluids, circuits, forces):
         draw()
