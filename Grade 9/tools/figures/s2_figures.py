@@ -13,28 +13,30 @@ def centre(fig, x, y, text, size=17):
 
 
 def cell_types():
-    fig = Fig(600, 255, "Typical leaf and cheek cells",
+    fig = Fig(600, 262, "Typical leaf and cheek cells",
               "Both have a cell membrane and a nucleus. Only the leaf cell shown has a cell wall and chloroplasts.")
-    centre(fig, 151, 35, "Green leaf cell")
-    centre(fig, 451, 35, "Cheek cell")
-    fig.rect(58, 70, 186, 126, "#fff", INK, 3, rx=22)
-    fig.rect(68, 80, 166, 106, BLUE_FILL, BLUE, 3, rx=15)
-    fig.path("M365 125 Q366 83 426 80 Q501 66 533 108 Q553 153 510 176 Q459 200 408 182 Q363 163 365 125 Z",
+    centre(fig, 151, 34, "Green leaf cell")
+    centre(fig, 451, 34, "Cheek cell")
+    fig.rect(58, 82, 186, 126, "#fff", INK, 3, rx=22)
+    fig.rect(68, 92, 166, 106, BLUE_FILL, BLUE, 3, rx=15)
+    fig.path("M365 141 Q366 99 426 96 Q501 82 533 124 Q553 169 510 192 Q459 216 408 198 Q363 179 365 141 Z",
              BLUE_FILL, BLUE, 3)
-    for x, y in ((145, 128), (449, 129)):
+    for x, y in ((145, 140), (449, 145)):
         fig.circle(x, y, 23, ORANGE_FILL, ORANGE, 2)
-    for x, y in ((100, 106), (192, 104), (204, 150), (109, 158)):
+    for x, y in ((100, 118), (192, 116), (204, 162), (109, 170)):
         fig.circle(x, y, 10, GREEN_FILL, GREEN, 2)
         fig.line(x - 5, y, x + 5, y, GREEN, 1.5)
-    fig.line(36, 228, 56, 228, INK, 3)
-    fig.text(64, 233, "Cell wall")
-    fig.line(152, 228, 172, 228, BLUE, 3)
-    fig.text(180, 233, "Cell membrane")
-    fig.circle(328, 228, 8, ORANGE_FILL, ORANGE, 2)
-    fig.text(344, 233, "Nucleus")
-    fig.circle(431, 228, 8, GREEN_FILL, GREEN, 2)
-    fig.line(427, 228, 435, 228, GREEN, 1.5)
-    fig.text(447, 233, "Chloroplast")
+    fig.line(85, 68, 99, 82, MUTED)
+    centre(fig, 69, 62, "Cell wall", 15)
+    fig.line(206, 68, 206, 92, BLUE)
+    centre(fig, 206, 62, "Cell membrane", 15)
+    fig.line(495, 68, 509, 102, BLUE)
+    centre(fig, 495, 62, "Cell membrane", 15)
+    fig.line(65, 225, 102, 177, GREEN)
+    centre(fig, 62, 245, "Chloroplast", 15)
+    for x, y in ((145, 163), (449, 168)):
+        fig.line(x, 225, x, y, ORANGE)
+        centre(fig, x, 245, "Nucleus", 15)
     return fig
 
 

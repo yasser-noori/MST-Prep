@@ -55,6 +55,23 @@ def circle_measurements():
     return fig
 
 
+def combined_shape():
+    fig = card(184, "A rectangle with a round end",
+               "A rectangle measures 8 centimetres by 6 centimetres. A semicircle with radius 3 "
+               "centimetres shares the right-hand side. The shared side is dashed, and the solid "
+               "outline follows the perimeter.")
+    fig.rect(76, 61, 112, 84, BLUE_FILL, "none")
+    fig.path("M188,61 A42,42 0 0 1 188,145 Z", ORANGE_FILL, "none")
+    fig.path("M188,61 H76 V145 H188 A42,42 0 0 0 188,61", stroke=INK, sw=2.5)
+    fig.line(188, 61, 188, 145, MUTED, 1.5, dash="5 4")
+    centre(fig, 132, 166, "8 cm", 15)
+    centre(fig, 49, 108, "6 cm", 15)
+    fig.path("M188,103 H246", stroke=MUTED)
+    fig.text(260, 97, "Shared side = diameter = 6 cm", 15, weight="bold")
+    fig.text(260, 121, "Radius = 3 cm", 15)
+    return fig
+
+
 def tank_views():
     fig = card(236, "Same base, three heights",
                "The water depth reaches the surface, the gap runs from the surface to the rim, "
@@ -191,6 +208,7 @@ def generate():
     ASSETS.mkdir(parents=True, exist_ok=True)
     for name, draw in (
         ("learn-circle-measurements", circle_measurements),
+        ("learn-combined-shape", combined_shape),
         ("learn-tank-heights", tank_views),
         ("learn-depth-from-volume", depth_from_volume),
         ("learn-scaling", scaling),

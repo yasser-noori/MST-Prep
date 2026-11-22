@@ -54,7 +54,10 @@ def beam(name, marks, pivot, loads, *, arms=(), note=None):
 
     description = f"Beam with pivot at {label(pivot)}. "
     description += " ".join(f"{load} at {label(mark)}." for mark, load in loads)
-    description += " ".join(f"{reading} from {label(mark)} to the pivot." for mark, reading in arms)
+    if arms:
+        description += " " + " ".join(
+            f"{reading} from {label(mark)} to the pivot." for mark, reading in arms
+        )
     if note:
         description += f" {note}"
     height = 229 if note else 204 if arms else 164
@@ -237,7 +240,7 @@ def main():
     DESTINATION.mkdir(parents=True, exist_ok=True)
     scissors()
     beam("learn-measure-from-pivot", range(9), 5, [(2, "4 N"), (7, "3 N")],
-         arms=[(1, "3 marks"), (6, "2 marks")])
+         arms=[(2, "3 marks"), (7, "2 marks")])
     turning_totals()
     line_forces("learn-cart-motion", "Cart", [6], [3], motion="Cart moves right")
 
