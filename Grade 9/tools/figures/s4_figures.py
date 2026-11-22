@@ -45,7 +45,7 @@ class Part:
 
     @property
     def radius(self):
-        return {"switch": 16, "lamp": 13, "sample": 16, "site": 0, "material": 19}[self.kind]
+        return {"switch": 16, "lamp": 13, "sample": 16, "site": 0, "material": 19, "break": 9}[self.kind]
 
     def draw(self, fig, y, color):
         x, radius = self.x, self.radius
@@ -63,6 +63,9 @@ class Part:
             wire(fig, x - radius, y, x + radius, y - angle, color)
             contact(fig, x - radius, y, color)
             contact(fig, x + radius, y, color)
+        elif self.kind == "break":
+            fig.line(x - 5, y - 5, x + 5, y + 5, INK, 2)
+            fig.line(x - 5, y + 5, x + 5, y - 5, INK, 2)
         elif self.kind == "site":
             fig.rect(x - 8, y - 7, 16, 14, "none", MUTED, 1, 3, dash="3 2")
         else:
@@ -357,6 +360,95 @@ def solutions():
     save(fig, "sol29-track-snapshots")
 
 
+def series_question(name, title, description, *parts):
+    fig = card(584, 124, title, description)
+    series(fig, 79, parts)
+    save(fig, name)
+
+
+def branch_question(name, title, description, left, right, branches, entering=(), leaving=()):
+    fig = card(584, 123 + 58 * (len(branches) - 1), title, description)
+    rows = [(78 + 58 * index, parts) for index, parts in enumerate(branches)]
+    fork(fig, left, right, rows, entering, leaving)
+    save(fig, name)
+
+
+def additional_drills():
+    branch_question("q02-two-bulbs", "Bulbs L and M", "Each bulb starts out lit on a separate branch.",
+                    137, 447, [(lamp(289, "L", "lit"),), (lamp(289, "M", "lit"),)])
+    series_question("q04-test-gap", "Bulb tester", "The wire joins the battery terminals through a bulb and a test gap.",
+                    lamp(193, "Bulb"), sample(383, "Test gap"))
+    branch_question("q06-return-switch", "Two branches with a shared return",
+                    "A and L are on one branch, B and R are on the other, and C is shared.",
+                    128, 417, [(switch(202, "A"), lamp(329, "L")), (switch(202, "B"), lamp(329, "R"))],
+                    leaving=(switch(485, "C"),))
+    branch_question("q08-three-bulbs", "Three bulbs on two branches",
+                    "Switch A is open with P. Closed B shares a branch with Q and R.",
+                    117, 488, [(lamp(192, "P"), switch(393, "A", "open")),
+                               (lamp(192, "Q"), lamp(290, "R"), switch(393, "B", "closed"))])
+    branch_question("q10-two-switch-paths", "Two switch paths feed lamp L",
+                    "The routes through P and Q rejoin before the lamp.",
+                    135, 371, [(switch(252, "P"),), (switch(252, "Q"),)], leaving=(lamp(466, "L"),))
+    series_question("q13-bypass-contacts", "Two switches and a bulb",
+                    "Switch P is open. Switch Q is closed. Both are on the path to the bulb.",
+                    switch(153, "P", "open"), switch(281, "Q", "closed"), lamp(421, "Bulb"))
+    series_question("q14-model-house", "Attic and hall bulbs",
+                    "The path runs through switch A and the attic bulb, then switch H and the hall bulb.",
+                    switch(122, "A", "closed"), lamp(232, "Attic"), switch(342, "H", "closed"), lamp(452, "Hall"))
+    branch_question("q16-branch-pairs", "Four bulbs on three branches",
+                    "The top branch contains J and K. L and M each have their own branch.",
+                    139, 445, [(lamp(242, "J"), lamp(342, "K")), (lamp(292, "L"),), (lamp(292, "M"),)])
+    series_question("q17-door-and-floor", "Door and floor switches",
+                    "Switches D and F are one after the other on the route to the lamp.",
+                    switch(155, "D"), switch(282, "F"), lamp(418, "Lamp"))
+    branch_question("q18-three-branches", "One switch per branch",
+                    "Closed A is with bulb 1, closed B is with bulb 2, and open C is with bulb 3.",
+                    124, 460, [(switch(222, "A", "closed"), lamp(370, "Bulb 1")),
+                               (switch(222, "B", "closed"), lamp(370, "Bulb 2")),
+                               (switch(222, "C", "open"), lamp(370, "Bulb 3"))])
+    branch_question("q19-lamp-switches", "Three switches control one lamp",
+                    "Switches A and B are on separate routes. Both routes use C and L after they rejoin.",
+                    112, 333, [(switch(224, "A"),), (switch(224, "B"),)],
+                    leaving=(switch(397, "C"), lamp(486, "L")))
+    series_question("q20-strip-tester", "Tester with a strip across the gap",
+                    "The strip's ends are in contact on either side of the tester gap.",
+                    Part(201, "material", "Strip"), lamp(387, "Lamp"))
+    branch_question("q21-lit-left-bulb", "The left bulb is lit",
+                    "The lit bulb comes before a split through A or B. Both routes use C after they rejoin.",
+                    211, 430, [(switch(322, "A"),), (switch(322, "B"),)],
+                    entering=(lamp(129, "Left lit", "lit"),), leaving=(switch(486, "C"),))
+    branch_question("q22-master-switch", "A master switch after the split",
+                    "Closed P is with Map, closed Q is with Clock, and the shared master switch is open.",
+                    124, 415, [(switch(204, "P", "closed"), lamp(322, "Map")),
+                               (switch(204, "Q", "closed"), lamp(322, "Clock"))],
+                    leaving=(switch(482, "Master", "open"),))
+    series_question("q24-clip-tester", "Tester with two metal clips",
+                    "The bulb lights if a conductor makes a path across both clips.",
+                    lamp(187, "Bulb"), sample(385, "Clips"))
+    series_question("q25-dark-bulbs", "Two dark bulbs on one path",
+                    "Both bulbs are dark. The route goes through closed M, P, unknown B, Q, and closed A.",
+                    switch(106, "M", "closed"), lamp(201, "P dark"), switch(292, "B"),
+                    lamp(383, "Q dark"), switch(478, "A", "closed"))
+    series_question("q26-beacon", "Beacon with two switches",
+                    "Switch S and switch T share the only route to the beacon.",
+                    switch(163, "S"), lamp(291, "Beacon"), switch(418, "T"))
+    branch_question("q28-fold-breaks", "Breaks marked by an X",
+                    "The fold cuts the wire before P and the wire after Q. R's wire stays intact.",
+                    116, 473, [(Part(179, "break", "Break"), lamp(286, "P")),
+                               (lamp(286, "Q"), Part(403, "break", "Break")),
+                               (lamp(286, "R"),)])
+    fig = card(584, 197, "Two clips test a pair of pins",
+               "The battery and test bulb are connected to two loose clips. The plug has three separate pins, "
+               "labelled 1, 2 and 3. Clip to just two pins for each test.")
+    series(fig, 78, (lamp(165, "Test bulb"), sample(370, "Loose clips")))
+    fig.rect(150, 119, 320, 61, BLUE_FILL, MUTED, 1.4, 6)
+    fig.text(173, 156, "Plug pins", 14, weight="bold")
+    for pin, x in enumerate((303, 365, 427), 1):
+        contact(fig, x, 141)
+        fig.text(x, 166, pin, 13, anchor="middle")
+    save(fig, "q30-plug-pins")
+
+
 if __name__ == "__main__":
     teaching()
     q03_and_q05()
@@ -365,4 +457,5 @@ if __name__ == "__main__":
     q15_and_q23()
     q27_cable()
     q29_tracks()
+    additional_drills()
     solutions()

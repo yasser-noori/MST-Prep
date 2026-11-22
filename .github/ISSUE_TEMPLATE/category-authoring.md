@@ -14,24 +14,13 @@ assignees: []
 
 Do not edit any other file. The integration agent owns the README.
 
-## Evidence
-
-**Original recollection:**
--
-
-**Follow-up recognition:**
--
-
-**Extension:**
--
-
 ## Category brief
 
 <!-- Copy the category brief from CONTRIBUTING.md: teach, families, model example, boundaries. -->
 
 ## Contract
 
-- `1. Learning.md`: 3–4 core patterns (clue, decision, check), exactly one worked A–E example with the decisive step and the most tempting wrong answer, link to `2. Doing.md`.
+- `1. Learning.md`: plain-language prerequisites, 3–4 core patterns (clue, decision, check), exactly one worked A–E example with the decisive step and the most tempting wrong answer, link to `2. Doing.md`.
 - `2. Doing.md`: exactly 30 original A–E drills, `<ID>-Q01`–`<ID>-Q30`, with `<a id="<id>-qNN"></a>` anchors.
 - 18 Medium + 12 Challenge; six blocks of five, each 3 Medium + 2 Challenge in varied order.
 - Tier labels only in the answer key at the bottom.
